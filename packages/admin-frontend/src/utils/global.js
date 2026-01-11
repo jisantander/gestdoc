@@ -1,0 +1,1 @@
+export const PROCEDURE_HAS_ENDED = "HAS_ENDED";

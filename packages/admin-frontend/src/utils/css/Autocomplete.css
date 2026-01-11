@@ -1,0 +1,15 @@
+.autocompleteControl {
+	width: 250px;
+	padding-left: 7px;
+	margin-top: 10px;
+	padding-right: 14px;
+}
+
+.autocompleteControl .MuiAutocomplete-endAdornment {
+	top: 5px;
+	right: -8px !important;
+}
+
+.filter-date button {
+	border: 0px !important;
+}

@@ -1,0 +1,1412 @@
+db.histories.insertMany([
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c36"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c37"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c38"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c39"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c3a"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c3b"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c3c"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c3d"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c3e"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c3f"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c40"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c41"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c42"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c43"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c44"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c45"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c46"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c47"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c48"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c49"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c4a"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c4b"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c4c"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c4d"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c4e"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c4f"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c50"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c51"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c52"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c53"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c54"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c55"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c56"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c57"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c58"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c59"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c5a"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c5b"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c5c"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c5d"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c5e"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c5f"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c60"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c61"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c62"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c63"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c64"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c65"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c66"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c67"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c68"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c69"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c6a"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c6b"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c6c"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c6d"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c6e"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c6f"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c70"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c71"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c72"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c73"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c74"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c75"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c76"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c77"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c78"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c79"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c7a"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c7b"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c7c"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c7d"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c7e"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c7f"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c80"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c81"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c82"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c83"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c84"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c85"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c86"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c87"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c88"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c89"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c8a"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c8b"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c8c"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c8d"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c8e"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c8f"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c90"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c91"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c92"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c93"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c94"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c95"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c96"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c97"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c98"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c99"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c9a"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c9b"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c9c"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c9d"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c9e"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069c9f"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca0"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca1"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca2"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca3"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca4"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca5"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca6"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca7"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca8"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ca9"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069caa"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cab"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cac"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cad"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cae"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069caf"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb0"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb1"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb2"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb3"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb4"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb5"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb6"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb7"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb8"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cb9"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cba"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cbb"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cbc"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cbd"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cbe"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cbf"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc0"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc1"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc2"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc3"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc4"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc5"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc6"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc7"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc8"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cc9"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cca"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ccb"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ccc"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ccd"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cce"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ccf"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd0"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd1"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd2"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd3"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd4"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd5"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd6"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd7"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd8"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cd9"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cda"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cdb"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cdc"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cdd"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cde"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069cdf"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ce0"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ce1"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ce2"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ce3"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ce4"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    },
+
+    {
+        "_operationId" : ObjectId("59971d874b30b1a18f069ce5"),
+        "_taskName" : "Ingreso de Datos",
+        "_doneBy" : "Admin Instrador",
+        "_observation" : "Operación agregada vía ingreso masivo",
+        "__v" : 0
+    }],
+   {
+      ordered: false
+   }
+)

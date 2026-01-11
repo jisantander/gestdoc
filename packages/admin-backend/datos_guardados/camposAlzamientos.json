@@ -1,0 +1,115 @@
+{
+    "_fieldName":"fecha_extincion_credito",
+    "_type":"string",
+    "_widget":"date",
+    "_description": "Fecha Extinción Crédito"
+},
+
+{
+    "_fieldName":"fecha_recepcion_documentacion",
+    "_type":"string",
+    "_widget":"date",
+    "_description": "Fecha Recep Documentación"
+},
+
+{
+    "_fieldName":"numero_garantia",
+    "_type": "string",
+    "_description": "Número de Garantía",
+    "_placeholder": "1003510"
+},
+
+{
+    "_fieldName":"dominio",
+    "_type": "object",
+    "_description": "Dominio",
+    "_properties": [ 
+        "598db73d0daf6668591757d7",
+        "598db72a0daf6668591757d5",
+        "598db7350daf6668591757d6"
+    ]
+},
+
+{
+    "_fieldName":"fecha_firma_banco",
+    "_type": "string",
+    "_widget": "date",
+    "_description": "Fecha Firma Banco"
+},
+
+{
+    "_fieldName":"numero_repertorio",
+    "_type": "string",
+    "_description": "Número de Repertorio",
+    "_placeholder": "12345"
+},
+
+{
+    "_fieldName":"numero_caratula",
+    "_type": "string",
+    "_description": "Número de Carátula",
+    "_placeholder": "1003510"
+},
+
+{
+    "_fieldName":"valor_cbr",
+    "_type":"string",
+    "_placeholder": "2000",
+    "_description": "Valor CBR ($)"
+},
+
+{
+    "_fieldName":"valor_dif_cbr",
+    "_type":"string",
+    "_placeholder": "1500",
+    "_description": "Valor Dif. CBR ($)"
+},
+
+{
+    "_fieldName":"numero_boleta_cbr",
+    "_type": "string",
+    "_description": "Número de Boleta CBR",
+    "_placeholder": "B-100021"
+},
+
+{
+    "_fieldName":"boleta_cbr_file",
+    "_type": "string",
+    "_widget": "file",
+    "_description": "Boleta CBR"
+},
+
+{
+    "_fieldName":"boleta_dif_cbr_file",
+    "_type": "string",
+    "_widget": "file",
+    "_description": "Boleta Dif. CBR"
+},
+
+{
+    "_fieldName":"numero_boleta_dif_cbr",
+    "_type": "string",
+    "_description": "Número de Boleta Dif. CBR",
+    "_placeholder": "B-100022"
+},
+
+{
+    "_fieldName":"certificado_alzamiento_conforme_file",
+    "_type": "string",
+    "_widget": "file",
+    "_description": "Certificado Alzamiento Conforme"
+},
+
+{
+    "_fieldName":"fecha_envio_rep_bco",
+    "_type":"string",
+    "_widget":"date",
+    "_description": "Fecha Envío Rep. Banco"
+},
+
+{
+    "_fieldName":"numero_cotizacion_cbr",
+    "_type": "string",
+    "_description": "Número de Cotización CBR",
+    "_placeholder": "1003510"
+}

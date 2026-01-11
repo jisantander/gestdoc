@@ -1,0 +1,5811 @@
+db.operations.insert(
+
+[{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1996-01-12",
+        "numero_operacion": "140232930",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "POLANCO SALINAS JUAN ALBERTO",
+            "rut": "9.237.790-3",
+        },
+        "direccion": "BALDOMERO LILLO365 CJ EL ENSUEÑO",
+        "region": "V",
+        "comuna": "SAN FELIPE",
+        "cbr": "SAN FELIPE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2012-01-03",
+        "numero_operacion": "187799960",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "GUTIERREZ GOMEZ ADRIAN NICOLAS",
+            "rut": "15.081.294-1",
+        },
+        "direccion": "PASAJE EL CARRIZO410CONJ.HAB.VILLA ALTOS DEL VALLE III",
+        "region": "III",
+        "comuna": "VALLENAR",
+        "cbr": "VALLENAR"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2011-10-17",
+        "numero_operacion": "187469740",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ITURRIETA SANTANDER LUIS HUMBERTO",
+            "rut": "10.238.273-0",
+        },
+        "direccion": "PASAJE ARQUITECTO VICTOR SALAS 1511, PARQUE RESIDENCIAL COLINA DEL PINO, 3 ETAPA /VISTE HERMOSA",
+        "region": "IV",
+        "comuna": "LA SERENA",
+        "cbr": "LA SERENA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHO",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-09-11",
+        "numero_operacion": "161542980",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BENAVIDES MOURGUES GERARDO ANDRES",
+            "rut": "11.907.411-8",
+        },
+        "direccion": "AV. ALEMANIA 0587",
+        "region": "IX",
+        "comuna": "TEMUCO",
+        "cbr": "TEMUCO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2012-11-23",
+        "numero_operacion": "189334050",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ARROYO VEGA NELSON ANTONIO",
+            "rut": "12.517.739-5",
+        },
+        "direccion": "AV. KOKE 255DEP. 12, TORRE D, COND. PARQUE KOKE",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2012-09-10",
+        "numero_operacion": "188919740",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ARAYA SOTO JOHANNA MARGOT",
+            "rut": "13.059.211-2",
+        },
+        "direccion": "PASAJE LOS PALOS COLORADOS 2127CONJ. HAB. BOSQUES DE SANTA CLARA, ETAPA DOS-A",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2014-10-22",
+        "numero_operacion": "892387350",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "GUTIERREZ SANCHEZ FELIPE ANDRES",
+            "rut": "15.747.424-3",
+        },
+        "direccion": "SAN MARTIN 142DPTO.302, COND. DOÑA LORETO",
+        "region": "VII",
+        "comuna": "LINARES",
+        "cbr": "LINARES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-10-31",
+        "numero_operacion": "162745010",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "TOLEDO SALAZAR JORGE ANDRES",
+            "rut": "14.163.898-K",
+        },
+        "direccion": "CALLE VERGARA186DEPTO 905EDIFICIO UNIVERSO 2",
+        "region": "RM",
+        "comuna": "SANTIAGO",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2011-06-30",
+        "numero_operacion": "187114290",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "GOMEZ SEITZ GRACE ANGELICA",
+            "rut": "15.996.248-2",
+        },
+        "direccion": "BRISAS DEL GENOVA 1222",
+        "region": "VII",
+        "comuna": "LINARES",
+        "cbr": "LINARES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2013-01-21",
+        "numero_operacion": "889709630",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "JORDAN RAMIREZ DANIEL ALONSO",
+            "rut": "16.005.424-7",
+        },
+        "direccion": "CALLE ANIBAL BALLADARES BENAVIDES 782, CONJ.HAB.LOS CIRUELOS",
+        "region": "RM",
+        "comuna": "BUIN",
+        "cbr": "BUIN"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-03-28",
+        "numero_operacion": "100019020",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "TEJOS VELOZO JOSE ANTONIO",
+            "rut": "10.472.279-2",
+        },
+        "direccion": "PASAJE LIGURIA937, VILLA EL MOLINO / NORORIENTE",
+        "region": "VII",
+        "comuna": "LINARES",
+        "cbr": "LINARES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-10-20",
+        "numero_operacion": "199549530",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "FLORES VALENZUELA MARIA DE LOS ANGELES",
+            "rut": "14.595.137-2",
+        },
+        "direccion": "PADRE VICENTE IRARRAZABAL 1520",
+        "region": "RM",
+        "comuna": "ESTACION CENTRAL",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-03-30",
+        "numero_operacion": "172294370",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ASTUDILLO GUTIERREZ PATRICIO EDMUNDO",
+            "rut": "9.467.516-2",
+        },
+        "direccion": "MILLAHUE 660SANTA MARIA",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-COMP",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-10-01",
+        "numero_operacion": "128174030",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PEREZ GARRIDO DAVID EDUARDO",
+            "rut": "13.455.297-2",
+        },
+        "direccion": "LAUTARO 18419CJTO. HABIT. CIUDAD SATELITE DE MAIPU BARRIO AUSTRAL",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-05-28",
+        "numero_operacion": "157356610",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "TRINCADO MIRANDA MARIBEL ANDRE",
+            "rut": "12.585.048-0",
+        },
+        "direccion": "AVENIDA ARGENTINA 475CENTRO MAIPU DPT 108P 01",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-23HC",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-04-01",
+        "numero_operacion": "168726460",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MARDONES ROJAS CARLOS ALEJANDRO",
+            "rut": "9.666.186-K",
+        },
+        "direccion": "EL LIBANO ORIENTE 902CJTO. JARDIN DEL SUR / DOS",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1996-01-30",
+        "numero_operacion": "126364680",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CARVAJAL ARAYA EMILIO DENY",
+            "rut": "7.733.496-3",
+        },
+        "direccion": "BOMBERO BAEZ2263",
+        "region": "I",
+        "comuna": "IQUIQUE",
+        "cbr": "IQUIQUE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2014-10-16",
+        "numero_operacion": "893766310",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "CASTRO VALENZUELA MARIA PAZ",
+            "rut": "15.994.989-3",
+        },
+        "direccion": "PASAJE GLASGOW2786DON SEBASTIAN",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2010-02-05",
+        "numero_operacion": "173738480",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "NUNEZ PALMA PAMELA ANDREA",
+            "rut": "15.400.667-2",
+        },
+        "direccion": "ESTADIO DE QUILICURA95POBLACION LOS ADOBES IV",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-09-21",
+        "numero_operacion": "161814650",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ARRIAZA MARTINEZ JUAN EDUARDO",
+            "rut": "16.253.890-K",
+        },
+        "direccion": "PJE PUNTA GALERA1364VILLA EL TRIGAL I",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-COMP",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-04-01",
+        "numero_operacion": "169304250",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "OLIVARES ANTEZANA ALEJANDRA CAROLINA",
+            "rut": "13.006.664-K",
+        },
+        "direccion": "SAN MARTIN870EDIFICIO CENTRO NORTE DEPTO 2017",
+        "region": "RM",
+        "comuna": "SANTIAGO",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-23CH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-03-01",
+        "numero_operacion": "168721310",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "QUIROZ QUINTANA MARCELO ENRIQUE",
+            "rut": "13.031.912-2",
+        },
+        "direccion": "PASAJE DOCTOR ASENJO 696CJTO. LO ERRAZURIZ / H",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-06-29",
+        "numero_operacion": "158962820",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "RODRIGUEZ MEZA WALTER ALEXANDER",
+            "rut": "15.458.286-K",
+        },
+        "direccion": "PASAJE WALT DISNEY 814",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-12-19",
+        "numero_operacion": "166669220",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "SOTO FUMEY JAIME EDUARDO",
+            "rut": "5.616.178-3",
+        },
+        "direccion": "PJE. CERRO HUEMUL 1372POBLACION VILLA EL TRIGAL",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-23CH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-03-01",
+        "numero_operacion": "172026010",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "HENRIQUEZ BAEZA MABEL ELENA",
+            "rut": "9.970.088-2",
+        },
+        "direccion": "AV. BERNARDO OHIGGINS DEPTO. 902N° 2601EDIFICIO DON BERNARDO/REPUBLICA",
+        "region": "RM",
+        "comuna": "SANTIAGO",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-COMP",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-06-01",
+        "numero_operacion": "1593933K0",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BARRERA PENA GONZALO RODOLFO",
+            "rut": "10.328.422-8",
+        },
+        "direccion": "PASAJE DIADEMAS DOS 1125CONJ/ LOS PARQUES DE MAIPU",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-06-28",
+        "numero_operacion": "101188180",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BENAVIDES ALVAREZ ANDRES EDUARDO",
+            "rut": "16.166.724-2",
+        },
+        "direccion": "LAS TORRES PONIENTE7CJTO SANTA LUISA",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-05-17",
+        "numero_operacion": "190732640",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ITURRIAGA GARCIA JORGE HUGO",
+            "rut": "8.821.119-7",
+        },
+        "direccion": "AVDA MATTA,PASAJE PARTICULAR 934DUPLEX 11",
+        "region": "RM",
+        "comuna": "SANTIAGO",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1997-10-01",
+        "numero_operacion": "146971030",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "JOFRE ZUNIGA LUIS ANTONIO",
+            "rut": "6.316.955-2",
+        },
+        "direccion": "AMADEO CASARINO 1798",
+        "region": "V",
+        "comuna": "LOS ANDES",
+        "cbr": "LOS ANDES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-07-31",
+        "numero_operacion": "160647360",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ORTIZ JARA XIMENA DEL PILAR",
+            "rut": "11.419.948-6",
+        },
+        "direccion": "PASAJE RAMON VILLAGRAN A 626LOS JARDINES DE DON ARMANDO",
+        "region": "IX",
+        "comuna": "LAUTARO",
+        "cbr": "LAUTARO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-10-01",
+        "numero_operacion": "172038960",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MALDONADO FLORES JESSICA DEL PILAR",
+            "rut": "16.419.473-6",
+        },
+        "direccion": "CALLE DOMINGO FAUSTINO SARMIENTO 198CJTO ARTURO PRAT",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-12-05",
+        "numero_operacion": "881608800",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "ORTEGA MORA LUCIANO JOAQUIN",
+            "rut": "12.655.055-3",
+        },
+        "direccion": "LAS GOLONDRINAS ORIENTE 4339BARRIO LAS ROS",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2013-06-27",
+        "numero_operacion": "191239460",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PEREZ GUAJARDO GUILLERMO ANTONIO",
+            "rut": "13.051.874-5",
+        },
+        "direccion": "AVENIDA LA FLORIDA7261-BDP.21, POB. ALONSO DE ERCILLA, SECTOR UNO ORIENTE",
+        "region": "RM",
+        "comuna": "LA FLORIDA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-06-09",
+        "numero_operacion": "100687130",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ZAPATA IBACACHE RICARDO ELIAS",
+            "rut": "13.128.275-3",
+        },
+        "direccion": "CAMINO ORILLA DE AUQUINCOSECTOR PARCELA 9PROYECTO PARCELACION TRAIGUEN",
+        "region": "VI",
+        "comuna": "CHEPICA",
+        "cbr": "SANTA CRUZ"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2010-09-29",
+        "numero_operacion": "882848570",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "GUEVARA GUTIERREZ OMAR ANDRES",
+            "rut": "14.152.265-5",
+        },
+        "direccion": "PASAJE BENEDICTO SOTO 701CJTO LOS CIPRESES, 1° ETAPA",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2010-07-12",
+        "numero_operacion": "882683980",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "RODRIGUEZ BRIONES SOLEDAD GRACIELA",
+            "rut": "14.150.913-6",
+        },
+        "direccion": "GUILLERMO GARCIA BURR 1655DPTO. 408, EDIF. DON OSCAR, COND. BOSQUES DE EL TABO II",
+        "region": "V",
+        "comuna": "EL TABO",
+        "cbr": "SAN ANTONIO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-09-01",
+        "numero_operacion": "873831420",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "GUTIERREZ ROMO OSVALDO SIGISFREDO",
+            "rut": "6.559.253-3",
+        },
+        "direccion": "25 SUR 4 Y M PTE 370",
+        "region": "VII",
+        "comuna": "MAULE",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-03-14",
+        "numero_operacion": "141814090",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "POBLETE VIVANCO MIGUEL ANGEL",
+            "rut": "13.959.423-1",
+        },
+        "direccion": "LORENZO DE MEDICIS 6622VILLA RENACIMI",
+        "region": "RM",
+        "comuna": "LA FLORIDA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-08-04",
+        "numero_operacion": "872567280",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "TRONCOSO RIVAS ROSA ESTER",
+            "rut": "15.826.669-5",
+        },
+        "direccion": "SIN DIRECCIÓN",
+        "region": "VII",
+        "comuna": "MAULE",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-03-18",
+        "numero_operacion": "869101300",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "CORTES FLORES MAURICIO ALEJANDRO",
+            "rut": "16.816.377-0",
+        },
+        "direccion": "AV. CIRCUNVALACION MONJITAS PONIENTE 3083LOS TORREONES III ETAPA",
+        "region": "IV",
+        "comuna": "LA SERENA",
+        "cbr": "LA SERENA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-05-31",
+        "numero_operacion": "862704170",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "ROJAS ARAYA MAURICIO ALEJANDRO",
+            "rut": "9.509.546-1",
+        },
+        "direccion": "CALLE 2592DON PABLO",
+        "region": "VII",
+        "comuna": "TALCA",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-03-22",
+        "numero_operacion": "194887660",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CARMONA BALBONTIN JULIO IGNACIO",
+            "rut": "11.841.028-9",
+        },
+        "direccion": "MONVOISIN 3020LOS GIRASOLES III - A",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-11-01",
+        "numero_operacion": "152096680",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CABEZAS ARENAS JUAN PABLO",
+            "rut": "12.853.637-K",
+        },
+        "direccion": "SIN DIRECCIÓN",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2010-05-31",
+        "numero_operacion": "879257510",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "BUSTOS MUNOZ RICARDO CESAR",
+            "rut": "9.273.780-2",
+        },
+        "direccion": "SIN DIRECCIÓN",
+        "region": "VII",
+        "comuna": "CORONEL",
+        "cbr": "CORONEL"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-07-29",
+        "numero_operacion": "178904940",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MORALES GUTIERREZ ENRIQUE GERONIMO",
+            "rut": "9.153.490-8",
+        },
+        "direccion": "GOBERNADOR VICTOR HERRERA HERRERA 1868CJTO. HABIT. VILLA TRASANDINO I ETAPA",
+        "region": "V",
+        "comuna": "LOS ANDES",
+        "cbr": "LOS ANDES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-12-02",
+        "numero_operacion": "867724470",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "BUSTAMANTE SEPULVEDA MOISES ALEJANDRO",
+            "rut": "15.499.363-0",
+        },
+        "direccion": "PRESIDENTE CARLOS IBAÑEZ DEL CAMPO 677CONJUNTO DON FRANCISCO - COLBUN",
+        "region": "VII",
+        "comuna": "COLBUN",
+        "cbr": "LINARES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-12-13",
+        "numero_operacion": "863035280",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "SANDOVAL MUNOZ MARIA BEATRIZ",
+            "rut": "11.353.650-0",
+        },
+        "direccion": "PASAJE LARAQUETE 86",
+        "region": "VIII",
+        "comuna": "CORONEL",
+        "cbr": "CORONEL"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-11-17",
+        "numero_operacion": "872270510",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "MANSILLA SEPULVEDA HARDY GERMAIN",
+            "rut": "13.820.260-7",
+        },
+        "direccion": "PASAJE LAS BEGONIAS1177CJTO VISTA HERMOSA",
+        "region": "XIV",
+        "comuna": "LA UNION",
+        "cbr": "LA UNION"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-12-01",
+        "numero_operacion": "146616720",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CONTRERAS BALTRA BARBARA ANDREA",
+            "rut": "12.961.825-6",
+        },
+        "direccion": "PASAJE SAN ABRAHAM 1246",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-04-07",
+        "numero_operacion": "171844250",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CABRERA FUENTES CESAR EDUARDO",
+            "rut": "14.316.411-K",
+        },
+        "direccion": "PASAJE LAS ASTROMELIAS1151CARDENAL SAMORE VI",
+        "region": "V",
+        "comuna": "VALPARAISO",
+        "cbr": "VALPARAISO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-11-01",
+        "numero_operacion": "127826930",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "GONZALEZ GONZALEZ FRANCESCA ANDREA",
+            "rut": "13.942.399-2",
+        },
+        "direccion": "LOS CANCILLERES 1574",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-10-06",
+        "numero_operacion": "855560580",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "MENDOZA RODRIGUEZ NANCY YANNETTE",
+            "rut": "10.350.192-K",
+        },
+        "direccion": "PRAT NORTE, ELEUTERIO RAMIREZ 54",
+        "region": "VIII",
+        "comuna": "CURANILAHUE",
+        "cbr": "CURANILAHUE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-07-31",
+        "numero_operacion": "872931510",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "ABARZA MARTINEZ LORENA ANGELICA",
+            "rut": "14.016.701-0",
+        },
+        "direccion": "SIN DIRECCIÓN",
+        "region": "VII",
+        "comuna": "MAULE",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2010-11-30",
+        "numero_operacion": "883144540",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "CASTILLO CASTILLO JOSE ALFREDO",
+            "rut": "12.396.317-2",
+        },
+        "direccion": "LAS TORCASAS496DP.216 _ ED.2_ CONJ. MIRADOR DON VICENTE.",
+        "region": "IV",
+        "comuna": "OVALLE",
+        "cbr": "OVALLE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2011-03-08",
+        "numero_operacion": "886275680",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "AGUILERA ROJAS RODOLFO ANTONIO",
+            "rut": "16.335.741-0",
+        },
+        "direccion": "PASAJE LOS PEÑASCOS 2207CONJ HAB LOS ALMENDROS",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2011-06-30",
+        "numero_operacion": "186976710",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ESPINOZA ARAVENA JOSE PABLO",
+            "rut": "17.211.563-2",
+        },
+        "direccion": "BLANCO 22DPTO 404 BLOCK D COND BAJOS DEL MUTRUN",
+        "region": "VII",
+        "comuna": "CONSTITUCION",
+        "cbr": "CONSTITUCION"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-04-06",
+        "numero_operacion": "168906790",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CATALAN FARIAS DANIEL ENRIQUE",
+            "rut": "14.245.196-4",
+        },
+        "direccion": "PASAJE LAGO HURON1480VILLA CANADA",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2011-03-31",
+        "numero_operacion": "884844140",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "AHUMADA BELTRAN ANDREA ALEJANDRA",
+            "rut": "13.596.374-7",
+        },
+        "direccion": "PASAJE MARTA BRUNET PONIENTE 786VILLA CONAVICOOP CURICO",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "-8629-01-06",
+        "numero_operacion": "873831690",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "DIAZ RODRIGUEZ PABLO RAMON",
+            "rut": "13.101.574-7",
+        },
+        "direccion": "5 PONIENTE B0729",
+        "region": "VII",
+        "comuna": "MAULE",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-02-01",
+        "numero_operacion": "828592030",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "REYES PARRA MARIA ANGELICA",
+            "rut": "11.764.638-6",
+        },
+        "direccion": "AVENIDA SANTA MARIA939",
+        "region": "VIII",
+        "comuna": "CONSTITUCION",
+        "cbr": "CONSTITUCION"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MH0",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-08-27",
+        "numero_operacion": "176229530",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "NAVES PRADO MARIA PAZ",
+            "rut": "12.477.268-0",
+        },
+        "direccion": "PJE. REINA VICTORIA5124CJ. VILLA LOS CLAVELES TRES DE PAJARITOS",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-10-01",
+        "numero_operacion": "139793930",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MENESES CARMONA LUIS ARTURO",
+            "rut": "9.285.087-0",
+        },
+        "direccion": "FLORENCIA 1698",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-07-31",
+        "numero_operacion": "800964660",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "LAZO TEJADA JOSE MANUEL",
+            "rut": "13.696.392-9",
+        },
+        "direccion": "PASAJE 6 3572",
+        "region": "V",
+        "comuna": "QUINTERO",
+        "cbr": "QUINTERO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-01-01",
+        "numero_operacion": "100974110",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CANELO CATALDO JUAN ANDRES",
+            "rut": "12.953.776-0",
+        },
+        "direccion": "LOS LUCUMOS POBLACION AMANECER 1330",
+        "region": "V",
+        "comuna": "QUILLOTA",
+        "cbr": "QUILLOTA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-04-06",
+        "numero_operacion": "871634280",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "FARFAN TOBAR ESTEFANY ALEJANDRA INES",
+            "rut": "16.881.490-9",
+        },
+        "direccion": "CALLE ADRIANA GARCIA IBANEZ 1999",
+        "region": "VII",
+        "comuna": "SAN JAVIER",
+        "cbr": "SAN JAVIER"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-11-01",
+        "numero_operacion": "151278820",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "DIAZ DIAZ CLAUDIA DE LAS MERCEDES",
+            "rut": "13.926.430-4",
+        },
+        "direccion": "LOS EMBOBINADORES 4477",
+        "region": "RM",
+        "comuna": "PUENTE ALTO",
+        "cbr": "PUENTE ALTO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-03-31",
+        "numero_operacion": "839563930",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "ELGUETA COVARRUBIA MARCELA ANDREA",
+            "rut": "11.468.795-2",
+        },
+        "direccion": "FRANCISCO ROSENDE 740",
+        "region": "V",
+        "comuna": "LOS ANDES",
+        "cbr": "LOS ANDES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-06-01",
+        "numero_operacion": "154352500",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MUNOZ PINO MARIA EUGENIA",
+            "rut": "8.862.115-8",
+        },
+        "direccion": "VILLA SAN MARTIN PASAJE 4 DE OCTUBRE 1024",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-05-26",
+        "numero_operacion": "871982480",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "ARRIAGADA GARRIDO JAIME ANDRES",
+            "rut": "15.220.490-6",
+        },
+        "direccion": "OHIGGINS 4033",
+        "region": "VII",
+        "comuna": "HUALQUI",
+        "cbr": "CHIGUAYANTE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-03-04",
+        "numero_operacion": "164733260",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "TORO CISTERNA CARMEN MARINA",
+            "rut": "15.412.101-3",
+        },
+        "direccion": "AVDA LAS TORRES82",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-07-19",
+        "numero_operacion": "857665910",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "QUINTANILLA VALDES LUIS ENRIQUE",
+            "rut": "13.365.584-0",
+        },
+        "direccion": "QUITO309",
+        "region": "V",
+        "comuna": "CALERA",
+        "cbr": "CALERA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-08-08",
+        "numero_operacion": "857668690",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "TAPIA ALBORNOZ IVAN ULISES",
+            "rut": "13.753.191-7",
+        },
+        "direccion": "BUENOS AIRES 323",
+        "region": "V",
+        "comuna": "CALERA",
+        "cbr": "CALERA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-07-27",
+        "numero_operacion": "872579960",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "VENEGAS ALVAREZ FERNANDO OMAR",
+            "rut": "15.284.569-3",
+        },
+        "direccion": "PASAJE FRAY ANTONIO GAVILUCCI1393ALTOS DE GAMBOA",
+        "region": "X",
+        "comuna": "CASTRO",
+        "cbr": "CASTRO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-05-23",
+        "numero_operacion": "867702230",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "HERRERA HERRERA MARIO EDUARDO",
+            "rut": "17.441.931-0",
+        },
+        "direccion": "PJE. TIFLIS 2754 DONB SEBASTIAN RAUQUEN",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-08-03",
+        "numero_operacion": "872570660",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "CARRENO GALAZ JOSE MIGUEL",
+            "rut": "16.870.534-4",
+        },
+        "direccion": "CALLE ALCALDE RAUL ARELLANO N 1175, DON SEBASTIAN III",
+        "region": "VII",
+        "comuna": "ROMERAL",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-06-29",
+        "numero_operacion": "152182760",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ROA ORTEGA ALEJANDRA CAROL DEL CARMEN",
+            "rut": "10.818.222-9",
+        },
+        "direccion": "AVENIDA DORSAL1301DPTO 13",
+        "region": "RM",
+        "comuna": "SANTIAGO",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-COMP",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-04-01",
+        "numero_operacion": "1693062K0",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "OLIVARES ANTEZANA ALEJANDRA CAROLINA",
+            "rut": "13.006.664-K",
+        },
+        "direccion": "SAN MARTIN870EDIFICIO CENTRO NORTE DEPTO 2018",
+        "region": "RM",
+        "comuna": "SANTIAGO",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-09-01",
+        "numero_operacion": "159450380",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MARTIN GONZALEZ PABLO CAMILO",
+            "rut": "8.233.223-5",
+        },
+        "direccion": "PASAJE JOSE MANUEL RAMIREZ 234",
+        "region": "V",
+        "comuna": "VALPARAISO",
+        "cbr": "VALPARAISO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Sólo GP",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1997-06-01",
+        "numero_operacion": "142196350",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "FUENTES RAMOS JACQUELINE DE LAS MERCEDES",
+            "rut": "7.885.178-3",
+        },
+        "direccion": "PJE. 1 LOPE DE VEGA 1363 STA. SABINA",
+        "region": "VIII",
+        "comuna": "CONCEPCIÓN",
+        "cbr": "CONCEPCION"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-05-29",
+        "numero_operacion": "828659040",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "CACERES FAUNDEZ MARCELA DEL CARMEN",
+            "rut": "7.679.165-1",
+        },
+        "direccion": "BERCELONA485",
+        "region": "VII",
+        "comuna": "MAULE",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-09-29",
+        "numero_operacion": "127721400",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "LARENAS PEREZ PAULA MARITZA",
+            "rut": "14.545.108-6",
+        },
+        "direccion": "PSJE BRAULIO ARENAS 1216CJTO HAB ROQUE ESTEBAN SCARPA LOTE 29",
+        "region": "V",
+        "comuna": "VILLA ALEMANA",
+        "cbr": "VILLA ALEMANA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1997-01-02",
+        "numero_operacion": "139065740",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CASTILLO LEYTON MARCELA DEL CARMEN",
+            "rut": "11.184.827-0",
+        },
+        "direccion": "SIN DIRECCIÓN",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-10-01",
+        "numero_operacion": "147920920",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PUGA SANCHEZ CAROLINA DEL TRANSITO",
+            "rut": "13.061.967-3",
+        },
+        "direccion": "PJE EL QUELON 81",
+        "region": "IV",
+        "comuna": "LOS VILOS",
+        "cbr": "LOS VILOS"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-01-01",
+        "numero_operacion": "162431500",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BENAVIDES ULLOA JOSE EUGENIO",
+            "rut": "11.791.804-1",
+        },
+        "direccion": "JUAN FRANCISCO GONZALEZ 717",
+        "region": "RM",
+        "comuna": "BUIN",
+        "cbr": "BUIN"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-06-28",
+        "numero_operacion": "800962100",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "VARGAS FERNANDEZ CRISTIAN RODRIGO",
+            "rut": "12.402.026-3",
+        },
+        "direccion": "PASAJE 5",
+        "region": "V",
+        "comuna": "QUINTERO",
+        "cbr": "QUINTERO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-10-17",
+        "numero_operacion": "158591820",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MATUS AYELEF PAOLA ANDREA",
+            "rut": "13.052.553-9",
+        },
+        "direccion": "PASAJE APOLO12",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Sólo GP",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-12-30",
+        "numero_operacion": "879017710",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "TOLEDO APABLAZA CALUDIA ANDREA DEL CARMEN",
+            "rut": "15.705.446-5",
+        },
+        "direccion": "Sin Dirección",
+        "region": "VII",
+        "comuna": "TALCA",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Sólo GP",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-04-01",
+        "numero_operacion": "167259610",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "HERRERA VALENZUELA CRISTIAN EDUARDO",
+            "rut": "13.340.454-6",
+        },
+        "direccion": "APOLONIA 18 ORILLA DE MARTINEZ",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Sólo GP",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1995-06-01",
+        "numero_operacion": "134735030",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CORREA DUEÑAS MARCIAL ALEJANDRO",
+            "rut": "10.110.622-5",
+        },
+        "direccion": "PJE. 8 60 EL BOLDO II SOFOFA",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1997-12-16",
+        "numero_operacion": "141460500",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "GONZALEZ MORALES LIDIA ALEJANDRA",
+            "rut": "12.600.751-5",
+        },
+        "direccion": "PASAJE LUIS SAEZ R327SAN CAMILO I",
+        "region": "V",
+        "comuna": "SAN FELIPE",
+        "cbr": "SAN FELIPE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-10-30",
+        "numero_operacion": "854173090",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "HUERTA MUNOZ LUIS EDUARDO",
+            "rut": "14.557.809-4",
+        },
+        "direccion": "AVENIDA ALESSANDRI 82",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-08-01",
+        "numero_operacion": "127801270",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "OLGUIN AVALOS ROBINSON ARMANDO",
+            "rut": "15.761.264-6",
+        },
+        "direccion": "PASAJE C 84",
+        "region": "V",
+        "comuna": "SAN FELIPE",
+        "cbr": "SAN FELIPE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-09-26",
+        "numero_operacion": "857734150",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "SAAVEDRA SANTANDER NADIA OTILIA",
+            "rut": "13.763.741-3",
+        },
+        "direccion": "PASAJE NUEVE 406",
+        "region": "V",
+        "comuna": "CALERA",
+        "cbr": "CALERA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-08-01",
+        "numero_operacion": "159378170",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MOLINA CHAVEZ FABIOLA KARINA",
+            "rut": "12.141.127-K",
+        },
+        "direccion": "PASAJE 3 309",
+        "region": "V",
+        "comuna": "SAN FELIPE",
+        "cbr": "SAN FELIPE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2010-07-30",
+        "numero_operacion": "883184920",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "CARVAJAL QUEZADA JUAN SERGIO",
+            "rut": "15.922.055-9",
+        },
+        "direccion": "PJE. DE ANGEL 2330VILLA GALILEA RANCAGUA E, ETAPA 32.",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-RPET",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-01-20",
+        "numero_operacion": "152898077",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "NERVI GARCES GINO NICCOLA",
+            "rut": "11.854.498-6",
+        },
+        "direccion": "PINO OREGON 0531",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-08-22",
+        "numero_operacion": "162793330",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MARAMBIO VIERA LUIS FERNANDO",
+            "rut": "15.052.348-6",
+        },
+        "direccion": "PASAJE PINTOR SIMON GONZALEZ3239CONJUNTO LOS NOGALES",
+        "region": "IV",
+        "comuna": "LA SERENA",
+        "cbr": "LA SERENA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-07-01",
+        "numero_operacion": "156678280",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CORDOVA TAPIA ELISEO ERASMO",
+            "rut": "12.871.489-8",
+        },
+        "direccion": "PASAJE RIO COLINA 646",
+        "region": "RM",
+        "comuna": "PUENTE ALTO",
+        "cbr": "PUENTE ALTO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Sólo GP",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-05-01",
+        "numero_operacion": "165247100",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BUSTOS GONZALEZ MARTA ELIZABETH",
+            "rut": "11.244.187-5",
+        },
+        "direccion": "23 1/2 PONIENTE 993 SAN JOSE CAIVAN",
+        "region": "VII",
+        "comuna": "TALCA",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-12-01",
+        "numero_operacion": "154910960",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MANRIQUEZ PALMA PATRICIO ARTURO",
+            "rut": "11.771.990-1",
+        },
+        "direccion": "SIGLO XX 1290",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-COMP",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-06-01",
+        "numero_operacion": "900000995",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BARRERA PENA GONZALO RODOLFO",
+            "rut": "10.328.422-8",
+        },
+        "direccion": "PASAJE DIADEMAS DOS 1125CONJ/ LOS PARQUES DE MAIPU",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "-8631-02-13",
+        "numero_operacion": "871630530",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "SALAS SEPULVEDA HANS RODRIGO",
+            "rut": "13.505.112-8",
+        },
+        "direccion": "PJE SAN ANDRES 1764",
+        "region": "VII",
+        "comuna": "MAULE",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-09-01",
+        "numero_operacion": "160746930",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CARRASCO AGUILERA MARCELA MERCEDES",
+            "rut": "11.950.495-3",
+        },
+        "direccion": "VILLA ARAUCANIA PASAJE 2",
+        "region": "VI",
+        "comuna": "RENGO",
+        "cbr": "RENGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2014-07-31",
+        "numero_operacion": "157012520",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MENA GONZALEZ EDUARDO DANIEL",
+            "rut": "8.383.391-2",
+        },
+        "direccion": "PASAJE PAYACHATAS 820 MANUEL ROJAS VI",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-08-01",
+        "numero_operacion": "159919190",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ROSALES ESPARZA LUIS MAURICIO",
+            "rut": "13.391.067-0",
+        },
+        "direccion": "EL BANDONEON 3530",
+        "region": "RM",
+        "comuna": "PUENTE ALTO",
+        "cbr": "PUENTE ALTO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-09-03",
+        "numero_operacion": "8539550K0",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "SAGREDO CATALAN EDWIN NELSON",
+            "rut": "15.416.010-8",
+        },
+        "direccion": "PSJ INCA ROCA 766CJTO FRONTERA DEL INCA V NORTEETAPA II",
+        "region": "VII",
+        "comuna": "LINARES",
+        "cbr": "LINARES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-12-01",
+        "numero_operacion": "162681610",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ROJAS VARGAS BEATRIZ DE LOURDES",
+            "rut": "14.584.792-3",
+        },
+        "direccion": "CALLE ANKUN 606",
+        "region": "VI",
+        "comuna": "PICHILEMU",
+        "cbr": "PICHILEMU"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-08-24",
+        "numero_operacion": "175613260",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "DIAZ TRUJILLO GERARDO AGUSTIN",
+            "rut": "13.696.571-9",
+        },
+        "direccion": "SAN JORGE 930DEPTO. 404, CONDOMINIO SAN JORGE",
+        "region": "RM",
+        "comuna": "LA FLORIDA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2010-04-27",
+        "numero_operacion": "180893610",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "VALENZUELA GOMEZ FRANCISCA LISSET",
+            "rut": "16.493.367-9",
+        },
+        "direccion": "PJE. CARLOS ARELLANO JARA 2190CJ. CARDENAL RAUL SILVA HENRIQUEZ",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-06-25",
+        "numero_operacion": "167699500",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "AGUILAR MORALES BEATRIZ DEL CARMEN",
+            "rut": "14.581.333-6",
+        },
+        "direccion": "BERLIN1480, LOTEO DON SEBASTIAN DE RAUQUEN",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2011-05-30",
+        "numero_operacion": "879599900",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "CHAVEZ CATRIL CLAUDIO IVAN",
+            "rut": "13.726.347-5",
+        },
+        "direccion": "PJE. CURIMAN LADO SUR 2100VILLA PARQUE LA POSADA ETAPA 3-75 A",
+        "region": "VIII",
+        "comuna": "CORONEL",
+        "cbr": "CORONEL"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-10-31",
+        "numero_operacion": "190287570",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MELLADO COFRE MARIA PIA EDECIA",
+            "rut": "11.536.924-5",
+        },
+        "direccion": "CALLE VOLCAN LLAIMA745VILLA STA. ANA DEL BOLDO",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1999-04-30",
+        "numero_operacion": "147078850",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BARRIA CID ERIS ARTURO",
+            "rut": "4.194.721-7",
+        },
+        "direccion": "CAICUMEO 883POBLACION INES DPT CASA",
+        "region": "X",
+        "comuna": "ANCUD",
+        "cbr": "ANCUD"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-05-28",
+        "numero_operacion": "153509640",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MARTINEZ BONANSCO MARCELO ALEJANDRO",
+            "rut": "7.752.486-K",
+        },
+        "direccion": "DR. MARIO BARRERA ALVAREZ946LOS ACACIOS",
+        "region": "V",
+        "comuna": "LOS ANDES",
+        "cbr": "LOS ANDES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-09-01",
+        "numero_operacion": "154715830",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BARRAZA CORTES MARCELA ARTEMIA",
+            "rut": "12.420.304-K",
+        },
+        "direccion": "PASAJE ESTER VALENCIA ARACENA 1575",
+        "region": "IV",
+        "comuna": "OVALLE",
+        "cbr": "OVALLE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-07-22",
+        "numero_operacion": "159872370",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CASTRO GONZALEZ CARLA SUSANA",
+            "rut": "14.358.087-3",
+        },
+        "direccion": "VOLCAN OSORNO 192VILLA CORDILLERA",
+        "region": "V",
+        "comuna": "SAN FELIPE",
+        "cbr": "SAN FELIPE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-07-01",
+        "numero_operacion": "160710310",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PINO CELIS CRISTIAN PATRICIO",
+            "rut": "12.914.660-5",
+        },
+        "direccion": "PASAJE RIO PUELO 1521",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1997-03-01",
+        "numero_operacion": "142837400",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BRAVO DELGADO MARIA INES",
+            "rut": "7.816.974-5",
+        },
+        "direccion": "AV. PRIMO DE RIVERA 1815 DEPTO M-48",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-04-01",
+        "numero_operacion": "159029590",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "LEIVA PINO CRISTIAN ANDRES",
+            "rut": "13.099.990-5",
+        },
+        "direccion": "PASAJE CERRO CARPA 1625",
+        "region": "RM",
+        "comuna": "PUENTE ALTO",
+        "cbr": "PUENTE ALTO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-01-30",
+        "numero_operacion": "1581250K0",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ROJAS GONZALEZ LEONARDO RODRIGO",
+            "rut": "13.652.500-K",
+        },
+        "direccion": "AVENIDA RODELILLO5920B B 31 D 14 STA TERESI",
+        "region": "V",
+        "comuna": "VALPARAISO",
+        "cbr": "VALPARAISO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-08-01",
+        "numero_operacion": "158698110",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ROSAS FARIAS JORGE ENZO",
+            "rut": "11.556.675-K",
+        },
+        "direccion": "PASAJE VILLAVICENCIO 0297",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-07-01",
+        "numero_operacion": "172539580",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "VALENZUELA GARCES CARLOS LEOPOLDO",
+            "rut": "14.341.206-7",
+        },
+        "direccion": "PASAJE SEIS774",
+        "region": "VII",
+        "comuna": "LINARES",
+        "cbr": "LINARES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Sólo GP",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1996-10-01",
+        "numero_operacion": "137052420",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "VERA JIMENEZ JOE LUIS",
+            "rut": "7.669.290-4",
+        },
+        "direccion": "PJE. 3 CONTADOR G MORALES TAMAYO 593 LAGUNILL",
+        "region": "VIII",
+        "comuna": "CORONEL",
+        "cbr": "CORONEL"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-06-01",
+        "numero_operacion": "149894140",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "LARA LARA ELIZABETH MARCELA",
+            "rut": "12.789.325-K",
+        },
+        "direccion": "PASAJE MARA AZUL 1382 V NEMESIO ANTUNEZ",
+        "region": "VII",
+        "comuna": "LINARES",
+        "cbr": "LINARES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-06-01",
+        "numero_operacion": "148902480",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "SOTO BRIONES PEDRO MANUEL",
+            "rut": "10.561.371-7",
+        },
+        "direccion": "PASAJE NUEVA PIHUANO 812",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-02-01",
+        "numero_operacion": "157066100",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "LARA TERRA MAURICIO ENRIQUE",
+            "rut": "9.823.869-7",
+        },
+        "direccion": "PASAJE PICHILEMU 163",
+        "region": "V",
+        "comuna": "VIÑA DEL MAR",
+        "cbr": "VIÑA DEL MAR"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-08-22",
+        "numero_operacion": "118909480",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "RODRIGUEZ ORREGO ADOLFO EDUARDO",
+            "rut": "6.991.063-7",
+        },
+        "direccion": "CALLE 1 344",
+        "region": "RM",
+        "comuna": "PUENTE ALTO",
+        "cbr": "PUENTE ALTO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1999-03-31",
+        "numero_operacion": "151272700",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "FIGUEROA GONZALEZ LUIS IGOR",
+            "rut": "12.417.669-7",
+        },
+        "direccion": "CALLE CAMINO A RAUQUE 2233",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-03-01",
+        "numero_operacion": "155255190",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "INZUNZA VASQUEZ JORGE IGNACIO",
+            "rut": "14.506.466-K",
+        },
+        "direccion": "SANTA CRUZ 0461",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-12-31",
+        "numero_operacion": "863001540",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "RIVERA LOBOS JUAN MIGUEL",
+            "rut": "12.514.386-5",
+        },
+        "direccion": "PASAJE TIMOTEO 4031",
+        "region": "RM",
+        "comuna": "PUENTE ALTO",
+        "cbr": "PUENTE ALTO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-06-14",
+        "numero_operacion": "156228240",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "RIVAS CHAPA ISABEL ANDREA",
+            "rut": "13.686.905-1",
+        },
+        "direccion": "RIO DE LA PLATA 1076POBLACION LOS JARDINES DE",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-09-01",
+        "numero_operacion": "139828580",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "JORQUERA JORQUERAJUANA ELENA",
+            "rut": "14.523.236-8",
+        },
+        "direccion": "ALEMANIA 102 JJTO BARRIO ORIENTE I ETAPA",
+        "region": "RM",
+        "comuna": "MELIPILLA",
+        "cbr": "MELIPILLA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-12-20",
+        "numero_operacion": "163949060",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "SOTO VELIZ MARIA EUGENIA",
+            "rut": "12.147.240-6",
+        },
+        "direccion": "PASAJE SAN ISIDRO 2124BOMBERO GARRIDO V",
+        "region": "VII",
+        "comuna": "CURICO",
+        "cbr": "CURICO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1996-02-13",
+        "numero_operacion": "1374888K0",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CATALDO MATURANA MARCELO ALEJANDRO",
+            "rut": "11.981.439-1",
+        },
+        "direccion": "URUGUAY900BL 100 DP 403 V CORDILLERA",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-10-02",
+        "numero_operacion": "156327060",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "RIVERA OLIVARES MANUEL ANDRES",
+            "rut": "13.223.937-1",
+        },
+        "direccion": "PASAJE KETRAN 3330POBLACION DIAGUITAS",
+        "region": "IV",
+        "comuna": "LA SERENA",
+        "cbr": "LA SERENA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-10-05",
+        "numero_operacion": "155292390",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PADILLA CORNEJO ROSARIO DEL CARMEN",
+            "rut": "9.716.020-1",
+        },
+        "direccion": "ACONCAGUA271DPTO 102 BLOCK 2 VILLA ACONCAGUA",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-RPET",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-08-12",
+        "numero_operacion": "152548767",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "GUERRA HERRERA CECILIA DEL CARMEN",
+            "rut": "10.467.010-5",
+        },
+        "direccion": "CALLE LA VINA 489",
+        "region": "RM",
+        "comuna": "PUENTE ALTO",
+        "cbr": "PUENTE ALTO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-03-31",
+        "numero_operacion": "167808220",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "JARA CANALES RAFAEL EUGENIO",
+            "rut": "14.292.661-K",
+        },
+        "direccion": "CALLE HUAMBALI1295CJ. VILLA RIOS DEL SUR",
+        "region": "VIII",
+        "comuna": "CHILLAN VIEJO",
+        "cbr": "CHILLAN"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2002-10-01",
+        "numero_operacion": "155195780",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MUNOZ SILVA RODOLFO SAMUEL",
+            "rut": "13.060.397-1",
+        },
+        "direccion": "PASAJE MAITENCILLO 542",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-10-01",
+        "numero_operacion": "156029040",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BALBOA DIAZ CRISTINA BEATRIZ",
+            "rut": "12.615.384-8",
+        },
+        "direccion": "LAS TRINITARIAS 2671",
+        "region": "I",
+        "comuna": "ALTO HOSPICIO",
+        "cbr": "IQUIQUE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-07-29",
+        "numero_operacion": "869240690",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "ROMAN HERNANDEZ CAROLINA ANDREA",
+            "rut": "16.585.938-3",
+        },
+        "direccion": "PJE. ROBERT FULTON 2358 CJTO. EL PORTAL DE PUERTO MONTT",
+        "region": "X",
+        "comuna": "PUERTO MONTT",
+        "cbr": "PUERTO MONTT"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-01-01",
+        "numero_operacion": "150853490",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PLAZA GONZALEZ MANUEL SEGUNDO",
+            "rut": "9.393.691-4",
+        },
+        "direccion": "PASAJE HECTOR MILLAN VERGARA 2362",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-RPET",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-08-27",
+        "numero_operacion": "156588297",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "NIRIPIL CARINE JUAN IGNACIO",
+            "rut": "10.913.831-2",
+        },
+        "direccion": "ESTERO NIFRE 206",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-08-20",
+        "numero_operacion": "155066460",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BANDA BRAVO SANDRO ARMANDO",
+            "rut": "8.846.665-9",
+        },
+        "direccion": "PASAJE MANUEL BUSTOS2802VALLES DEL MAIPO",
+        "region": "RM",
+        "comuna": "BUIN",
+        "cbr": "BUIN"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-07-27",
+        "numero_operacion": "149827700",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ROJAS NEIRA SYLVIA ISABEL",
+            "rut": "8.296.092-9",
+        },
+        "direccion": "PASAJE DE LA REINA 60POBLACION VILLA REAL SAN ROQU",
+        "region": "V",
+        "comuna": "VALPARAISO",
+        "cbr": "VALPARAISO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1999-10-01",
+        "numero_operacion": "151496570",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CONTRERAS CORTES ISABEL DEL CARMEN",
+            "rut": "8.472.016-K",
+        },
+        "direccion": "SEBASTIAN EL CANO PASAJE A 425 VILLA EL NOGAL",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-08-01",
+        "numero_operacion": "169958020",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "JARA GONZALEZ CLAUDIO HERNAN",
+            "rut": "12.808.825-3",
+        },
+        "direccion": "PJE ESTERO PALPAL 35LOS ESTEROS",
+        "region": "RM",
+        "comuna": "QUILICURA",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Sólo GP",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-05-01",
+        "numero_operacion": "167270260",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MEDEL GONZALEZ LUIS HUMBERO",
+            "rut": "13.505.595-6",
+        },
+        "direccion": "CALLE 9 ORIENTE 2628",
+        "region": "VII",
+        "comuna": "TALCA",
+        "cbr": "TALCA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1997-10-07",
+        "numero_operacion": "145484340",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "GALVEZ VILCHEZ MARCO ANTONIO",
+            "rut": "10.238.291-9",
+        },
+        "direccion": "PASAJE CRUZ DE UNCO1024POBLACION VILLA LAS GARZAS",
+        "region": "VI",
+        "comuna": "SANTA CRUZ",
+        "cbr": "SANTA CRUZ"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-03-01",
+        "numero_operacion": "149764360",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ALBANEZ GUERRERO HORACIO ALDO DEL CARMEN",
+            "rut": "10.705.535-5",
+        },
+        "direccion": "PASAJE CALFUNCO 8366",
+        "region": "RM",
+        "comuna": "PUDAHUEL",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-03-01",
+        "numero_operacion": "153380180",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BAHAMONDEZ BUGUENO CRISTIAN MARCELO",
+            "rut": "11.386.836-8",
+        },
+        "direccion": "OVALLE 840",
+        "region": "V",
+        "comuna": "CALERA",
+        "cbr": "CALERA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-05-31",
+        "numero_operacion": "190162010",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MARANAO REINA RICARDO SALEM",
+            "rut": "8.587.831-K",
+        },
+        "direccion": "CERRO ACOTANGO 1000ESCUADRON SUR",
+        "region": "VIII",
+        "comuna": "CORONEL",
+        "cbr": "CORONEL"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-08-01",
+        "numero_operacion": "146288880",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "LOPEZ SERRANO GRACIELA JULIETA",
+            "rut": "9.747.742-6",
+        },
+        "direccion": "PASAJE ADRIAN SOTO VIVANCO 1080",
+        "region": "V",
+        "comuna": "SAN ANTONIO",
+        "cbr": "SAN ANTONIO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-RPET",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-04-29",
+        "numero_operacion": "146377637",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "RIVERA SIERRA VICTOR HUGO",
+            "rut": "9.577.893-3",
+        },
+        "direccion": "PASAJE MARIA LUISA BOMBAL 408",
+        "region": "RM",
+        "comuna": "SAN BERNARDO",
+        "cbr": "SAN BERNARDO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1990-01-15",
+        "numero_operacion": "116337160",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "HIDALGO MONTENEGRO MARIA GUACOLDA",
+            "rut": "7.741.230-1",
+        },
+        "direccion": "SAN PABLO 5479-CDPTO.24 VILLA CAUPOLICAN",
+        "region": "RM",
+        "comuna": "LO PRADO",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-10-02",
+        "numero_operacion": "857742330",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "BASTIAS TAPIA JUAN ALEJANDRO",
+            "rut": "13.365.151-9",
+        },
+        "direccion": "PASAJE DIEZ 510",
+        "region": "V",
+        "comuna": "CALERA",
+        "cbr": "CALERA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-09-28",
+        "numero_operacion": "153483580",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "VALLEJOS GUZMAN ELIZABETH DEL CARMEN",
+            "rut": "12.451.269-7",
+        },
+        "direccion": "PASAJE GENERAL BARBOSA982JOSE ARRIETA",
+        "region": "V",
+        "comuna": "VALPARAISO",
+        "cbr": "VALPARAISO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1998-02-01",
+        "numero_operacion": "142035180",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ORELLANA SANDOVAL EVELYN PAOLA",
+            "rut": "12.449.675-6",
+        },
+        "direccion": "AVENIDA RODELILLO 255",
+        "region": "V",
+        "comuna": "VALPARAISO",
+        "cbr": "VALPARAISO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-01-01",
+        "numero_operacion": "150105940",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ALBORNOZ VELASQUEZ MANUEL EDUARDO",
+            "rut": "10.896.067-1",
+        },
+        "direccion": "ALEJANDRO FLORES PINAUD 180",
+        "region": "V",
+        "comuna": "VIÑA DEL MAR",
+        "cbr": "VIÑA DEL MAR"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2006-10-19",
+        "numero_operacion": "817305840",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "BAEZA RUBILAR GERARDO ENRIQUE",
+            "rut": "9.428.722-7",
+        },
+        "direccion": "PASAJE OBISPO VALDIVIESO 104",
+        "region": "VIII",
+        "comuna": "LOS ANGELES",
+        "cbr": "LOS ANGELES"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1996-03-22",
+        "numero_operacion": "1376558K0",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "ROJAS MUNOZ MARGARITA MAGALI",
+            "rut": "11.231.727-9",
+        },
+        "direccion": "AVENIDA EL SOL287B 4 D 101 YERBAS BUENAS",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1996-07-31",
+        "numero_operacion": "1363549K0",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "SEGURA GONZALEZ FRANCISCO ROBINSON",
+            "rut": "10.536.803-8",
+        },
+        "direccion": "PASAJE SARGENTO RAFAEL VARGAS 2992, RINCONADA II-1",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-06-01",
+        "numero_operacion": "157094660",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "NUNEZ SOTO ROSA DE LOURDES",
+            "rut": "8.983.772-3",
+        },
+        "direccion": "PASAJE DIPUTADO AKIN SOTO MORALES 1048",
+        "region": "V",
+        "comuna": "SAN ANTONIO",
+        "cbr": "SAN ANTONIO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-11-01",
+        "numero_operacion": "140591070",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "CATRIL HUAIQUIMILLA MARTA ELISA",
+            "rut": "11.804.761-3",
+        },
+        "direccion": "AVENIDA LAS NACIONES 1721",
+        "region": "RM",
+        "comuna": "MAIPU",
+        "cbr": "SANTIAGO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2000-09-01",
+        "numero_operacion": "153286830",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PEREIRA ARIAS JAIME CARLOS ANTONIO",
+            "rut": "11.673.742-6",
+        },
+        "direccion": "PASAJE QUELLON 1671",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2003-11-06",
+        "numero_operacion": "125900690",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MUNOZ VARGAS MARCIA JEANNETTE",
+            "rut": "10.403.270-2",
+        },
+        "direccion": "PJE LAS VERTIENTES 02343",
+        "region": "RM",
+        "comuna": "SAN BERNARDO",
+        "cbr": "SAN BERNARDO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2005-08-09",
+        "numero_operacion": "178113220",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "GONCALVES BUSTAMANTE FERNANDO ALVARO",
+            "rut": "7.018.469-9",
+        },
+        "direccion": "AV. CAUPOLICAN 1600ENDESA / TURISMO SUR",
+        "region": "IV",
+        "comuna": "LOS VILOS",
+        "cbr": "LOS VILOS"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2001-08-01",
+        "numero_operacion": "155621040",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "TORO SAAVEDRA JUAN SEGUNDO",
+            "rut": "13.362.239-K",
+        },
+        "direccion": "AV HUMBERTO FERNANDEZ MONTENEGRO 2046",
+        "region": "V",
+        "comuna": "SAN FELIPE",
+        "cbr": "SAN FELIPE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1998-10-15",
+        "numero_operacion": "144352650",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "SALDIVAR BONILLA ROSSANA DEL PILAR",
+            "rut": "10.672.195-5",
+        },
+        "direccion": "PASAJE LOS SAUCES647LOS CAMPOS DE DONA B",
+        "region": "VIII",
+        "comuna": "CHILLAN",
+        "cbr": "CHILLAN"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1999-05-01",
+        "numero_operacion": "143961460",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PEREZ REYES ELIZARDO ANTONIO",
+            "rut": "11.760.901-4",
+        },
+        "direccion": "PJE ACULEO 2229",
+        "region": "RM",
+        "comuna": "PUENTE ALTO",
+        "cbr": "PUENTE ALTO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-MHE",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2007-02-01",
+        "numero_operacion": "839394130",
+        "tipo_escritura": "Endosable",
+        "persona": {
+            "nombre": "MENA AVILA EDUARDO ALEX",
+            "rut": "15.705.790-1",
+        },
+        "direccion": "LASTARRIAS 410",
+        "region": "VI",
+        "comuna": "RANCAGUA",
+        "cbr": "RANCAGUA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-04-30",
+        "numero_operacion": "161697160",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "PIZARRO GALVEZ LUIS PATRICIO",
+            "rut": "13.224.807-9",
+        },
+        "direccion": "PSJE PABLO DE ROKHA 3511VILLA LOS CIRUELOS",
+        "region": "IV",
+        "comuna": "LA SERENA",
+        "cbr": "LA SERENA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BECH",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2004-10-29",
+        "numero_operacion": "154734380",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "SALINAS ARANCIBIA MARCELA FABIOLA",
+            "rut": "12.664.781-6",
+        },
+        "direccion": "PJE PINTOR JOSE TOMAS ERRAZURIZ3199LOS CIRUELOS",
+        "region": "IV",
+        "comuna": "LA SERENA",
+        "cbr": "LA SERENA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-RPET",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2008-05-12",
+        "numero_operacion": "138887977",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "BRAVO AVALOS ETHEL FABIOLA",
+            "rut": "11.422.529-0",
+        },
+        "direccion": "PASAJE MARCOS BARRANTES ALCAYAGA 921CJTO HABIT EL MIRADOR DE LIMARI",
+        "region": "IV",
+        "comuna": "OVALLE",
+        "cbr": "OVALLE"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "1999-08-01",
+        "numero_operacion": "149573770",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "MORALES RIVERA JOSE LUIS",
+            "rut": "9.176.619-1",
+        },
+        "direccion": "PASAJE CATALPA 01495",
+        "region": "RM",
+        "comuna": "SAN BERNARDO",
+        "cbr": "SAN BERNARDO"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+},
+
+{
+    "_data": {
+        "tipo_dcto_a_reconstituir": "Escritura completa",
+        "producto": "HIP-BSUB",
+        "numero_remesa": "20170725",
+        "fecha_contabilizacion": "2009-08-29",
+        "numero_operacion": "175500060",
+        "tipo_escritura": "No Endosable",
+        "persona": {
+            "nombre": "OBANDO BARRIA MARIBEL SOLEDAD",
+            "rut": "9.173.817-1",
+        },
+        "direccion": "VICENTE CARVALLO N° 301",
+        "region": "XIV",
+        "comuna": "LA UNION",
+        "cbr": "VALDIVIA"
+    },
+    "_currentTask": {
+        "_taskId": "5995f367ce307c45c559fb1f",
+        "_taskName": "Ingreso de Datos"
+    },
+    "_currentStage": {
+        "_stageId": "59961f2eecc9817a48da7f69",
+        "_stageName": "Reconstitución"
+    },
+    "_process":{
+        "_processId": "5996207e79d1b90ac2342896",
+        "_processName": "Reconstituciones"
+    },
+    "_assignments": [],
+    "_paymentRequests": []
+}]
+
+,{ordered:false})

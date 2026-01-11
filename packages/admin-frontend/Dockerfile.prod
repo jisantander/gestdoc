@@ -1,0 +1,26 @@
+# Use the official Node.js image as the base image
+FROM node:14 AS build
+
+# Set the working directory
+WORKDIR /home/node/app
+
+# Copy the package.json and package-lock.json files
+#COPY package*.json ./
+COPY . .
+
+# Install dependencies
+RUN npm install --unsafe-perm=true --allow-root
+
+# Copy the rest of the app files
+
+# Build the React app
+RUN npm run build
+
+# Final stage - only to extract the build files
+FROM alpine:latest AS extract
+
+WORKDIR /app
+COPY --from=build /home/node/app/build /app/build
+
+# Set the build folder as the output
+CMD ["echo", "Build completed. You can now copy the build folder."]

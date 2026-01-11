@@ -1,0 +1,207 @@
+{
+    "title": "Ingrese un nuevo campo",
+    "description": "",
+    "type": "object",
+    "required": [
+        "fieldType",
+        "title"
+    ],
+    "properties": {
+        "fieldType": {
+            "type": "string",
+            "title": "Tipo de campo",
+            "enum": [
+                "Input",
+                "ValidInput",
+                "Select",
+                "TxtSelect",
+                "CheckBox",
+                "File",
+                "Date",
+                "address",
+                "multipleChoicesList"
+            ],
+            "enumNames": [
+                "Entrada de texto",
+                "Entrada de texto con validacion",
+                "Selector",
+                "Selector en lote",
+                "CheckBox",
+                "Archivo",
+                "Fecha",
+                "Región - Comuna",
+                "Selección Multiple"
+            ]
+        },
+        "title": {
+            "type": "string",
+            "title": "Título del campo"
+        },
+        "description": {
+            "type": "string",
+            "title": "Descripción del campo"
+        },
+        "placeholder":{
+            "type": "string",
+            "title": "Placeholder del campo"
+        },
+        "check_id": {
+            "title": "ID automático",
+            "type": "boolean",
+            "default": true,
+            "enum": [
+                true,
+                false
+            ]
+        },
+        "required": {
+            "type": "boolean",
+            "title": "¿Es un campo obligatorio?",
+            "default": false
+        }
+    },
+    "dependencies": {
+        "fieldType": {
+            "oneOf": [
+                {
+                    "properties": {
+                        "fieldType": {
+                            "enum": [
+                                "Select"
+                            ]
+                        },
+                        "options": {
+                            "type": "array",
+                            "title": "Campos de tu selector",
+                            "items": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "required": [
+                        "options"
+                    ]
+                },
+                {
+                    "properties": {
+                        "fieldType": {
+                            "enum": [
+                                "TxtSelect"
+                            ]
+                        },
+                        "optionsTxtArea": {
+                            "type": "string",
+                            "title": "Campos de tu selector",
+                            "description": "Ingrese los campos separados por coma, EJ: Santiago, Valpo, La Serena, Temuco "
+                        }
+                    },
+                    "required": [
+                        "optionsTxtArea"
+                    ]
+                },
+                {
+                    "properties": {
+                        "fieldType": {
+                            "enum": [
+                                "File"
+                            ]
+                        },
+                        "enableFiles": {
+                            "type": "string",
+                            "title": "Tipo de archivo permitido",
+                            "enum": [
+                                ".pdf",
+                                "image/*",
+                                ".pdf, image/*"
+                            ],
+                            "enumNames": [
+                                "PDF",
+                                "Imagen",
+                                "PDF o Imagen"
+                            ]
+                        }
+                    },
+                    "required": [
+                        "enableFiles"
+                    ]
+                },
+                {
+                    "properties": {
+                        "fieldType": {
+                            "enum": [
+                                "multipleChoicesList"
+                            ]
+                        },
+                        "options": {
+                            "type": "array",
+                            "title": "Agrega alternativas",
+                            "items": {
+                                "type": "string"
+                            }
+                        }
+                    },
+                    "required": [
+                        "options"
+                    ]
+                },
+                {
+                    "properties": {
+                        "fieldType": {
+                            "enum": [
+                                "ValidInput"
+                            ]
+                        },
+                        "options": {
+                            "type": "string",
+                            "title": "Validaciones",
+                            "enum": ["Rut", "Primeras en Mayuscula", "Solo Numeros"]
+                        }
+                    },
+                    "required": [
+                        "options"
+                    ]
+                },
+                {
+                    "properties": {
+                        "fieldType": {
+                            "enum": [
+                                "Input",
+                                "CheckBox",
+                                "Date"
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        "check_id": {
+            "oneOf": [
+                {
+                    "properties": {
+                        "check_id": {
+                            "enum": [
+                                false
+                            ]
+                        },
+                        "id": {
+                            "type": "string",
+                            "title": "Id del campo"
+                        }
+                    },
+                    "required": [
+                        "id"
+                    ]
+                },
+                {
+                    "properties": {
+                        "check_id": {
+                            "enum": [
+                                true
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

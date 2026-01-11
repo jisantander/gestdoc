@@ -1,0 +1,1107 @@
+securityDefinitions:
+    Bearer:
+        type: apiKey
+        description: "Value: Bearer "
+        name: Authorization
+        in: header
+
+security:
+  - Bearer: []
+
+tags:
+- name: users
+  description: users API
+- name: bpmn
+  description: bpmn API
+- name: email
+  description: email API
+- name: html
+  description: html API
+- name: operation
+  description: operation API gestion interna de los documentos
+- name: docs
+  description: docs API
+- name: form
+  description: form API
+- name: procedure
+  description: procedure API  creamos y avanzamos en el proceso, enviamos los formularios, etc.
+
+
+paths:
+# [GET] users
+  /api/users:
+    get:
+      security:
+        - Bearer: []
+      tags:
+      - users
+      summary: Find All Users
+      responses:
+        200:
+          description: 'OK'
+        500:
+          description: 'Server Error'
+
+# [POST] users
+    post:
+      tags:
+      - users
+      summary: Add User
+      parameters:
+      - name: body
+        in: body
+        description: user Data
+        required: true
+        schema:
+          $ref: '#/definitions/users'
+      responses:
+        201:
+          description: 'Created'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+# [GET] users/id
+  /users/{id}:
+    get:
+      tags:
+      - users
+      summary: Find User By Id
+      parameters:
+      - name: id
+        in: path
+        description: User Id
+        required: true
+      responses:
+        200:
+          description: 'OK'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+# [PUT] users/id
+    put:
+      tags:
+      - users
+      summary: Update User By Id
+      parameters:
+      - name: id
+        in: path
+        description: user Id
+        required: true
+      - name: body
+        in: body
+        description: user Data
+        required: true
+        schema:
+          $ref: '#/definitions/users'
+      responses:
+        200:
+          description: 'OK'
+        400:
+          description: 'Bad Request'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+# [DELETE] users/id
+    delete:
+      tags:
+      - users
+      summary: Delete User By Id
+      parameters:
+      - name: id
+        in: path
+        description: user Id
+        required: true
+      responses:
+        200:
+          description: 'OK'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+
+# [POST] login
+  /api/login:
+    post:
+      tags:
+      - users
+      summary: Login users
+      parameters:
+      - name: body
+        in: body
+        description: user Data
+        required: true
+        schema:
+          $ref: '#/definitions/login'
+      responses:
+        200:
+          description: 'OK'
+        500:
+          description: 'Server Error'
+
+# [GET] bpmn
+  /api/bpmn:
+    get:
+      parameters:
+        - in: query
+          name: page
+          schema:
+            type: integer
+          description: The number of items to skip before starting to collect the result set EX:1
+        - in: query
+          name: limit
+          schema:
+            type: integer
+          description: The numbers of items to return EX:10
+      security:
+        - Bearer: []
+      tags:
+      - bpmn
+      summary: Find  bpms for the specified page and limit
+      responses:
+        200:
+          description: 'OK'
+          schema:
+              $ref: "#/definitions/pagginationBPMN"
+        500:
+          description: 'Server Error'
+
+# [GET] bpmn/all
+/api/bpmn/all:
+  get:
+    security:
+    - Bearer: []
+    tags:
+    - bpmn
+    summary: Find all bpms
+    responses:
+      200:
+        description: 'OK'
+        schema:
+          type: array
+          items:
+            $ref: "#/definitions/bpmn"
+      500:
+        description: 'Server Error'
+
+  
+/api/bpmn/steps/{bpmnID}:
+  post:
+    parameters:
+      - name: bpmnID
+        in: path
+        description: bpmn bpmnID
+        required: true
+    security:
+      - Bearer: []
+    tags:
+    - bpmn
+    summary: metodo para obtener los pasos o procedimientos del BPMN ex:612fdde7ba6754725ec099ac
+    responses:
+      200:
+        description: 'OK'
+        schema:
+            $ref: "#/definitions/participant"
+      500:
+        description: 'Server Error'
+
+/api/bpmn/xls/{bpmnId}/{step}:
+  post:
+    parameters:
+      - name: importable
+        in: path
+        description: importable
+        required: true
+      - name: step
+        in: path
+        description: step
+        required: true
+    security:
+      - Bearer: []
+    tags:
+      - bpmn
+    summary: obtiene un ejemplo de la plantilla xls para la futura subida de plantilla.
+    responses:
+      200:
+        description: 'OK retorna un Blob un XSL de ejemplo segun el tipo de bpmn y etapa'
+      500:
+        description: 'Server Error'
+
+/api/bpmn/gestor:
+  get:
+    security:
+     - Bearer: []
+    tags:
+    - bpmn
+    summary: obtiene los gestores del bpmn // revisar con Favio
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+
+/api/bpmn/read:
+  post:
+    security:
+      - Bearer: []
+    tags:
+    - bpmn
+    summary: Post del XLS con los valores para insertar los campos del proceso
+    consumes:
+      - multipart/form-data
+    parameters:
+      - in: formData
+        name: file
+        type: file
+        description: The file to upload.
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+
+/api/bpmn/:
+  post:
+    security:
+      - Bearer: []
+    tags:
+      - bpmn
+    summary: Post de un bpmn
+    parameters:
+    - name: body
+      in: body
+      description: user Data
+      required: true
+      schema:
+        $ref: '#/definitions/bpmn'
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+
+/api/bpmn/{id}:
+  put:
+    security:
+      - Bearer: []
+    tags:
+      - bpmn
+    summary: Put de un bpmn
+    parameters:
+      - name: id
+        in: path
+        description: bpmn Id
+        required: true
+      - name: body
+        in: body
+        description: bpmn Data
+        required: true
+        schema:
+          $ref: '#/definitions/bpmn'
+
+# [GET] email
+/api/email:
+  get:
+    security:
+    - Bearer: []
+    tags:
+    - email
+    summary: obtiene los emails de los usuarios
+    responses:
+      200:
+        description: 'OK'
+        schema:
+            $ref: "#/definitions/email"
+      500:
+        description: 'Server Error'
+# [post] email
+  post:
+    security:
+    - Bearer: []
+    tags:
+    - email
+    parameters:
+      - name: body
+        in: body
+        description: user Data
+        required: true
+        schema:
+          $ref: '#/definitions/email'
+    summary: Post email
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+  # [put] email
+  put:
+    security:
+    - Bearer: []
+    tags:
+    - email
+    parameters:
+      - name: id
+        in: path
+        description: email Id
+        required: true
+      - name: body
+        in: body
+        description: email Data
+        required: true
+        schema:
+          $ref: '#/definitions/email'
+    summary: Post email
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+  # [delete] email
+  delete:
+      tags:
+      - email
+      summary: Delete email By Id
+      parameters:
+      - name: id
+        in: path
+        description: email Id
+        required: true
+      responses:
+        200:
+          description: 'OK'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+# [GET] html
+/api/html:
+  get:
+    security:
+    - Bearer: []
+    tags:
+    - html
+    summary: obtiene los html de los usuarios
+    responses:
+      200:
+        description: 'OK'
+        schema:
+            $ref: "#/definitions/pagginationHtml"
+      500:
+        description: 'Server Error'
+  # [post] html
+  post:
+    security:
+    - Bearer: []
+    tags:
+    - html
+    parameters:
+      - name: body
+        in: body
+        description: user Data
+        required: true
+        schema:
+          $ref: '#/definitions/html'
+    summary: Post html
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+  # [put] html
+  put:
+    security:
+    - Bearer: []
+    tags:
+    - html
+    parameters:
+      - name: id
+        in: path
+        description: html Id
+        required: true
+      - name: body
+        in: body
+        description: html Data
+        required: true
+        schema:
+          $ref: '#/definitions/html'
+    summary: Post html
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+  # [delete] html
+  delete:
+      tags:
+      - html
+      summary: Delete html By Id
+      parameters:
+      - name: id
+        in: path
+        description: html Id
+        required: true
+      responses:
+        200:
+          description: 'OK'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+/api/operation/fileSign/{id}:
+  get:
+    security:
+      - Bearer: []
+    tags:
+      - operation
+    summary: obtiene el archivo de firma
+  parameters:
+    - id: id
+      in: path
+      description: id de la operacion procedures_id
+      required: true
+      type: string
+  responses:
+    200:
+      description: 'PDF'
+    500:
+      description: 'Server Error'
+
+/api/operation/getdocs/{id}:
+  get:
+    security:
+      - Bearer: []
+    tags:
+      - operation
+    summary: obtiene un preview del documento PDF
+  parameters:
+    - id: id
+      in: path
+      description: id de la operacion procedures_id
+      required: true
+      type: string
+  responses:
+    200:
+      description: 'PDF'
+    500:
+      description: 'Server Error'
+  
+/api/docs:
+  get:
+    security:
+      - Bearer: []
+    tags:
+      - docs
+    summary: obtiene las plantillas de los documentos
+    responses:
+      200:
+        description: 'OK'
+        schema:
+          $ref: "#/definitions/pagginationDocs"
+      500:
+        description: 'Server Error'
+  # [post] docs
+  post:
+    security:
+    - Bearer: []
+    tags:
+    - docs
+    parameters:
+      - name: body
+        in: body
+        description: docs Data
+        required: true
+        schema:
+          $ref: '#/definitions/docs'
+    summary: Post plantilla DOC
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+  # [put] docs
+  put:
+    security:
+      - Bearer: []
+    tags:
+    - docs
+    summary: Post de un documento docx para plantilla de documentos
+    consumes:
+      - multipart/form-data
+    parameters:
+      - in: formData
+        name: file
+        type: file
+        description: The file to upload.
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+  # [delete] docs/id
+  delete:
+    tags:
+      - docs
+    summary: Delete docs By Id
+    parameters:
+      - id: id
+        in: path
+        description: docs Id
+        required: true
+        type: string
+    responses:
+      200:
+        description: 'OK'
+      409:
+        description: 'Conflict'
+      500:
+        description: 'Server Error'
+
+# [GET] docs/id
+/api/docs/{id}:
+    get:
+      tags:
+      - docs
+      summary: Find doc By Id
+      parameters:
+      - name: id
+        in: path
+        description: doc Id
+        required: true
+      responses:
+        200:
+          schema:
+            $ref: '#/definitions/docs'
+          description: 'OK'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+
+/api/form:
+  get:
+    security:
+    - Bearer: []
+    tags:
+    - form
+    summary: obtiene las plantillas de los formularios
+    responses:
+    200:
+      description: 'OK'
+      schema:
+        $ref: "#/definitions/pagginationForm"
+    500:
+      description: 'Server Error'
+  
+  post:
+    security:
+    - Bearer: []
+    tags:
+    - form
+    parameters:
+      - name: body
+        in: body
+        description: form Data
+        required: true
+        schema:
+          $ref: '#/definitions/form'
+    summary: Post formulario
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+
+  put:
+    tags:
+    - form
+    security:
+      - Bearer: []
+    summary: Put de un formulario
+    parameters:
+      - name: id
+        in: path
+        description: form Id
+        required: true
+      - name: body
+        in: body
+        description: form Data
+        required: true
+        schema:
+          $ref: '#/definitions/form'
+    response:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+
+  delete:
+    tags:
+      - form
+    summary: Delete form By Id
+    parameters:
+      - id: id
+        in: path
+        description: form Id
+        required: true
+        type: string
+    responses:
+      200:
+        description: 'OK'
+      409:
+        description: 'Conflict'
+      500:
+        description: 'Server Error'
+
+# [GET] form/id
+/api/form/{id}:
+    get:
+      tags:
+      - form
+      summary: Find form By Id
+      parameters:
+      - name: id
+        in: path
+        description: form Id
+        required: true
+      responses:
+        200:
+          schema:
+            $ref: '#/definitions/form'
+          description: 'OK'
+        409:
+          description: 'Conflict'
+        500:
+          description: 'Server Error'
+
+
+/api/procedure:
+  get:
+    security:
+      - Bearer: []
+    tags:
+      - procedure
+    summary: obtienes los procedimientos
+    responses:
+      200:
+        description: 'OK'
+        schema:
+          $ref: "#/definitions/pagginationProcedure"
+      500:
+      description: 'Server Error'
+
+  post:
+    security:
+    - Bearer: []
+    tags:
+    - procedure
+    parameters:
+      - name: body
+        in: body
+        description: procedure Data
+        required: true
+        schema:
+          $ref: '#/definitions/createProcedure'
+    summary: Post procedure
+    responses:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+
+  put:
+    tags:
+    - procedure
+    security:
+      - Bearer: []
+    summary: Put de un procedure
+    parameters:
+      - name: id
+        in: path
+        description: procedure Id
+        required: true
+      - name: body
+        in: body
+        description: procedure Data
+        required: true
+        schema:
+          $ref: '#/definitions/putProcedure'
+    response:
+      200:
+        description: 'OK'
+      500:
+        description: 'Server Error'
+
+
+
+
+# definitions
+definitions:
+  users:
+    type: object
+    required:
+        - email
+        - password
+    properties:
+      id:
+        description: user Id
+      email:
+        type: string
+        description: user Email
+      password:
+        type: string
+        description: user Password
+      company:
+        type: string
+        description: id company, if it haven't so it is admin
+      routes:
+        type: array
+        description: array of path that the user is allowed to access
+      surname:
+        type: string
+        description: name of the surname
+  login:
+    type: object
+    required:
+        - email
+        - password
+    properties:
+      email:
+        type: string
+        description: user Email
+      password:
+        type: string
+        description: user Password
+  bpmn:
+    type: object
+    properties:
+      _id:
+        type: string
+        description: bpmn Id
+      _nameSchema:
+        required: true
+        type: string
+        description: bpmn NameSchema
+      _requirements:
+        type: array
+        items:
+              type: string
+        description: bpmn Requirements
+      _bpmnModeler:
+        type: string
+        description: bpmn Modeler
+      createdAt:
+        type: string
+        description: bpmn CreatedAt
+      updatedAt:
+        type: string
+        description: bpmn UpdatedAt
+  pagginationBPMN:
+    type: object
+    properties:
+      page:
+        type: integer
+        description: paggination page
+      limit:
+        type: integer
+        description: paggination limit
+      total:
+        type: integer
+        description: paggination total
+      pages:
+        type: integer
+        description: paggination pages
+      docs:
+        type: array
+        items:
+          oneOf:
+            - $ref: '#/definitions/bpmn'
+            - $ref: '#/definitions/bpmn'
+        description: paggination docs
+  participant:
+    type: object
+    properties:
+      id:
+        type: string
+        description: id participante
+      name:
+        type: string
+        description: nombre participante encargado de completar el proceso
+      processRef:
+        type: string
+        description: referencia del proceso
+      start:
+        type: string
+        description: id elemento bpmn de inicio
+      steps:
+        type: array
+        items:
+          oneOf:
+            - $ref: '#/definitions/step'
+      forms:
+        type: array
+        items:
+          oneOf:
+            - $ref: '#/definitions/form'
+  step:
+    type: object
+    properties:
+      id:
+        type: string
+        description: id del paso
+      name:
+        type: string
+        description: nombre del paso
+      custom:functions:
+        type: string
+        description: tipo de funcion ejemplo:form
+      custom:form: 
+        type: string
+        description: id del formulario
+      custom:html:
+        type: string
+        description: id del html
+      custom:days:
+        type: string
+        description: dias que tiene para completar el paso
+      first:
+        type: boolean
+        description: indica si es o no el primer paso
+      from:
+        type: string
+        description: id del paso anterior
+  form:
+    type: object
+    properties:
+      _properties:
+        type: array
+        items:
+          type: string
+        description: arreglo de los id de los campos del formulario
+      _id:
+        type: string
+        description: id del formulario
+      _stringJson:
+        type: string
+        description: string json del formulario
+      _title:
+        type: string
+        description: titulo del formulario a diferencia del alias este debe ser cortito
+      _alias:
+        type: string
+        description: alias del formulario este sirve como titulo publico extenso.
+      _description:
+        type: string
+        description: descripcion del formulario
+      _stringUiJson:
+        type: string
+        description: string json UI del formulario
+      to:
+        type: string
+        description: id del paso siguiente
+  email:
+    type: object
+    properties:
+      _id:
+          type: string
+          description: id del email
+      _body:
+        type: string
+        description: cuerpo del email
+      _recipient:
+        type: string
+        description: destinatario del email
+      _subject:
+        type: string
+        description: asunto del email
+      _title:
+        required: true
+        type: string
+        description: titulo del email
+      _template:
+        type: string
+        description: template del email
+  html:
+    type: object
+    properties:
+      _id:
+        type: string
+        description: id del html
+      _template:
+        type: string
+        description: template del html
+      _title:
+        required: true
+        type: string
+        description: titulo del html
+      _body:
+        type: string
+        description: cuerpo del html
+  pagginationHtml:
+    type: object
+    properties:
+      page:
+        type: integer
+        description: paggination page
+      limit:
+        type: integer
+        description: paggination limit
+      total:
+        type: integer
+        description: paggination total
+      pages:
+        type: integer
+        description: paggination pages
+      docs:
+        type: array
+        items:
+          oneOf:
+            - $ref: '#/definitions/html'
+            - $ref: '#/definitions/html'
+        description: paggination html
+  docs:
+    type: object
+    properties:
+      _id:
+        type: string
+        description: id del documento
+      _title:
+        type: string
+        description: titulo del documento
+        required: true
+      _key:
+        type: string
+        description: nombre del archivo
+      _location:
+        type: string
+        description: ubicacion del documento
+  pagginationDocs:
+    type: object
+    properties:
+      page:
+        type: integer
+        description: paggination page
+      limit:
+        type: integer
+        description: paggination limit
+      total:
+        type: integer
+        description: paggination total
+      pages:
+        type: integer
+        description: paggination pages
+      docs:
+        type: array
+        items:
+          oneOf:
+            - $ref: '#/definitions/docs'
+            - $ref: '#/definitions/docs'
+        description: paggination docs
+  pagginationForm:
+    type: object
+    properties:
+      page:
+        type: integer
+        description: paggination page
+      limit:
+        type: integer
+        description: paggination limit
+      total:
+        type: integer
+        description: paggination total
+      pages:
+        type: integer
+        description: paggination pages
+      docs:
+        type: array
+        items:
+          oneOf:
+            - $ref: '#/definitions/form'
+            - $ref: '#/definitions/form'
+        description: paggination docs
+  pagginationProcedure:
+    type: object
+    properties: 
+      page:
+          type: integer
+          description: paggination page
+      limit:
+        type: integer
+        description: paggination limit
+      total:
+        type: integer
+        description: paggination total
+      pages:
+        type: integer
+        description: paggination pages
+      docs:
+        type: array
+        items:
+          oneOf:
+            - $ref: '#/definitions/procedure'
+            - $ref: '#/definitions/procedure'
+        description: paggination docs
+  procedure:
+    type: object
+    properties:
+      bpmn:
+        type: object
+        description: ID y description del bpmn a ejecutar
+      createdAt:
+        type: string
+        description: fecha en la que se creo la operacion
+      email: 
+        type: string
+        description: email de quien creó la operacion
+      gestores:
+        type: array
+        description: arreglo con el estado de la tarea en la que va la operacion salen los dias de vencimiento igual
+  createProcedure:
+      type: object
+      properties:
+        bpmn:
+          type: object
+          description: ID y description del bpmn a ejecutar
+        participants:
+          type: array
+          description: arreglo con objetos de los participantes del bpmn, ID y user 
+          items:
+              type: object
+  putProcedure:
+      type: object
+      properties:
+        current:
+          type: string
+          description: ID de la tarea actual que se esta ejecutando
+        data:
+          type: object
+          description: objetos de los formularios con sus campos
+          properties:
+            form:
+              type: object
+              description: objeto con los datos del formulario, la propiedad id y el valor
+            form_names:
+              type: object
+              description: objeto con los nombres de los formularios osea el titulo que tiene el form
+            form_types:
+              type: object
+              description: objeto con los tipos de los formularios, este objeto puede ir vacío
+            titleStage:
+              type: string
+              description: titulo de la etapa
+            type:
+              type: string
+              description: tipo de la etapa por ejemplo   form
+schemes:
+ - https
+ - http

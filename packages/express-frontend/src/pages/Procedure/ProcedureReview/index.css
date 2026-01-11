@@ -1,0 +1,62 @@
+.ProcedureReview .headerReview {
+  height: 50vh !important ;
+}
+
+.container-logo {
+  display: flex;
+  width: 100%;
+  place-content: center;
+}
+.tileReview {
+  height: 200px !important;
+}
+
+.ProcedureReview .ContinueForm {
+  background-color: #2e67fb;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border: 0px !important;
+}
+
+.TableButtonReview {
+  margin-right: 25px;
+  cursor: pointer;
+  border: 0px;
+  bottom: -9px;
+  font-size: 16px;
+  color: #fff;
+  position: relative;
+  font-weight: 700;
+  background-color: #68e1c4;
+  float: right;
+  padding: 5px;
+  border-radius: 13px;
+  left: 23px;
+  min-width: 88px;
+}
+
+.cardGestdoc {
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  border-radius: 25px;
+  flex-flow: column;
+  align-items: center;
+  margin-top: 33px;
+  width: 50%;
+  overflow: auto;
+  box-shadow: 0 0.46875rem 2.1875rem rgb(59 62 102 / 3%), 0 0.9375rem 1.40625rem rgb(59 62 102 / 3%),
+    0 0.25rem 0.53125rem rgb(59 62 102 / 5%), 0 0.125rem 0.1875rem rgb(59 62 102 / 3%);
+}
+
+.title_general {
+  color: #44378a;
+  text-align-last: center;
+  font-size: 1.5rem;
+  font-family: Heebo, sans-serif;
+  line-height: 1.334;
+  font-weight: 600;
+  padding: 15px;
+}

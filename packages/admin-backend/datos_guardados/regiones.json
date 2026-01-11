@@ -1,0 +1,55 @@
+{
+    "_fieldName":"region",
+    "_type": "string",
+    "_widget": "select",
+    "_default": "RM",
+    "_description":"Región",
+    "_oneOf": [
+        {
+            "_enum": ["RM"],
+            "_description":"Región Metropolitana"
+        },{
+            "_enum": ["XV"],
+            "_description":"XV Arica y Parinacota"
+        },{
+            "_enum": ["I"],
+            "_description":"I Tarapacá"
+        },{
+            "_enum": ["II"],
+            "_description":"II Antofagasta"
+        },{
+            "_enum": ["III"],
+            "_description":"III Atacama"
+        },{
+            "_enum": ["IV"],
+            "_description":"IV Coquimbo"
+        },{
+            "_enum": ["V"],
+            "_description":"V Valparaíso"
+        },{
+            "_enum": ["VI"],
+            "_description":"VI O Higgins"
+        },{
+            "_enum": ["VII"],
+            "_description":"VII Maule"
+        },{
+            "_enum": ["VIII"],
+            "_description":"VIII Biobío"
+        },{
+            "_enum": ["IX"],
+            "_description":"IX La Araucanía"
+        },{
+            "_enum": ["XIV"],
+            "_description":"XIV Los Ríos"
+        },{
+            "_enum": ["X"],
+            "_description":"X Los Lagos"
+        },{
+            "_enum": ["XI"],
+            "_description":"XI Aysén"
+        },{
+            "_enum": ["XII"],
+            "_description":"XII Magallanes y Antártica"
+        }
+    ]
+}

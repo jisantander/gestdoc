@@ -1,0 +1,13 @@
+//  Core
+
+
+.__floater {
+  z-index: 1400 !important;
+}
+
+.__floater__body {
+  button {
+    @include border-radius($border-radius !important);
+    outline: none !important;
+  }
+}

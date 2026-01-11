@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+        "Name": "084824435498.dkr.ecr.us-east-1.amazonaws.com/gestdoc-express:prod"
+    },
+    "Ports": [
+        {
+            "ContainerPort": 8080
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+.input_gestdoc:focus {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #00417a;
+}
+
+.input_gestdoc:hover {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #00417a;
+}
+
+.justForm .input_gestdoc {
+  color: #060606;
+  background-color: white;
+  border-radius: 19px;
+  height: 55px;
+  background: none;
+}
+
+.justForm input[type="date"] {
+  padding-right: 14px !important;
+}
+
+.input_gestdoc,
+select {
+  margin-top: 5px;
+  padding-left: 15px !important;
+  font: inherit;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  border: 0px;
+  margin: 10px 0px 0px 0px;
+  display: block;
+  padding: 6px 0 7px;
+  min-width: 0;
+  box-sizing: border-box;
+  animation-name: mui-auto-fill-cancel;
+  letter-spacing: inherit;
+  animation-duration: 10ms;
+  -webkit-tap-highlight-color: transparent;
+
+  color: rgba(0, 0, 0, 0.87);
+  cursor: text;
+  display: inline-flex;
+  position: relative;
+  font-size: 1rem;
+  align-items: center;
+  font-family: Heebo, sans-serif !important;
+  font-weight: 400;
+  line-height: 1.1876em;
+}
+
+input::placeholder {
+  color: #b3b3b3;
+}
+
+.MuiFormHelperText-root {
+  display: none;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.input_date input {
+  margin-top: 5px;
+  padding-left: 15px !important;
+  font: inherit;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+
+  box-sizing: border-box;
+  animation-name: mui-auto-fill-cancel;
+  letter-spacing: inherit;
+  animation-duration: 10ms;
+  -webkit-tap-highlight-color: transparent;
+
+  color: rgba(0, 0, 0, 0.87);
+  cursor: text;
+  display: inline-flex;
+  position: relative;
+  font-size: 1rem;
+  font-family: Heebo, sans-serif !important;
+  font-weight: 400;
+  line-height: 1.1876em;
+
+  background-color: white;
+  border-radius: 19px;
+  height: 55px;
+  background: none;
+}
+
+.input_gestdocEditSign input {
+  margin-top: 5px;
+  padding-left: 15px !important;
+  font: inherit;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  border: 0px;
+  margin: 10px 0px 0px 0px;
+  display: block;
+  padding: 6px 0 7px;
+  min-width: 0;
+  box-sizing: border-box;
+  animation-name: mui-auto-fill-cancel;
+  letter-spacing: inherit;
+  animation-duration: 10ms;
+  -webkit-tap-highlight-color: transparent;
+
+  color: rgba(0, 0, 0, 0.87);
+  cursor: text;
+  display: inline-flex;
+  position: relative;
+  font-size: 1rem;
+  align-items: center;
+  font-family: Heebo, sans-serif !important;
+  font-weight: 400;
+  line-height: 1.1876em;
+  height: 40px;
+  border-radius: 10px;
+}

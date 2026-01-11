@@ -1,0 +1,10 @@
+#sign_advance_ul_li li {
+  border: 1px solid #27378e;
+  margin: 20px;
+  padding: 20px;
+  box-sizing: content-box;
+  border-radius: 19px;
+}
+#sign_advance_ul_li div {
+  margin: 5px;
+}

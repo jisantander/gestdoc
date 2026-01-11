@@ -1,0 +1,211 @@
+{
+    "_taskName": "Ingreso de Datos",
+    "_parentTasks": [],
+    "_icon": "chevron_right",
+    "_fields": [
+        "598db50f0daf6668591757c4",
+        "598db56a0daf6668591757c7",
+        "598db5730daf6668591757c8",
+        "598db6eb0daf6668591757ce",
+        "598db6f20daf6668591757cf",
+        "598db6fe0daf6668591757d0",
+        "598db6db0daf6668591757cd",
+        "598db7090daf6668591757d3",
+        "598d112027366916e82b2b51",
+        "598d1573ee3d283681675bf5",
+        "598db7110daf6668591757d4"
+    ],
+    "_dueDays": 45
+},
+
+{
+    "_taskName": "Búsqueda de Inscripción",
+    "_parentTasks": [
+        "5995f367ce307c45c559fb1f",
+        "5996141e093aab3a43154b64"
+    ],
+    "_icon": "chevron_right",
+    "_fields": [
+        "598db7090daf6668591757d3",
+        "598d112027366916e82b2b51",
+        "598d1573ee3d283681675bf5",
+        "598db7110daf6668591757d4"
+    ]
+},
+
+{
+    "_taskName": "Inscripción de dominio ubicada",
+    "_parentTasks": [
+        "5995f3a6ce307c45c559fb20"
+    ],
+    "_icon": "chevron_right",
+    "_fields": [
+        "598db7830daf6668591757d8"
+    ]
+},
+
+{
+    "_taskName": "Solicitud de cotizacion GP y Dominio",
+    "_parentTasks": [
+        "5995f406ce307c45c559fb21"
+    ],
+    "_icon": "chevron_right",
+    "_fields": [
+        "598db7970daf6668591757d9"
+    ]
+},
+
+{
+    "_taskName": "GP y Dominio solicitados",
+    "_parentTasks": [
+        "5995f518ce307c45c559fb22"
+    ],
+    "_icon": "chevron_right",
+    "_fields": [
+        "598db7a30daf6668591757da",
+        "598db7ac0daf6668591757db",
+        "598db7bb0daf6668591757dc"
+    ]
+},
+
+{
+    "_taskName": "Pago de GP y Dominio solicitado",
+    "_parentTasks": [
+        "5995f5afce307c45c559fb23"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "Pago de GP y Dominio gestionado",
+    "_parentTasks": [
+        "5995f6acce307c45c559fb24"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "GP y Dominio pagados",
+    "_parentTasks": [
+        "5995f6c8ce307c45c559fb25"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "GP y Dominio recibidos",
+    "_parentTasks": [
+        "5995f6e7ce307c45c559fb26"
+    ],
+    "_icon": "chevron_right",
+    "_fields": [
+        "598db7090daf6668591757d3",
+        "598d112027366916e82b2b51",
+        "598d1573ee3d283681675bf5",
+        "5995f848ce307c45c559fb27",
+        "598db7830daf6668591757d8",
+        "599605cbafa07846ee49c78e",
+        "59960666afa07846ee49c791",
+        "599606b4afa07846ee49c793",
+        "59960968e010f27e86ed8ebf",
+        "59960977e010f27e86ed8ec0",
+        "59960df0e010f27e86ed8ec1"
+    ]
+},
+
+/**
+**    Voy acá!
+**/
+
+{
+    "_taskName": "Solicitud de Cotización Escritura",
+    "_parentTasks": [
+        "5996141e093aab3a43154b64"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "Escritura solicitada",
+    "_parentTasks": [
+        "5996152ff3bec45e63d2a40f"
+    ],
+    "_icon": "chevron_right",
+    "_fields": [
+        "599611a30f9ce028705a7168"
+    ]
+},
+
+{
+    "_taskName": "Pago de escritura solicitado",
+    "_parentTasks": [
+        "599616157bf596697947f77e"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "Pago de escritura gestionado",
+    "_parentTasks": [
+        "599618707bf596697947f77f"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "Escritura pagada",
+    "_parentTasks": [
+        "599618807bf596697947f780"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "Escritura recibida",
+    "_parentTasks": [
+        "599618987bf596697947f781"
+    ],
+    "_icon": "chevron_right",
+    "_fields": [
+        "59960fab4bc4977851b2f406",
+        "599611fa0f9ce028705a7169"
+    ]
+},
+
+{
+    "_taskName": "Informe Generado",
+    "_parentTasks": [
+        "5996198a7bf596697947f782",
+        "5996141e093aab3a43154b64"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "Tramitación Judicial",
+    "_parentTasks": [
+        "59961a907bf596697947f783"
+    ],
+    "_icon": "chevron_right"
+},
+
+{
+    "_taskName": "Servicio Facturado",
+    "_parentTasks": [
+        "59961ab97bf596697947f784"
+    ],
+    "_icon": "chevron_right",
+    "_fields": [
+        "599612240f9ce028705a716a",
+        "599612540f9ce028705a716b",
+        "599612bd0f9ce028705a716c"
+    ]
+},
+
+{
+    "_taskName": "Término y pago Fact. Registrados",
+    "_parentTasks": [
+        "59961b5997a211391052a894"
+    ],
+    "_icon": "chevron_right"
+}

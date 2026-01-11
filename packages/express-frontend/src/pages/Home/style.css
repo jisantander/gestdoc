@@ -1,0 +1,13 @@
+#homeInitial .input_gestdoc:hover {
+  outline: 0;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+}
+
+#homeInitial .MuiInputBase-input:hover {
+  outline: 0;
+  box-shadow: none !important;
+}
+
+#homeInitial .MuiInputBase-input:focus {
+  box-shadow: none !important;
+}

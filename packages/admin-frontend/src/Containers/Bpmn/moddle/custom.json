@@ -1,0 +1,132 @@
+{
+	"name": "custom",
+	"uri": "http://custom/ns",
+	"associations": [],
+	"types": [
+		{
+			"name": "TopicHolder",
+			"extends": ["bpmn:ServiceTask", "bpmn:Task"],
+			"properties": [
+				{
+					"name": "topic",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "functions",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "form",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "stage",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "doc",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "email",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "html",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "charge_value",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "insert_site",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "charge_by_sign",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "field_to_evaluate",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "expected_result",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "view_collaborations",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "back",
+					"isAttr": true,
+					"type": "Boolean"
+				},
+				{
+					"name": "notification",
+					"isAttr": true,
+					"type": "Boolean"
+				},
+				{
+					"name": "num_sign",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "days",
+					"isAttr": true,
+					"type": "Number"
+				},
+				{
+					"name": "fixed_sign",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "doc_type",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "ecert_type",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "ecert_rut",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "ecert_restrict",
+					"isAttr": true,
+					"type": "String"
+				},
+				{
+					"name": "download_name",
+					"isAttr": true,
+					"type": "String"
+				}
+			]
+		}
+	],
+	"prefix": "custom",
+	"xml": {
+		"tagAlias": "lowerCase"
+	}
+}

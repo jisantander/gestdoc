@@ -1,0 +1,150 @@
+.grid-container.formanddoc {
+  display: grid;
+  grid-template-columns: 0.7fr 1.3fr;
+  grid-template-rows: 1fr;
+  gap: 90px 50px;
+  grid-template-areas: "form text";
+}
+.form {
+  grid-area: form;
+}
+.text {
+  grid-area: text;
+}
+
+.formanddoc input {
+  color: #060606 !important;
+  background-color: white !important;
+  /*border-radius: 19px !important;
+    height: 40px !important;*/
+}
+
+.formanddoc .input_gestdoc {
+  color: #060606;
+  background-color: white;
+  border-radius: 19px;
+  height: 55px;
+  background: none;
+}
+
+input[type="checkbox" i]:focus {
+  outline-offset: 0px !important;
+}
+
+.formanddoc input[type="date"] {
+  padding-right: 14px !important;
+  /*margin-top: 20px; */
+}
+
+:focus {
+  outline: -webkit-focus-ring-color auto 0px;
+  outline-color: transparent !important;
+  outline-style: auto;
+  outline-width: 0px;
+}
+
+.formanddoc .MuiSelect-icon {
+  margin-top: -17px;
+  color: #68e1c4 !important;
+  right: 0;
+  font-size: 60px !important;
+  position: absolute;
+  pointer-events: none;
+}
+
+.formanddoc .MuiSelect-select {
+  color: #060606 !important;
+  background-color: white !important;
+  border-radius: 19px !important;
+  height: 29px !important;
+  padding-top: 19px !important;
+}
+
+.formanddoc .MuiFormControl-root label {
+  margin-top: -7px;
+  transform: scaleX(1) !important;
+  color: white !important;
+  font-size: 18px !important;
+  font-weight: 400;
+}
+
+.formanddoc .MuiFormControl-root .MuiTextField-root {
+  margin-bottom: 22px !important;
+}
+
+.formanddoc .MuiInput-underline:before {
+  border-bottom: none !important;
+}
+
+.formanddoc h5 {
+  margin-bottom: 21px;
+  color: white;
+}
+
+.MuiInputBase-input {
+  padding-left: 15px !important;
+}
+
+.formanddoc .fileWidget {
+  margin-bottom: -3px;
+}
+
+.formanddoc .MuiFormHelperText-root {
+  color: rgb(255 255 255) !important;
+  margin-top: -19px;
+  font-size: 17px !important;
+}
+
+.formanddoc .MuiBox-root {
+  margin-bottom: 20px;
+  border-bottom: 1px solid white;
+}
+
+.formanddoc h5 {
+  text-align-last: center;
+}
+
+.ContinueForm {
+  margin-top: 11px;
+}
+.ContinueForm {
+  margin-right: 21px;
+  border: 0px;
+  bottom: -9px;
+  font-size: 18px;
+  color: #fff;
+  position: relative;
+  font-weight: 700;
+  margin-bottom: 23px;
+  background-color: #68e1c4;
+  float: right;
+  padding: 17px;
+  border-radius: 13px;
+  left: 23px;
+  min-width: 88px;
+}
+
+.left-card {
+  border-right: #68e1c4 3px solid;
+}
+
+button.MuiButtonBase-root {
+  float: right;
+}
+
+strong {
+  color: #241d50;
+}
+
+.hola {
+  color: #3167fb;
+  font-weight: 600;
+}
+
+p[id*="region_comuna_id"] {
+  margin-top: 3px !important;
+}
+
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12 {
+  margin-bottom: 0px !important;
+}

@@ -1,0 +1,20 @@
+.ContinueSignature {
+  margin-top: 11px;
+  float: left !important;
+  border: 0px;
+  bottom: -9px;
+  font-size: 18px;
+  color: #fff;
+  position: relative;
+  font-weight: 700;
+  margin-bottom: 23px;
+  background-color: #2e67fb;
+  padding: 17px;
+  border-radius: 13px;
+  min-width: 88px;
+}
+
+.title {
+  color: #6d75fc;
+  font-style: italic;
+}

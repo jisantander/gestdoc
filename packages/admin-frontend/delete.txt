@@ -1,0 +1,22 @@
+caracteristicas del documento
+
+
+1) Puede salir la informacion de una o mas personas, socios
+
+2) Las personas pueden estar casadas o no.
+
+3) Se puede o no pedir informacion del conyuge
+
+4) N informacion por participante...
+
+Opciones para resolver todo esto.
+
+
+A) pre cargar un arreglo en 0 con un  objetos de tipo informacion persona.  que pida siempre la misma informacion, y dado N veces el objeto es las veces que se pinta en el documento.
+problemas con esto...
+
+quizas sea dificil para el usuario entender esta funcionalidad.
+
+B) que el sistema le pregunte cosas como ¿cuantas personas son? y según eso es el formulario que tienen que llenar.
+
+C) sobre el envío de links evaluar si existe esa factibilidad.

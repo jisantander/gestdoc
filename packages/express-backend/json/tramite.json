@@ -1,0 +1,1802 @@
+[
+    {
+        "id": 1,
+        "name": "Autorización de Viaje - Ambos Padres autorizan - 1 Hijo ",
+        "requisitos": "<ul><li>Comparecencia personal del padre con cédula de identidad vigente.</li><li>Comparecencia personal de la madre con cédula de identidad vigente.</li><li>Certificado de nacimiento para todo trámite<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.\r\n\r\nEste documento te permitirá generar una autorización notarial para que un tercero, distinto de sus padres, quede en custodia del menor y así poder salir del país.\r\n",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Autorización de Viaje - Ambos Padres autorizan - 2 Hijos ",
+        "requisitos": "<ul><li>Comparecencia personal del padre con cédula de identidad vigente.</li><li>Comparecencia personal de la madre con cédula de identidad vigente.</li><li>Certificado de nacimiento para todo trámite<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "Autorización de Viaje - Ambos Padres autorizan - 3 Hijos",
+        "requisitos": "<ul><li>Comparecencia personal del padre con cédula de identidad vigente.</li><li>Comparecencia personal de la madre con cédula de identidad vigente.</li><li>Certificado de nacimiento para todo trámite<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 15000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 84,
+        "name": "Mandato General (Poder Amplio)",
+        "requisitos": "<ul><li>Comparecencia personal con cédula de identidad vigente</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/MandatoGeneral",
+        "descripcion": "El mandato o “poder general” es una escritura pública, por la cual una persona (el mandante) le encarga a otra persona (el mandatario) que le represente en todos los asuntos, juicios y negocios de cualquier naturaleza que sean y que actualmente tenga o que pueda tener en el futuro.",
+        "categoria": "Otros",
+        "categoriaNEX": "Mandatos",
+        "masvendido": false,
+        "total": 12000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Autorización de Viaje - Padre Autoriza - 1 Hijo",
+        "requisitos": " <ul>\r\n<li>Comparecencia personal del padre con cédula de identidad vigente.</li> <li>Certificado de nacimiento para todo trámite <a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.\r\n\r\nEste documento te permitirá generar una autorización notarial para que el menor, junto a su madre, pueda salir del país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 14000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "Autorización de Viaje - Padre Autoriza - 2 Hijos",
+        "requisitos": "<ul><li>Comparecencia personal del padre con cédula de identidad vigente.</li><li>Certificado de nacimiento para todo trámite<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 16000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "Autorización de Viaje - Padre Autoriza - 3 Hijos",
+        "requisitos": "<ul><li>Comparecencia personal del padre con cédula de identidad vigente.</li><li>Certificado de nacimiento para todo trámite<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 17000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Autorización de Viaje - Madre Autoriza - 1 Hijo",
+        "requisitos": " <ul>\r\n<li>Comparecencia personal de la madre con cédula de identidad vigente.</li><li>Certificado de nacimiento para todo trámite <a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.\r\n\r\nEste documento te permitirá generar una autorización notarial para que el menor, junto a su padre, pueda salir del país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 17500,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "Autorización de Viaje - Madre Autoriza - 2 Hijos",
+        "requisitos": "<ul><li>Comparecencia personal de la madre con cédula de identidad vigente.</li><li>Certificado de nacimiento para todo trámite<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.vEste documento te permitirá generar una autorización notarial para que el menor, junto a su padre, pueda salir fuera del país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 13500,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "Autorización de Viaje - Madre Autoriza - 3 Hijos",
+        "requisitos": "<ul><li>Comparecencia personal de la madre con cédula de identidad vigente.</li><li>Certificado de nacimiento para todo trámite<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.vEste documento te permitirá generar una autorización notarial para que el menor, junto a su padre, pueda salir fuera del país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 12300,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 33,
+        "name": "Autorización de Viaje - Padre Autoriza a Tercero - 1 Hijo",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 85,
+        "name": "Mandato Específico o Especial (Escritura pública)",
+        "requisitos": "<ul><li>Comparecencia personal con cédula de identidad vigente</li><li>Minuta de abogado</li><b>IMPORTANTE:</b>Minuta de abogado debe ser informada ANTES de concurrir a notaría. Esta debe ser cargada en link especial enviado en comprobante de pago.</ul>",
+        "urlMasInformacion": "Mandato Específico o Especial (Escritura pública)",
+        "descripcion": "El mandato o “poder especial” es una escritura pública, a través de la cual una persona (mandante) le encarga a otra persona (mandatario) que le represente en uno o más asuntos específicos, claramente determinados. El mandatario sólo está autorizado a realizar lo que está escrito en el mandato.",
+        "categoria": "Otros",
+        "categoriaNEX": "Mandatos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 34,
+        "name": "Autorización de Viaje - Padre Autoriza a Tercero - 2 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 87,
+        "name": "Pagaré",
+        "requisitos": "<ul><li>Comparecencia personal con cédula de identidad vigente</li><li>Impuestos se pagan en notaría.</li>IMPORTANTE: Este documento tiene impuestos, los que deben ser cancelados en notaría con cheque nominativo a nombre de Tesorería General de la República (TGR).</ul>",
+        "urlMasInformacion": "Pagare",
+        "descripcion": "Un pagaré es el compromiso incondicional entre personas, naturales o jurídicas, de que el suscriptor pagará al beneficiario cierta cantidad de dinero en cierta cantidad de plazo.",
+        "categoria": "Otros",
+        "categoriaNEX": "Otros",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 88,
+        "name": "Transferencia de Vehículo - Persona natural",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del vendedor con cédula de identidad vigente</li>\r\n<li>Comparecencia personal del comprador con cédula de identidad vigente</li>\r\n<li>Certificado anotaciones vigentes del día (sin prohibiciones)</li>\r\n<li>Permiso de circulación vigente</li><li>Por parte del comprador, se debe abonar en efectivo los costos adicionales a la actuación notarial (impuestos e inscripción en Registro Civil). Estos costos son aproximadamente $35.000 + 1,5% del valor mayor de transferencia o tasación fiscal.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/transferenciadevehiculo",
+        "descripcion": "La transferencia de vehículo para persona natural, es el contrato de compra venta para vehículo entre particulares, la que permite al propietario de un vehículo traspasar a una tercera persona, y la correspondiente inscripción en el registro de vehículos motorizados, a nombre del nuevo propietario. Al realizarlo en notaría, todo el procedimiento ante el Registro Civil, así como el pago de impuestos, queda a cargo de la notaría, exhimiendo así a los interesados de concurrir al Registro Civil.",
+        "categoria": "Otros",
+        "categoriaNEX": "Vehiculos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 35,
+        "name": "Autorización de Viaje - Padre Autoriza a Tercero - 3 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 36,
+        "name": "Autorización de Viaje - Madre Autoriza a Tercero - 1 Hijo",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal de la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li>\r\n</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 37,
+        "name": "Autorización de Viaje - Madre Autoriza a Tercero - 2 Hijos ",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal de la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li>\r\n</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 38,
+        "name": "Autorización de Viaje - Madre Autoriza a Tercero - 3 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal de la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a></li>\r\n</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "Autorización - Uso domicilio comercial",
+        "requisitos": "<ul><li>Comparecencia personal del Propietario con cédula de identidad vigente.</li><li>Acreditar propiedad del inmueble (comprobante de contribuciones al día, escritura o título de dominio)</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "Algunas instituciones solicitan presentar una autorización para que un domicilio sea utilizado con fines comerciales. Lo más recurrente es con el SII, cuando se desea iniciar actividades.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Empresas",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "Autorización - Trabajo menor de edad",
+        "requisitos": "<ul><li>Comparecencia personal del Padre o Madre con cédula de identidad vigente.</li><li>Certificado de nacimiento</li><li>Acreditar haber culminado educación media, estar cursando ésta o educación básica (ley del trabajo:<a href=\"https://www.dt.gob.cl/legislacion/1624/w3-propertyvalue-145960.html\" target=\"_blank\">Click Aquí)</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "La norma laboral autoriza excepcionalmente a los menores de dieciocho años y mayores de quince a celebrar contratos de trabajo sólo para realizar trabajos ligeros que no perjudiquen su salud y desarrollo siempre que cuenten con autorización expresa del padre o madre.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Laborales",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Certificado de vigencia del contrato de trabajo (Antiguedad laboral) - Persona Natural\r\n",
+        "requisitos": "<ul><li>Comparecencia personal del empleador con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/certificadodeantiguedadlaboral",
+        "descripcion": "Con este documento, el empleador podrá generar una declaración jurada que certifica la antigüedad laboral del dependiente, su puesto de trabajo y su renta.",
+        "categoria": "Certificados",
+        "categoriaNEX": "Laborales",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 65,
+        "name": "Certificado de vigencia del contrato de trabajo (Antigüedad laboral) - Persona Jurídica",
+        "requisitos": "<ul><li>Comparecencia personal del Representante Legal con cédula de identidad vigente.</li><li>Escritura de constitución con vigencia, para validar al Representante Legal.</li><li>Vigencia de poder (si escritura es de más de un año).<a href=\"https://www.conservador.cl/portal/certificado_vigencia_poder\" target=\"_blank\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "http://smartinez-001-site5.ftempurl.com/DeclaracionJurada/",
+        "descripcion": "Con este documento, el empleador podrá generar una declaración jurada que certifica la antigüedad laboral del dependiente, su puesto de trabajo y su renta.",
+        "categoria": "Certificados",
+        "categoriaNEX": "Laborales",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "Certificado - Residencia",
+        "requisitos": "<ul><li>Comparecencia personal del residente con cédula de identidad vigente.</li><b>IMPORTANTE:</b>Debido a la instalación de aduanas sanitarias en algunas regiones del país, se solicita de forma excepcional el acreditar residencia con al menos un documento en original o copia legalizada. Documentos válidos son: cuentas de servicio, cartola bancaria, de AFP o similares, contrato de arriendo y certificado dominio vigente.</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/certificadoderesidencia",
+        "descripcion": "Con este documento, el residente de una propiedad puede acreditar y certificar su residencia ante terceros.",
+        "categoria": "Certificados",
+        "categoriaNEX": "Mas solicitados",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 23,
+        "name": "Declaración de Soltería - SIN TESTIGOS",
+        "requisitos": "<ul><li>Comparecencia personal del declarante con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionEstadocivil",
+        "descripcion": "Para diferentes trámites, la Ley chilena exige que se declare el estado Civil al momento del trámite. Este documento es comúnmente es llamado “declaración de soltería”.",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "Declaración de Soltería - CON TESTIGOS",
+        "requisitos": "<ul><li>Comparecencia personal del Testigo 1 con cédula de identidad vigente (no puede ser pariente del declarante).</li><li>Comparecencia personal del Testigo 2 con cédula de identidad vigente (no puede ser pariente del declarante).</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionEstadocivil",
+        "descripcion": "Para diferentes trámites entre particulares, la Ley chilena exige que se declare el estado Civil al momento del trámite. Una de las formas disponibles para obtener este certificado es a través de un notario, donde dos testigos mayores de 18 años y que no sean parientes del interesado, testifican la calidad del mismo.",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 21,
+        "name": "Declaración jurada - Alcoholes",
+        "requisitos": "<ul><li>Comparecencia personal de quien declara con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionjuradadealcoholes\r\n",
+        "descripcion": "Para la venta, comercialización, renovación de patentes y otros de bebidas alcohólicas, algunas instituciones solicitan este documento donde se indica que dicha persona no se encuentra afecto ni ha actuado en contravención de las causales de inhabilidad establecidas en el Artículo 4º de la Ley 19.925, sobre Expendio y Consumo de Bebidas Alcohólicas.",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 22,
+        "name": "Declaración jurada - Cesantía",
+        "requisitos": "<ul><li>Comparecencia personal del declarante con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionjuradadecesantia\r\n",
+        "descripcion": "Esta declaración bajo juramento es requerida por diferentes instituciones para el cobro de seguros, subvenciones y también para suspensiones de pago de créditos, entre otros.",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 24,
+        "name": "Declaración jurada - Ingresos",
+        "requisitos": "<ul><li>Comparecencia personal de quien declara con cédula de identidad vigente.</li><li>Este documento es solo para personas SIN contrato de trabajo. Para aquellos con contrato, solicitar certificado de antigüedad laboral.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionjuradadeingresos\r\n",
+        "descripcion": "Como su nombre indica, en esta declaración jurada se deja constancia de los ingresos brutos y en la labor desempeñada (puesto de trabajo).",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 25,
+        "name": "Declaración jurada - Extravío licencia de conducir",
+        "requisitos": "<ul><li>Comparecencia personal de quien declara con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionjuradadeextraviodelicenciadeconducir\r\n",
+        "descripcion": "Juzgados de policía local y municipalidades, solicitan frecuentemente que se declare bajo juramento la pérdida de una licencia de conducir o carnet de conducir para la reposición de la misma o bien para otros.\r\n",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 26,
+        "name": "Declaración jurada - Extravío citación juzgado",
+        "requisitos": "<ul><li>Comparecencia personal de quien declara con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionjuradadeextraviodecitacion\r\n",
+        "descripcion": "Juzgados de policía local y municipalidades, solicitan frecuentemente que se declare bajo juramento la pérdida de una licencia de conducir o carnet de conducir para la reposición de la misma o bien para otros.",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 28,
+        "name": "Declaración jurada - Redacción propia (texto libre)",
+        "requisitos": "<ul><li>Comparecencia personal de quien declara con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionjurada\r\n",
+        "descripcion": "\n<b>Importante:\r\n</b>\r\nEl formato al no estar verificado por la notaría, se reserva el derecho a recibirlo.\r\nEl formato debe atenerse estrictamente a los requerimientos del documento, así como a la cantidad de declarantes y sentido del mismo.\r\n\r\n<br></br>Se denomina declaración jurada a la manifestación personal escrita, donde se asegura la veracidad de esa misma declaración ante un Notario Público. Como consecuencia se presume como cierto lo señalado por el declarante hasta que se pueda acreditar lo contrario. <br></br>En caso de requerir un documento con redacción propia, puedes completar el proceso y una vez en notaria indicar y exhibir dicho documento.\r\n\r",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 31,
+        "name": "Declaración jurada - Expensas",
+        "requisitos": " <ul><li>Comparecencia personal del declarante con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionjuradadeexpensas\r\n",
+        "descripcion": "La declaración jurada de expensas es un documento que debe ser solicitado ante notario público y que acredita que una persona asumirá los costos de mantención en Chile de otra persona. Generalmente se utiliza por los solicitantes de residencia que son titulares, respecto de su grupo familiar, o por chilenos que tienen familiares extranjeros a los que se compromete a mantener económicamente.",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 39,
+        "name": "Declaración jurada - No Donante",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del declarante con cédula de identidad vigente.</li>\r\n</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionnodonante",
+        "descripcion": "Hoy, y en virtud de la modificación a la Ley N° 20.673, del año 2013, se entiende que toda persona mayor de 18 años es donante; y para ser no donante, se requiere una declaración jurada ante notario.",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 40,
+        "name": "Declaración jurada - No Partido Politico",
+        "requisitos": "<ul><li>Comparecencia personal del declarante con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/declaracionnopertenecerpartidopolitico",
+        "descripcion": "Para afiliarse a un partido político se requiere ser ciudadano con derecho a sufragio o extranjero avecindado en Chile por más de cinco años. Con todo, no podrán afiliarse a partido político alguno el personal de las Fuerzas Armadas y el de Orden y Seguridad Pública, el del Tribunal Calificador de Elecciones y del Servicio Electoral. Tampoco podrán hacerlo los jueces, secretarios y ministros de fe de los tribunales de justicia; los ministros, relatores, secretarios y fiscales de los tribunales superiores de justicia; los fiscales del Ministerio Público y los abogados asistentes de fiscales, el Defensor Nacional y los defensores regionales, el Contralor General de la República ni los contralores regionales, los notarios y los conservadores.",
+        "categoria": "Declaraciones",
+        "categoriaNEX": "Declaraciones",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 43,
+        "name": "Mandato de posesión efectiva de herencia intestada",
+        "requisitos": "<ul><li>Comparecencia personal del representante legal con cédula de identidad vigente.</li><li>Escritura de constitución con vigencia, para validar al Representante Legal</li><li>Vigencia de poder (si escritura es de mas de un año)</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/poderespecialSII",
+        "descripcion": "En caso de fallecimiento de una persona y que no haya dejado testamento, se permite que los herederos soliciten la autorización para disponer legalmente de los bienes de ella a través de la acreditación ante notario (no requiere la intervención de un abogado).\r\n\r\nEs conveniente que el trámite se haga cuanto antes, ya que con el paso del tiempo los bienes pueden extraviarse, perder valor o ser mal usados.\r\n\r\nSi la persona dejó un testamento en que dispone cómo serán repartidos esos bienes, la posesión efectiva de la herencia se hace ante un tribunal, con la asistencia de un abogado.\r\n",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 29,
+        "name": "Contrato de Arriendo - Inmueble",
+        "requisitos": " <ul><li>Comparecencia personal del arrendador con cédula de identidad vigente.</li><li>Comparecencia personal del arrendatario con cédula de identidad vigente.</li><li>\r\nEscritura de la Propiedad o Certificado de Dominio Vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/contratodearriendo\r\n",
+        "descripcion": "El contrato de arrendamiento es un contrato en el que una persona(arrendador), se obliga a transferir temporalmente el uso y goce de una cosa mueble o inmueble a otra (arrendatario), quien a su vez se obliga a pagar por ese uso o goce un precio cierto y determinado.<br></br>En caso de requerir un documento con redacción propia, puedes completar el proceso y una vez en notaria indicar y exhibir dicho documento.\r\n\r\n",
+        "categoria": "Contratos",
+        "categoriaNEX": "Contratos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 42,
+        "name": "Contrato de Arriendo - Término de Arriendo Inmueble",
+        "requisitos": "<ul><li>Comparecencia personal del arrendador con cédula de identidad vigente.</li><li>Comparecencia personal del arrendatario con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/poderespecialSII",
+        "descripcion": "Los contratos de arriendo establecen un plazo de duración, pero en ciertas circunstancias dicho plazo no puede cumplirse, por lo que se otorga la facultad al arrendatario o al arrendador de poner término anticipado a este contrato a través de un aviso ante notario de “término de contrato”.",
+        "categoria": "Contratos",
+        "categoriaNEX": "Contratos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 30,
+        "name": "Contrato de Arriendo - Vehiculo",
+        "requisitos": " <ul><li>Comparecencia personal del dueño del vehículo con cédula de identidad vigente.</li><li>Permiso de circulación vigente.</li><li>Certificado de anotaciones vigente.</li><li>Vehículo no debe estar con prenda.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/contratodearriendovehiculo\r\n",
+        "descripcion": "El contrato de arrendamiento de vehículo es un contrato en el que una persona(arrendador), se obliga a transferir temporalmente el uso a otra (arrendatario), \rquien a su vez se obliga a pagar un precio cierto y determinado.<br></br>En caso de requerir un documento con redacción propia, puedes completar el proceso y una vez en notaria indicar y exhibir dicho documento.\r",
+        "categoria": "Contratos",
+        "categoriaNEX": "Vehiculos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 47,
+        "name": "Contrato de Trabajo - Extranjeros",
+        "requisitos": "\r\n<p class=\"subtitle text-center\">Requerimientos (persona jurídica)</p><ul><li>\r\n\r\nComparecencia personal del empleado con cédula de identidad vigente.</li><li>\r\nComparecencia personal del representante legal con cédula de identidad vigente.</li><li>\r\nEscritura de constitución con vigencia, para validar al Representante Legal.</li><li>\r\nVigencia de poder (si escritura es de más de un año).\r</li><li>\nTraer tres (3) copias del contrato <a href=\"https://notarioexpress.cl/EjemploContratoTrabajoExtranjero.pdf\" target=\"_blank\">(revisa aquí un ejemplo)</a></li></ul>\r\n<p class=\"subtitle text-center\">Requerimientos (persona natural)</p><ul><li>\r\n\r\nComparecencia personal del empleado con cédula de identidad vigente.</li><li>\r\nComparecencia personal del empleador con cédula de identidad vigente.</li>\r\n<li>Traer tres (3) copias del contrato <a href=\"https://notarioexpress.cl/EjemploContratoTrabajoExtranjero.pdf\" target=\"_blank\">(revisa aquí un ejemplo)</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/ContratosDeTrabajo",
+        "descripcion": "El acuerdo formal entre el trabajador(a), de nacionalidad diferente a la chilena, y el empleador(a) donde se estipulan las condiciones, como por ejemplo, la remuneración a percibir.\r\n",
+        "categoria": "Contratos",
+        "categoriaNEX": "Contratos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 46,
+        "name": "Contrato de Trabajo - Chilenos",
+        "requisitos": "<p class=\"subtitle text-center\">Requerimientos (persona jurídica)</p><ul><li>Comparecencia personal del empleado con cédula de identidad vigente.</li><li>Comparecencia personal del representante legal con cédula de identidad vigente.</li><li>Escritura de constitución con vigencia, para validar al Representante Legal.</li><li>Vigencia de poder (si escritura es de más de un año).</li><li>Traer tres (3) copias del contrato <a target=\"_blank\" href=\"EjemploContratoTrabajo.pdf\">(revisa aquí un ejemplo)</a>.</li> </ul><p class=\"subtitle text-center\">Requerimientos (persona natural)</p><ul><li>Comparecencia personal del empleado con cédula de identidad vigente.</li><li>Comparecencia personal del empleador con cédula de identidad vigente.</li> <li>Traer tres (3) copias del contrato <a target=\"_blank\" href=\"EjemploContratoTrabajo.pdf\">(revisa aquí un ejemplo)</a>.</li> </ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/ContratosDeTrabajo",
+        "descripcion": "El acuerdo formal entre el trabajador(a), de nacionalidad chilena, y el empleador(a) donde se estipulan las condiciones, como por ejemplo, la remuneración a percibir.",
+        "categoria": "Contratos",
+        "categoriaNEX": "Contratos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 44,
+        "name": "Contrato de Trabajo - Trabajador casa particular - Puertas Afuera",
+        "requisitos": "<ul><li>Comparecencia personal del empleado con cédula de identidad vigente.</li><li>Comparecencia personal del empleador con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/ContratosDeTrabajo",
+        "descripcion": "<b>IMPORTANTE:</b> El documento que será entregado en notaría es el disponible en la Dirección del Trabajo. <a href=\" https://www.dt.gob.cl/portal/1626/articles-104572_recurso_2.doc\">Click Aquí</a><br></br>En caso de requerir un documento con redacción propia, puedes completar el proceso y una vez en notaria indicar y exhibir dicho documento (El formato al no estar verificado por la notaría, se reserva el derecho a recibirlo. El formato debe atenerse estrictamente a los requerimientos del documento, así como a la cantidad de declarantes y sentido del mismo).",
+        "categoria": "Contratos",
+        "categoriaNEX": "Contratos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 45,
+        "name": "Contrato de Trabajo - Trabajador casa particular - Puertas Adentro",
+        "requisitos": "<ul><li>Comparecencia personal del empleado con cédula de identidad vigente.</li><li>Comparecencia personal del empleador con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/ContratosDeTrabajo",
+        "descripcion": "<b>IMPORTANTE:</b> El documento que será entregado en notaría es el disponible en la Dirección del Trabajo. <a href=\"https://www.dt.gob.cl/portal/1626/articles-104572_recurso_3.doc\">Click Aquí</a><br></br>En caso de requerir un documento con redacción propia, puedes completar el proceso y una vez en notaria indicar y exhibir dicho documento (El formato al no estar verificado por la notaría, se reserva el derecho a recibirlo. El formato debe atenerse estrictamente a los requerimientos del documento, así como a la cantidad de declarantes y sentido del mismo).",
+        "categoria": "Contratos",
+        "categoriaNEX": "Contratos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 67,
+        "name": "Poder/Mandato Simple - Redacción Propia (Documento Privado)",
+        "requisitos": "<ul><li>Comparecencia personal de la persona natural que entrega el poder, con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "",
+        "descripcion": "Una carta de poder, o mandato, permite que pueda representar a otra en una institución dada con un fin específico, con el fin de realizar algún trámite particular. Básicamente el poder simple entrega la responsabilidad y el poder de actuar en nuestro nombre o en nombre de la persona que lo firme. Este documento es especialmente útil para trámites de cobro de seguros para vehículos.",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Poder - Venta de Vehículo - Persona Natural",
+        "requisitos": "<ul><li>Comparecencia personal del dueño del vehiculo con cédula de identidad vigente.</li><li>Certificado de anotaciones vigentes del vehículo a vender,del día que se firmará el poder.</li><li>Vehículo no debe estar con prenda ni con prohibiciones de actos</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/poderventavehiculo",
+        "descripcion": "El poder de venta de Vehículos, permite que un tercero realice la venta del vehículo con un precio fijo autorizado (vigencia de 1 año máxima).",
+        "categoria": "Poderes",
+        "categoriaNEX": "Vehiculos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 66,
+        "name": "Poder - Retiro Vehículo de Custodia",
+        "requisitos": "<ul><li>Comparecencia personal de la persona natural que entrega el poder, con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/PoderRetiroVehiculo.aspx",
+        "descripcion": "En caso que sea requerido que un tercero retire un vehículo de custodia, es requerido un poder para dicho trámite. Este documento es un instrumento PRIVADO que permite ello.\r\n<br></br>IMPORTANTE: De requerir reducción a escritura pública de este poder, contactar a nuestro soporte.\r\n",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 63,
+        "name": "Poder - Alterar Caracteristicas de Vehiculo",
+        "requisitos": "<ul><li>Comparecencia personal del declarante con cédula de identidad vigente.</li>\r<li>Permiso de circulación vigente.</li><li>Certificado de anotaciones vigente. </li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/podersolicitarplacasvehiculo",
+        "descripcion": "Permite a un tercero inscribir las alteraciones de las características de un vehículo motorizado en el Servicio de Registro Civil e Identificación (SRCeI). No son susceptibles de alterarse el modelo, la marca, el chasis, ni el año de fabricación de un vehículo.\r\n",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Poder - Bancario Simple - Persona Natural",
+        "requisitos": "<ul><li>Comparecencia personal del que otorga el poder con cédula de identidad vigente.</li><br></br><b>\r\nIMPORTANTE:</b> Para administración con poderes amplios, este poder simple no es suficiente, sino que es requerido un poder bancario por escritura pública. Para ello, te invitamos a contactar a nuestro departamento jurídico (contacto@notarioexpress.cl) para que te asistan con tu requerimiento.</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/poderbancario",
+        "descripcion": "El mandato bancario simple para persona natural, permite que una persona natural entregue poder a un tercero, que también debe ser una persona natural, para que opere con poder en representación de ella ante una determinada entidad bancaria.\r\n\r\nDentro de los poderes, se consideran operaciones simples, por ejemplo: solicitar, cobrar y percibir cheques, girar, sobregirar, cancelar, endosar cheque, letras de cambio, pagaré, depositar Vales Vistas u otros documentos mercantiles o bancarios, sean estos nominativos a la orden y/o al portador,  reconocer y/o rechazar saldos e impugnarlos.\r\n\r\nIMPORTANTE: Para administración con poderes amplios, este poder simple no es suficiente, sino que es requerido un poder bancario por escritura pública. Para ello, te invitamos a contactar a nuestro departamento jurídico (contacto@notarioexpress.cl) para que te asistan con tu requerimiento.\r\n",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Poder - Especial SII - Persona Jurídica",
+        "requisitos": "<ul><li>Comparecencia personal del Representante Legal con cédula de identidad vigente.</li><li>Escritura de constitución con vigencia, para validar al Representante Legal</li><li>Vigencia de poder (si escritura es de mas de un año).<a target=\"_blank\" href=\"https://www.conservador.cl/portal/certificado_vigencia_poder\">Click Aquí</a></li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/poderespecialSII",
+        "descripcion": "El mandato especial SII y otras instituciones(persona jurídica), permite al representante legal de una persona jurídica el entregar poder a un tercero, que debe ser una persona natural, para que opere con amplios poderes en representación de ella ante el Servicio de Impuestos Internos y otras instituciones como: IPS ex INP, AFP, ISAPRES y MUNICIPALIDADES, también podrá agregar las instituciones en las que necesite el poder. <br></br> En caso de que sean varias las instituciones las que requieren este poder especial, deben indicarse al llenar el formulario de solicitud del documento separando por comas (,) a cada institución.\r\n\r\n\r\n",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 41,
+        "name": "Poder - Especial SII - Persona Natural",
+        "requisitos": "<ul><li>Comparecencia personal de la persona natural que entrega el poder, con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/poderespecialSII",
+        "descripcion": "El mandato especial SII (persona natural), permite a una persona el entregar poder a un tercero, que debe ser una persona natural, para que opere con amplios poderes en representación de ella ante el Servicio de Impuestos Internos y otras instituciones como: IPS ex INP, AFP, ISAPRES y MUNICIPALIDADES, también podrá agregar las instituciones en las que necesite el poder.",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 60,
+        "name": "Poder - Solicitar Placas de Vehiculos",
+        "requisitos": "<ul><li>Comparecencia personal de la persona natural que entrega el poder, con cédula de identidad vigente.</li><li>Permiso de circulación vigente.</li><li>Certificado de anotaciones vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/podersolicitarplacasvehiculo",
+        "descripcion": "Permite entregar a un tercero la potestad para solicitar un duplicado o reemplazo de las placas patente de un vehículo en caso de pérdida o porque se encuentran inutilizables ante el Registro Civil.\r\n",
+        "categoria": "Poderes",
+        "categoriaNEX": "Vehiculos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 62,
+        "name": "Poder - Cobro de Finiquito",
+        "requisitos": "<ul><li>Comparecencia personal de la persona natural que entrega el poder, con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/PoderCobroFiniquito.aspx",
+        "descripcion": "Otorga el Poder a un tercero para poder cobrar el monto del finiquito de un  trabajador.\r\n",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 64,
+        "name": "Poder - Administración Inmueble",
+        "requisitos": "<ul><li>Comparecencia personal de al menos uno de los propietarios (persona natural) que entrega el poder, con cédula de identidad vigente.</li><li>Copia de inscripción de la propiedad con vigencia (se obtiene en el Conservador de Bienes Raíces).</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/AdministracionInmueble.aspx",
+        "descripcion": "Permite que una persona natural entregue a un tercero el poder para que administre y se haga cargo  del inmueble correspondiente en ausencia del dueño.",
+        "categoria": "Poderes",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 32,
+        "name": "Carta de invitación extranjero",
+        "requisitos": "</li> </ul><p class=\"subtitle text-center\"><b>Requerimientos (cumplir al menos uno de ellos):</b></p><ul><li>Comparecencia personal del declarante con cédula de identidad chilena vigente.</li> <li>Comparecencia personal del declarante con cédula de identidad chilena expirada, pero exhibir comprobante de renovación de visa.</li><li>Comparecencia personal del declarante con pasaporte extranjero vigente.</li> </ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/cartadeinvitacionextranjero\r\n",
+        "descripcion": "La carta de invitación es un documento solicitado a extranjeros, donde una persona natural invita a un extranjero, para que este pueda tener un expedito ingreso al país o eventuales tramitaciones de visa.<br></br>En caso de requerir un documento con redacción propia, puedes completar el proceso y una vez en notaria indicar y exhibir dicho documento.\r\n\r\n",
+        "categoria": "Otros",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 20000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 27,
+        "name": "Finiquito",
+        "requisitos": "<ul><li>Comparecencia personal del trabajador con cédula de identidad vigente (En caso de asesora del hogar, se requiere presencia de trabajador y empleador con cédula vigente).</li><li>Se recomienda llevar tres (3) copias impresas del finiquito (es requerida la firma del empleador aunque sea en digital/escaneada).</li><li>Certificado de cotizaciones previsionales al día.</li><li>Si tienes varios finiquitos y deseas realizar una sola operación, escríbenos a contacto@notarioexpress.cl para asistirte.</li><b>IMPORTANTE:</b> no se realiza custodia de valores.</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/finiquito",
+        "descripcion": "El inciso 1° del artículo 177 del Código del trabajo preceptúa que el finiquito, la renuncia y el mutuo acuerdo deben constar por escrito. Este documento es conocido como finiquito, donde se deja constancia del término de la relación laboral.",
+        "categoria": "Otros",
+        "categoriaNEX": "Laborales",
+        "masvendido": false,
+        "total": 20000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 68,
+        "name": "Carta aceptación (Finiquito de Seguro)",
+        "requisitos": "<ul><li>Comparecencia personal del aceptante con cédula de identidad vigente.</li><li>Original del finiquito provisto por la aseguradora.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/finiquitoseguro",
+        "descripcion": "El finiquito de seguro es un documento ante notario donde se estipulan las condiciones de cierre de un siniestro, donde se detallan los montos de indemnización y se confirma la renuncia de acciones posteriores dada dicha indemnización.\r\n",
+        "categoria": "Otros",
+        "categoriaNEX": "Vehiculos",
+        "masvendido": false,
+        "total": 20000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Salvoconducto (Declaración Jurada de mudanza)",
+        "requisitos": "<body style=”text-align: justify;”>Debido a la instalación de aduanas sanitarias y cuarentenas en algunas regiones del país, es necesario un Salvoconducto emitido por comsiariavirtual.cl\r\nEl Salvoconducto notarial (declaración jurada de mudanza) no reemplaza al permiso emitido por comisariavirtual.cl, sino que es un documento adicional.</body><br></br> <p class=\"text-center document-name\"><b>Salvoconducto para arrendatarios</b></p><ul><li>Seleccionar una notaría de la misma comuna del inmueble que dejas (en el caso de Santiago, hay notarías que tienen jurisdicción en varias comunas. Consulta en nuestro chat más detalles)</li><li>Poder simple del propietario del inmueble que se deja autorizando la mudanza. Si el contrato de arriendo no está ante notario, este poder debe ser ante notario <a target=\"_blank\" href=\"PoderSimpleSalvoconductoInstrucciones.pdf\">(revisa aquí un ejemplo)</a></li><li>Contrato en original de arriendo (o copia autorizada) del inmueble que se deja</li><li>Comparecencia personal del arrendatario que firmó en el contrato con cédula de identidad vigente.</li><li>Fotocopia de la cédula del propietario del inmueble que dejas. Debe ser la misma persona que firmó en el contrato de arriendo (si son varios, basta uno)</li><li>Comprobante del pago del último arriendo del inmueble que se deja.</li> <li>Comprobantes de Gasto Comunes, agua y luz al día del inmueble que se deja.</li> </ul><p class=\"text-center document-name\"><b>Salvoconducto para propietarios</b></p><ul><li>Seleccionar una notaría de la misma comuna del inmueble que dejas (en el caso de Santiago, hay notarías que tienen jurisdicción en varias comunas. Consulta en nuestro chat más detalles)</li><li>Comparecencia personal de al menos uno de los propietarios con cédula de identidad vigente.</li> <li> Acreditar propiedad del inmueble (Escritura o título de dominio vigentes, que se obtienen en Conservador de Bienes Raíces respectivo).</li>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/salvoconducto",
+        "descripcion": "La Ley chilena exige que toda mudanza nacional o internacional esté autorizada con una declaración jurada de mudanza (salvoconducto), ya que con la emisión de este, se garantiza que no existe impedimento legal ni contractual para realizarla. La vigencia, desde la emisión, es de 5 días.",
+        "categoria": "Otros",
+        "categoriaNEX": "Mas solicitados",
+        "masvendido": false,
+        "total": 90000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Renuncia Voluntaria",
+        "requisitos": "<ul><li>Comparecencia personal del que renuncia con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/renunciavoluntaria",
+        "descripcion": "El N° 2 del artículo 159 del Código del Trabajo, define las formalidades requeridas para dar término al contrato de trabajo por parte del dependiente.\r\n\r\nEste documento te permitirá generar una carta de renuncia voluntaria, la que será válida para presentar ante el empleador.\r\n",
+        "categoria": "Otros",
+        "categoriaNEX": "Laborales",
+        "masvendido": false,
+        "total": 45000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "Fotocopia Legalizada",
+        "requisitos": "<ul>\r\n<li>Presentar el documento original a legalizar</li>\r\n<li>El tamaño del documento no puede exceder A3 (420mm x 297mm)</li>\r\n<li>Trámite puede ser requerido por un tercero</li>\r\n</ul>\r\n",
+        "urlMasInformacion": "https://www.notarioexpress.cl/fotocopialegalizada",
+        "descripcion": "Para diferentes trámites o por seguridad para proteger el original, una fotocopia legalizada es un instrumento muy práctico y que posee la misma validez que el original. Titulos, Pasaportes y Diplomas son los documentos más comunes solicitados para legalizar.",
+        "categoria": "Otros",
+        "categoriaNEX": "Otros",
+        "masvendido": false,
+        "total": 3000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 69,
+        "name": "Autorización de Salida para Vehículo - Persona Natural",
+        "requisitos": "<ul><li>Comparecencia personal del dueño del vehiculo con cédula de identidad vigente.</li><li>Certificado de anotaciones vigentes del vehículo, del día que se firmará la autorización.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizacionsalidavehiculo",
+        "descripcion": "La autorización de salida para vehículos, permite que un tercero salga del país con el vehículo a un país extranjero durante un período determinado.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 15000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 76,
+        "name": "Mandato Judicial",
+        "requisitos": "<ul><li>Comparecencia personal del mandante con cédula de identidad vigente.</li><li>Minuta de abogado</li><b>IMPORTANTE:</b>Minuta de abogado debe ser informada ANTES de concurrir a notaría. Esta debe ser cargada en link especial enviado en comprobante de pago.</ul>",
+        "urlMasInformacion": "Mandato Judicial",
+        "descripcion": "El mandato judicial es un contrato por medio del cual una persona encomienda a otra que postule  a su nombre ante los tribunales de justicia. <br></br> El patrocinio por abogado, exige que el mandante manifieste su voluntad a través de instrumento público  y con firma electrónica avanzada.",
+        "categoria": "Poderes",
+        "categoriaNEX": "Mandatos",
+        "masvendido": false,
+        "total": 13400,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 77,
+        "name": "Autorización de Viaje - Sin Acompañante - Padre o Madre Autoriza - 1 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre o la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 16700,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 78,
+        "name": "Autorización de Viaje - Sin Acompañante - Padre o Madre Autoriza - 2 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre o la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 17800,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 79,
+        "name": "Autorización de Viaje - Sin Acompañante - Padre o Madre Autoriza - 3 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre o la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 80,
+        "name": "Autorización de Viaje - Sin Acompañante - Ambos Padres Autorizan - 1 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre o la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.\r\n\r\nEste documento te permitirá generar una autorización notarial para que un tercero, distinto de sus padres, quede en custodia del menor y así poder salir del país.\r\n",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 81,
+        "name": "Autorización de Viaje - Sin Acompañante - Ambos Padres Autorizan - 2 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre o la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite\r\n<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.\r\n\r\nEste documento te permitirá generar una autorización notarial para que un tercero, distinto de sus padres, quede en custodia del menor y así poder salir del país.\r\n",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 82,
+        "name": "Autorización de Viaje - Sin Acompañante - Ambos Padres Autorizan - 3 Hijos",
+        "requisitos": "<ul>\r\n<li>Comparecencia personal del padre o la madre con cédula de identidad vigente.</li>\r\n<li>Certificado de nacimiento para todo trámite<a href=\"https://registrocivilwp.srcei.cl/tramites/certificado-de-nacimiento/\" target=\"_blank\">Click Aquí</a>\r\n</li>\r</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizaciondeviajeparamenores",
+        "descripcion": "El Artículo 49°, de la Ley 16.618, define entre otros aspectos, a quienes están facultados para que un menor de edad abandone el país.\r\n\r\nEste documento te permitirá generar una autorización notarial para que un tercero, distinto de sus padres, quede en custodia del menor y así poder salir del país.\r\n",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 83,
+        "name": "Autorización de Salida para Vehículo - Persona Juridica",
+        "requisitos": "<ul><li>Comparecencia personal del dueño del vehiculo con cédula de identidad vigente.</li><li>Certificado de anotaciones vigentes del vehículo, del día que se firmará la autorización.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/autorizacionsalidavehiculo",
+        "descripcion": "La autorización de salida para vehículos, permite que un tercero salga del país con el vehículo a un país extranjero durante un período determinado.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Viajes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 89,
+        "name": "Poder - Bancario Simple - Persona Juridica",
+        "requisitos": "<ul><li>Comparecencia personal del que otorga el poder con cédula de identidad vigente.</li><br></br><b>\r\nIMPORTANTE:</b> Para administración con poderes amplios, este poder simple no es suficiente, sino que es requerido un poder bancario por escritura pública. Para ello, te invitamos a contactar a nuestro departamento jurídico (contacto@notarioexpress.cl) para que te asistan con tu requerimiento.</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/poderbancario",
+        "descripcion": "El mandato bancario simple para persona jurídica, permite que una empresa entregue poder a un tercero, que debe ser una persona natural, para que opere con poder en representación de ella ante una determinada entidad bancaria.",
+        "categoria": "Otros",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 90,
+        "name": "Autorización de menores para conducir",
+        "requisitos": "<ul><li>Comparecencia personal del padre/madre declarante con cédula de identidad vigente.</li></ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/",
+        "descripcion": "Los menores de edad, pero mayores de 17 años, pueden conducir junto a una persona con al menos 5 años con licencia, siempre que cumplan ciertos requisitos y alguno de sus padres lo autoricen ante un ministro de fe.",
+        "categoria": "Autorizaciones",
+        "categoriaNEX": "Vehiculos",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 93,
+        "name": "Anexo de Contrato de Trabajo - Chilenos",
+        "requisitos": "<p class=\"subtitle text-center\">Requerimientos (persona jurídica)</p><ul><li>Comparecencia personal del trabajador con cédula de identidad vigente.</li><li>Comparecencia personal del representante legal con cédula de identidad vigente.</li><li>Escritura de constitución con vigencia, para validar al Representante Legal.</li><li>Vigencia de poder (si escritura es de más de un año).</li><li>Traer tres (3) copias del anexo del contrato.</li> </ul><p class=\"subtitle text-center\">Requerimientos (persona natural)</p><ul><li>Comparecencia personal del trabajador con cédula de identidad vigente.</li><li>Comparecencia personal del empleador con cédula de identidad vigente.</li> <li>Traer tres (3) copias del anexo del contrato</li> </ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/ContratosDeTrabajo",
+        "descripcion": "Es la modificación al acuerdo formal entre el trabajador(a), de nacionalidad chilena, y el empleador(a) donde se estipulan las condiciones, como por ejemplo, la remuneración a percibir.",
+        "categoria": "Contratos",
+        "categoriaNEX": "Laborales",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 94,
+        "name": "Poder - AFP Perú- tramitar y cobrar devolución",
+        "requisitos": "<ul><li>Comparecencia personal del mandate con cédula de identidad vigente.</li><li>Comparecencia personal del mandatario con cedula de identidad vigente.</li><li>Informacion sobre documentos de identidad en Perú del mandante y mandatario</li><br></br><b>\r\nIMPORTANTE:</b>Este documento solo sirve para ser utilizado en la Republica del Perú</ul>",
+        "urlMasInformacion": "https://www.notarioexpress.cl/",
+        "descripcion": "Poder especial para tramitar y cobrar devolución de fondos de AFP en la República Del Perú.",
+        "categoria": "Otros",
+        "categoriaNEX": "Poderes",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 300,
+        "name": "Empresa en un día - Constitución (3 socios)",
+        "requisitos": "<ul><li>Comparecencia personal de los 3 socios con cédula de identidad vigente.\r\n</li><li>Número de atención proporcionado por empresa en un día.\n</li></ul>",
+        "urlMasInformacion": "",
+        "descripcion": "En el caso que socios constituyan una empresa a través de la plataforma <b>www.tuempresaenundia.cl</b> y estos no cuenten con Firma Electrónica Avanzada (FEA), es posible concurrir ante un notario quien podrá autorizar la operación de constitución.<br></br><b>IMPORTANTE:</b> cualquier otra actuación como: modificaciones, transformaciones, fusiones, etc. no se encuentran soportadas en esta opción.\r\r\n",
+        "categoria": "Otros",
+        "categoriaNEX": "Empresas",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 301,
+        "name": "Empresa en un día - Constitución (2 socios)",
+        "requisitos": "<ul><li>Comparecencia personal de los 2 socios con cédula de identidad vigente.\n</li><li>Número de atención proporcionado por empresa en un día.\n</li></ul>",
+        "urlMasInformacion": null,
+        "descripcion": "En el caso que socios constituyan una empresa a través de la plataforma <b>www.tuempresaenundia.cl</b> y estos no cuenten con Firma Electrónica Avanzada (FEA), es posible concurrir ante un notario quien podrá autorizar la operación de constitución.<br></br><b>IMPORTANTE:</b> cualquier otra actuación como: modificaciones, transformaciones, fusiones, etc. no se encuentran soportadas en esta opción.",
+        "categoria": "Otros",
+        "categoriaNEX": "Empresas",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    },
+    {
+        "id": 302,
+        "name": "Empresa en un día - Constitución (1 socio)",
+        "requisitos": "<ul><li>Comparecencia personal del socio con cédula de identidad vigente.\r\n</li><li>Número de atención proporcionado por empresa en un día.\r\n</li></ul>",
+        "urlMasInformacion": null,
+        "descripcion": "En el caso que socios constituyan una empresa a través de la plataforma <b>www.tuempresaenundia.cl</b> y estos no cuenten con Firma Electrónica Avanzada (FEA), es posible concurrir ante un notario quien podrá autorizar la operación de constitución.<br></br><b>IMPORTANTE:</b> cualquier otra actuación como: modificaciones, transformaciones, fusiones, etc. no se encuentran soportadas en esta opción.",
+        "categoria": "Otros",
+        "categoriaNEX": "Empresas",
+        "masvendido": false,
+        "total": 10000,
+        "form": {
+            "title": "Todo",
+            "type": "object",
+            "required": ["title"],
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "title": "Title",
+                    "default": "A new task"
+                },
+                "done": { "type": "boolean", "title": "Done?", "default": false }
+            }
+        }
+    }
+]

@@ -1,0 +1,12 @@
+{   
+    "ignore": [
+        "db/*", 
+        "db/gestoria_documental/",
+        "db/gestoria_documental/*.bson",
+        "db/gestoria_documental/*.json",
+        "reports/*",
+        "reports/*/",
+        "reports/*/*.*",
+        "reports/"
+    ]
+}

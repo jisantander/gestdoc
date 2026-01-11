@@ -1,0 +1,19 @@
+{
+    "_processName": "Reconstituciones",
+    "_stages": [
+        "59961f2eecc9817a48da7f69"
+    ],
+    "_firstStage": "59961f2eecc9817a48da7f69",
+    "_lastStage": "59961f2eecc9817a48da7f69",
+},
+
+{
+    "_processName": "Alzamientos",
+    "_stages": [
+        "59a5d377be0a545a15fdf5b0",
+        "59a5d63a58f82d1033b7bb04",
+        "59a5d67c58f82d1033b7bb05"
+    ],
+    "_firstStage": "59a5d377be0a545a15fdf5b0",
+    "_lastStage": "59a5d67c58f82d1033b7bb05"
+}

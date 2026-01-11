@@ -1,0 +1,8 @@
+.insideTable .MuiOutlinedInput-inputAdornedEnd{
+    display: none !important;
+    height: 30px;
+}
+
+.insideTable .MuiOutlinedInput-notchedOutline {
+    display: none;
+}

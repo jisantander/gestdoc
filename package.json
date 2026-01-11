@@ -1,0 +1,39 @@
+{
+  "name": "gestdoc",
+  "version": "2.0.0",
+  "description": "Plataforma de gestión documental con múltiples componentes",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "install:all": "npm install",
+    "dev": "npm run dev --workspaces --if-present",
+    "build": "npm run build --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "lint": "npm run lint --workspaces --if-present",
+    "format": "npm run format --workspaces --if-present",
+    "clean": "rm -rf node_modules packages/*/node_modules",
+    "docker:build": "docker-compose build",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down",
+    "docker:logs": "docker-compose logs -f"
+  },
+  "keywords": [
+    "gestdoc",
+    "document-management",
+    "bpmn",
+    "workflow",
+    "monorepo"
+  ],
+  "author": "GESTDOC Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "prettier": "^3.0.0"
+  }
+}

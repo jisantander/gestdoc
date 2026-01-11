@@ -1,0 +1,237 @@
+.MuiTypography-h5 {
+  font-weight: 600 !important;
+}
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+body,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Merriweather Sans", sans-serif;
+}
+label {
+  font-size: 24px !important;
+  color: #4e7afc !important ;
+  font-weight: bold !important;
+}
+
+.label-Check {
+  font-size: 15px !important;
+  color: #44419f !important ;
+}
+
+.MuiFormControl-root .MuiFormControl-fullWidth {
+  margin-top: 15px;
+}
+
+.contentCotinue {
+  position: absolute;
+  margin-top: 30px;
+  min-width: 50%;
+  margin-left: -49px;
+}
+
+.justForm .ContinueForm {
+  background-color: #2e67fb;
+  margin-bottom: 24px;
+  border: 0px;
+  bottom: -9px;
+  font-size: 18px;
+  color: #fff;
+  position: relative;
+  font-weight: 700;
+  float: right;
+  padding: 17px;
+  border-radius: 24px;
+  min-width: 88px;
+}
+
+.FileWidget {
+  margin-bottom: -7px !important;
+}
+
+.fileWidget + p {
+  margin-top: 10px !important;
+}
+
+.justForm .MuiFormControl-root label {
+  display: contents;
+  transform: scaleX(1) !important;
+  font-size: 18px !important;
+  font-weight: 400;
+  margin-top: -8px;
+  margin-left: 7px;
+}
+
+.justForm .MuiSelect-icon {
+  margin-top: -18px;
+  color: #68e1c4 !important;
+  right: 0;
+  font-size: 60px !important;
+  position: absolute;
+  pointer-events: none;
+}
+
+.justForm h5 {
+  color: #44378a;
+  margin-bottom: 21px;
+  text-align-last: center;
+}
+
+.justForm .MuiSelect-select {
+  color: #060606 !important;
+  background-color: white !important;
+  border-radius: 19px !important;
+  height: 32px !important;
+  padding-top: 21px !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.justForm button {
+  margin-bottom: 24px;
+}
+
+.justForm .MuiFormHelperText-root {
+  color: #306afb !important;
+  font-size: 17px !important;
+}
+
+.justForm .MuiInput-underline:before {
+  border-bottom: 0px;
+}
+
+.justForm .MuiInput-underline {
+  border-bottom: 0px;
+}
+
+.justForm .MuiInput-underline:hover {
+  border-bottom: 0px;
+}
+
+.MuiInput-underline:after {
+  display: none !important;
+}
+.MuiInput-underline:before {
+  display: none !important;
+}
+
+.MuiInputBase-input {
+  padding-left: 15px !important;
+}
+
+.MuiInputBase-input:focus {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #00417a;
+}
+
+.MuiInputBase-input:hover {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #00417a;
+}
+
+.ContinueForm:hover {
+  outline: 0;
+  box-shadow: 0 0 5pt 1pt #00417a;
+}
+
+/*
+button.MuiButtonBase-root:hover {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #8c8c8c !important;
+}
+
+.button:hover {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #8c8c8c !important;
+}
+
+
+
+button.MuiButtonBase-root:focus {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #8c8c8c !important;
+}
+
+.MuiButton-containedPrimary:focus {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #8c8c8c !important;
+}
+*/
+
+.center-pixel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.paper-round {
+  margin: 11px;
+  width: 500px;
+  border-radius: 23px !important;
+  display: flex;
+}
+.noselect {
+  cursor: pointer;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+									supported by Chrome, Edge, Opera and Firefox */
+}
+
+.formanddoc .MuiFormControl-root label {
+  display: contents;
+}
+
+.MuiFormLabel-asterisk.MuiInputLabel-asterisk {
+  display: contents;
+}
+
+.MuiTypography-subtitle2 {
+  color: #fff;
+}
+
+.MuiDropzoneArea-text.MuiTypography-h5 {
+  color: #44378a;
+
+  margin-bottom: 21px;
+  text-align-last: center;
+  font-size: 1.5rem;
+  font-family: Heebo, sans-serif;
+}
+
+.MuiSvgIcon-root.MuiDropzoneArea-icon {
+  color: #2e67fb;
+}
+
+.MuiDropzoneArea-root {
+  background-color: #f8f9ff;
+}
+
+.MuiGrid-root.MuiDropzonePreviewList-root {
+  place-content: center;
+}
+
+.MuiSvgIcon-root.MuiDropzonePreviewList-image {
+  margin-top: 20px;
+  height: 63px;
+  box-shadow: none;
+  color: rgb(46 103 251);
+}
+
+.text {
+  user-select: none;
+}
+.text::selection {
+  background: none;
+}
+.text::-moz-selection {
+  background: none;
+}

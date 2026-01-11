@@ -1,0 +1,57 @@
+//1: 59a5d377be0a545a15fdf5b0
+//2: 59a5d63a58f82d1033b7bb04
+//3: 59a5d67c58f82d1033b7bb05
+
+{
+    "_stageName": "Creación y Firma Notaría",
+    "_tasks": [
+        "59a5a4c0eb1ded6312ea60a8",
+        "59a5a43beb1ded6312ea609f",
+        "59a5a3f9eb1ded6312ea609d",
+        "59a5a4a1eb1ded6312ea60a6",
+        "59a5a4d85f30c77e0eb80500",
+        "59a5a486eb1ded6312ea60a4",
+        "59a5a493eb1ded6312ea60a5",
+        "59a5a44aeb1ded6312ea60a0",
+        "59a5a479eb1ded6312ea60a3",
+        "59a5a4afeb1ded6312ea60a7",
+        "59a5a3a5eb1ded6312ea609c",
+        "59a5a45deb1ded6312ea60a1",
+        "59a5a46aeb1ded6312ea60a2",
+        "59a5a42beb1ded6312ea609e"
+    ],
+    "_firstTask": "59a5a3a5eb1ded6312ea609c",
+    "_lastTask": "59a5a4d85f30c77e0eb80500"
+}, 
+
+{
+    "_stageName": "Inscripción",
+    "_tasks": [
+        "59a5cdb64322391e275ba380",
+        "59a5a5395f30c77e0eb80506",
+        "59a5a8c74322391e275ba37c",
+        "59a5a4f65f30c77e0eb80502",
+        "59a5a5495f30c77e0eb80507",
+        "59a5a5295f30c77e0eb80505",
+        "59a5a4e95f30c77e0eb80501",
+        "59a5a5175f30c77e0eb80504",
+        "59a5a5075f30c77e0eb80503",
+        "59a5a8e34322391e275ba37d",
+        "59a5cc2f4322391e275ba37f"
+    ],
+    "_firstTask": "59a5a4e95f30c77e0eb80501",
+    "_lastTask": "59a5a5495f30c77e0eb80507"
+}, 
+
+{
+    "_stageName": "Término",
+    "_tasks": [
+        "59a5a5595f30c77e0eb80508",
+        "59a5a5685f30c77e0eb80509",
+        "59a5a8034322391e275ba37b",
+        "59a5ca6b4322391e275ba37e",
+        "59a5cdc14322391e275ba381"
+    ],
+    "_firstTask": "59a5a5595f30c77e0eb80508",
+    "_lastTask": "59a5ca6b4322391e275ba37e"
+}

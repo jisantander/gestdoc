@@ -1,0 +1,175 @@
+// Core
+
+@import "core";
+
+// Fonts
+
+@import url("https://fonts.googleapis.com/css?family=Heebo:400,700&display=swap");
+
+// Widgets
+
+@import "widgets";
+
+// Components
+
+@import "components";
+
+// Layout Components
+
+@import "layout-components";
+
+// Layout Blueprints
+
+@import "layout-blueprints";
+
+.fade-enter {
+	opacity: 0.01;
+}
+
+.fade-enter.fade-enter-active {
+	opacity: 1;
+	transition: opacity 500ms ease-in;
+}
+
+.fade-exit {
+	opacity: 1;
+}
+
+.fade-exit.fade-exit-active {
+	opacity: 0.01;
+	transition: opacity 300ms ease-in;
+}
+
+.modeler-parent {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+}
+
+#modeler-container {
+	flex: 1;
+}
+
+.djs-palette.two-column.open {
+	-webkit-border-radius: 10px 10px 10px 10px;
+	background-color: #ffffff !important;
+	box-shadow: 0 0px 8px 0 rgba(0, 0, 0, 0.2), 0 -1px 2px 0 rgba(0, 0, 0, -0.81);
+}
+
+.MuiPaper-root.MuiPaper-rounded {
+	border-radius: 0.75rem;
+}
+
+table td,
+table th {
+	padding-top: 0.6rem !important;
+	padding-bottom: 0.6rem !important;
+	border-top: 1px solid #dcdef1 !important;
+	align-items: center !important;
+}
+
+table th {
+	color: #3b3e66 !important;
+	background-color: rgba(239, 239, 247, 0.7) !important;
+	border-color: #dcdef1 !important;
+	text-transform: uppercase !important;
+	background: #f4f5fd !important;
+	font-size: 0.875rem !important;
+	border-bottom: 2px solid #dcdef1 !important;
+	vertical-align: middle !important;
+	padding-bottom: 22px !important;
+	padding-top: 22px !important;
+	border-top: 1px solid #dcdef1 !important;
+	font-weight: bold !important;
+}
+
+.select-operation {
+	min-width: 200px !important;
+	padding: 9px !important;
+}
+
+.select-operation .MuiInputBase-formControl {
+	height: 49px;
+}
+
+h5 {
+	font-style: italic;
+	font-weight: 600;
+	font-family: "Merriweather Sans", sans-serif;
+	color: #3167fb;
+	align-self: center;
+}
+.line {
+	width: 66px;
+	height: 33px;
+	border-bottom: 3px solid #68e1c4;
+	position: absolute;
+}
+
+.Note {
+	border-radius: 25px;
+	border-style: dotted;
+	border-color: rgb(110, 123, 252) !important;
+	margin-top: 60px;
+	border-width: 4px !important;
+	width: fit-content;
+}
+
+.hidden-point {
+	height: 20px;
+	width: 45px;
+	background-color: white;
+	bottom: 64px;
+	position: absolute;
+}
+.my-center {
+	display: flex;
+	justify-content: center;
+}
+
+.MuiTypography-root.MuiTypography-h6 {
+	font-style: italic;
+	font-weight: 600;
+	font-family: "Merriweather Sans", sans-serif;
+	color: #3167fb;
+	align-self: center;
+}
+
+.otherLines {
+	z-index: 9;
+	margin-top: 37px;
+	margin-left: 26px;
+}
+
+span .MuiIconButton-root:hover {
+	background-color: transparent !important;
+}
+
+.box-list {
+	border-color: #d2d7ff;
+	border-style: solid;
+	display: flex;
+	place-content: space-around;
+	border-width: 1px;
+	padding: 15px;
+	border-radius: 15px;
+	margin: 10px;
+	font-size: larger;
+	font-weight: 700;
+	align-items: center;
+}
+
+.cus-title {
+	font-family: "Merriweather Sans";
+	color: #526ffc;
+	font-style: italic;
+	display: flex;
+}
+
+.cus-title.line {
+	margin-top: 5px;
+}
+
+.MuiPickersCalendar-week button {
+	border: 0px !important;
+}

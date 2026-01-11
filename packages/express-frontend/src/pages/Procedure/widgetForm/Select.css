@@ -1,0 +1,39 @@
+select {
+  background: url(../../../icon-select.png) 95% 50% no-repeat;
+  color: #060606;
+  background-color: white;
+  border-radius: 19px;
+  height: 55px;
+}
+
+select:hover {
+  outline: 0;
+  box-shadow: 0 0 5pt 2pt #00417a;
+}
+
+option:disabled {
+  color: rgb(170, 170, 170) !important;
+}
+
+option:first {
+  color: #999;
+}
+select option:first-child {
+  color: gray;
+}
+
+select:invalid {
+  color: gray;
+}
+
+select option:first-child {
+  color: gray;
+}
+
+select:invalid option:not(:first-child) {
+  color: black;
+}
+
+.no-selected-yet {
+  color: #d0cbcb;
+}

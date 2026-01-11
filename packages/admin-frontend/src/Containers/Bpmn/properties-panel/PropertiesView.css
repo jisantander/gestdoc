@@ -1,0 +1,45 @@
+.element-properties label {
+  font-weight: bold;
+}
+
+.element-properties .MuiFormLabel-filled:after {
+  content: ': ';
+}
+
+.element-properties button + button {
+  margin-left: 10px;
+}
+
+#properties-container{
+  margin-top: 1px;
+}
+
+.entry.bpmn-icon-data-store {
+  display: none;
+}
+
+.entry.bpmn-icon-data-object {
+  display: none;
+}
+
+.entry.bpmn-icon-subprocess-expanded{
+  display: none;
+}
+
+.entry.bpmn-icon-intermediate-event-none {
+  display: none;
+}
+
+.djs-palette.two-column.open {
+  width: 50px !important;
+}
+
+.bjs-powered-by{display: none;}
+
+.djs-container svg {
+  height: 70vh !important;
+   background-color: #fff;
+   border-radius: 20px;
+   border:1px solid #aacfac;
+   box-shadow: 0 0.46875rem 2.1875rem rgba(59, 62, 102, 0.03), 0 0.9375rem 1.40625rem rgba(59, 62, 102, 0.03), 0 0.25rem 0.53125rem rgba(59, 62, 102, 0.05), 0 0.125rem 0.1875rem rgba(59, 62, 102, 0.03);
+ }

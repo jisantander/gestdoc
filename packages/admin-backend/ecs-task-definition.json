@@ -1,0 +1,22 @@
+{
+	"family": "gestdoc-admin",
+	"executionRoleArn": "arn:aws:iam::084824435498:role/ecsTaskExecutionRole",
+	"networkMode": "awsvpc",
+	"containerDefinitions": [
+		{
+			"name": "gestdoc-admin",
+			"image": "084824435498.dkr.ecr.us-east-1.amazonaws.com/gestdoc-admin:dev",
+			"portMappings": [
+				{
+					"containerPort": 8080,
+					"hostPort": 8080,
+					"protocol": "tcp"
+				}
+			],
+			"essential": true
+		}
+	],
+	"requiresCompatibilities": ["FARGATE"],
+	"cpu": "512",
+	"memory": "1024"
+}

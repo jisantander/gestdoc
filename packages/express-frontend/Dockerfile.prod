@@ -1,0 +1,19 @@
+# Stage 1: Build the frontend
+FROM node:14 as build
+
+WORKDIR /home/node/app
+
+COPY package*.json ./
+
+RUN npm install
+COPY . .
+RUN npm run build
+
+# Final stage - only to extract the build files
+FROM alpine:latest AS extract
+
+WORKDIR /app
+COPY --from=build /home/node/app/build /app/build
+
+# Set the build folder as the output
+CMD ["echo", "Build completed. You can now copy the build folder."]

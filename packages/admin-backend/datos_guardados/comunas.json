@@ -1,0 +1,1201 @@
+[{
+    "_fieldName":"comuna_XV",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["XV"]},
+    "_description": "Comuna",
+    "_default": "Arica",
+    "_oneOf": [
+        {
+            "_description":"Arica",
+            "_enum": ["Arica"]
+    }, {
+        	"_description":"Camarones",
+            "_enum": ["Camarones"]
+    }, {
+        	"_description":"Putre",
+            "_enum": ["Putre"]
+    }, {
+        	"_description":"General Lagos",
+            "_enum": ["General Lagos"]
+    }]
+}, {
+    "_fieldName":"comuna_I",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["I"]},
+    "_description": "Comuna",
+    "_default": "Iquique",
+    "_oneOf": [
+        {
+            "_description":"Iquique",
+            "_enum": ["Iquique"]
+    }, {
+        	"_description":"Alto Hospicio",
+            "_enum": ["Alto Hospicio"]
+    }, {
+        	"_description":"Pozo Almonte",
+            "_enum": ["Pozo Almonte"]
+    }, {
+        	"_description":"Camiña",
+            "_enum": ["Camiña"]
+    }, {
+        	"_description":"Colchane",
+            "_enum": ["Colchane"]
+    }, {
+        	"_description":"Huara",
+            "_enum": ["Huara"]
+    }, {
+        	"_description":"Pica",
+            "_enum": ["Pica"]
+    }]
+}, {
+    "_fieldName":"comuna_II",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["II"]},
+    "_description": "Comuna",
+    "_default": "Antofagasta",
+    "_oneOf": [
+        {
+            "_description":"Antofagasta",
+            "_enum": ["Antofagasta"]
+    }, {
+        	"_description":"Mejillones",
+            "_enum": ["Mejillones"]
+    }, {
+        	"_description":"Sierra Gorda",
+            "_enum": ["Sierra Gorda"]
+    }, {
+        	"_description":"Taltal",
+            "_enum": ["Taltal"]
+    }, {
+        	"_description":"Calama",
+            "_enum": ["Calama"]
+    }, {
+        	"_description":"Ollagüe",
+            "_enum": ["Ollagüe"]
+    }, {
+        	"_description":"San Pedro de Atacama",
+            "_enum": ["San Pedro de Atacama"]
+    }, {
+        	"_description":"Tocopilla",
+            "_enum": ["Tocopilla"]
+    }, {
+        	"_description":"María Elena",
+            "_enum": ["María Elena"]
+    }]
+}, {
+    "_fieldName":"comuna_III",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["III"]},
+    "_description": "Comuna",
+    "_default": "Copiapó",
+    "_oneOf": [
+        {
+            "_description":"Copiapó",
+            "_enum": ["Copiapó"]
+    }, {
+        	"_description":"Caldera",
+            "_enum": ["Caldera"]
+    }, {
+        	"_description":"Tierra Amarilla",
+            "_enum": ["Tierra Amarilla"]
+    }, {
+        	"_description":"Chañaral",
+            "_enum": ["Chañaral"]
+    }, {
+        	"_description":"Diego de Almagro",
+            "_enum": ["Diego de Almagro"]
+    }, {
+        	"_description":"Vallenar",
+            "_enum": ["Vallenar"]
+    }, {
+        	"_description":"Alto del Carmen",
+            "_enum": ["Alto del Carmen"]
+    }, {
+        	"_description":"Freirina",
+            "_enum": ["Freirina"]
+    }, {
+        	"_description":"Huasco",
+            "_enum": ["Huasco"]
+    }]
+}, {
+    "_fieldName":"comuna_IV",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["IV"]},
+    "_description": "Comuna",
+    "_default": "La Serena",
+    "_oneOf": [
+        {
+            "_description":"La Serena",
+            "_enum": ["La Serena"]
+    }, {
+        	"_description":"Coquimbo",
+            "_enum": ["Coquimbo"]
+    }, {
+        	"_description":"Andacollo",
+            "_enum": ["Andacollo"]
+    }, {
+        	"_description":"La Higuera",
+            "_enum": ["La Higuera"]
+    }, {
+        	"_description":"Paiguano",
+            "_enum": ["Paiguano"]
+    }, {
+        	"_description":"Vicuña",
+            "_enum": ["Vicuña"]
+    }, {
+        	"_description":"Illapel",
+            "_enum": ["Illapel"]
+    }, {
+        	"_description":"Canela",
+            "_enum": ["Canela"]
+    }, {
+        	"_description":"Los Vilos",
+            "_enum": ["Los Vilos"]
+    }, {
+        	"_description":"Salamanca",
+            "_enum": ["Salamanca"]
+    }, {
+        	"_description":"Ovalle",
+            "_enum": ["Ovalle"]
+    }, {
+        	"_description":"Combarbalá",
+            "_enum": ["Combarbalá"]
+    }, {
+        	"_description":"Monte Patria",
+            "_enum": ["Monte Patria"]
+    }, {
+        	"_description":"Punitaqui",
+            "_enum": ["Punitaqui"]
+    }, {
+        	"_description":"Río Hurtado",
+            "_enum": ["Río Hurtado"]
+    }]
+}, {
+    "_fieldName":"comuna_V",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["V"]},
+    "_description": "Comuna",
+    "_default": "Valparaíso",
+    "_oneOf": [
+        {
+            "_description":"Valparaíso",
+            "_enum": ["Valparaíso"]
+    }, {
+        	"_description":"Casablanca",
+            "_enum": ["Casablanca"]
+    }, {
+        	"_description":"Concón",
+            "_enum": ["Concón"]
+    }, {
+        	"_description":"Juan Fernández",
+            "_enum": ["Juan Fernández"]
+    }, {
+        	"_description":"Puchuncaví",
+            "_enum": ["Puchuncaví"]
+    }, {
+        	"_description":"Quintero",
+            "_enum": ["Quintero"]
+    }, {
+        	"_description":"Viña del Mar",
+            "_enum": ["Viña del Mar"]
+    }, {
+        	"_description":"Isla de Pascua",
+            "_enum": ["Isla de Pascua"]
+    }, {
+        	"_description":"Los Andes",
+            "_enum": ["Los Andes"]
+    }, {
+        	"_description":"Calle Larga",
+            "_enum": ["Calle Larga"]
+    }, {
+        	"_description":"Riconada",
+            "_enum": ["Riconada"]
+    }, {
+        	"_description":"San Esteban",
+            "_enum": ["San Esteban"]
+    }, {
+        	"_description":"La Ligua",
+            "_enum": ["La Ligua"]
+    }, {
+        	"_description":"Cabildo",
+            "_enum": ["Cabildo"]
+    }, {
+        	"_description":"Papudo",
+            "_enum": ["Papudo"]
+    }, {
+        	"_description":"Petorca",
+            "_enum": ["Petorca"]
+    }, {
+        	"_description":"Zapallar",
+            "_enum": ["Zapallar"]
+    }, {
+        	"_description":"Quillota",
+            "_enum": ["Quillota"]
+    }, {
+        	"_description":"La Calera",
+            "_enum": ["La Calera"]
+    }, {
+        	"_description":"Hijuelas",
+            "_enum": ["Hijuelas"]
+    }, {
+        	"_description":"La Cruz",
+            "_enum": ["La Cruz"]
+    }, {
+        	"_description":"Nogales",
+            "_enum": ["Nogales"]
+    }, {
+        	"_description":"San Antonio",
+            "_enum": ["San Antonio"]
+    }, {
+        	"_description":"Algarrobo",
+            "_enum": ["Algarrobo"]
+    }, {
+        	"_description":"Cartagena",
+            "_enum": ["Cartagena"]
+    }, {
+        	"_description":"El Quisco",
+            "_enum": ["El Quisco"]
+    }, {
+        	"_description":"El Tabo",
+            "_enum": ["El Tabo"]
+    }, {
+        	"_description":"Santo Domingo",
+            "_enum": ["Santo Domingo"]
+    }, {
+        	"_description":"San Felipe",
+            "_enum": ["San Felipe"]
+    }, {
+        	"_description":"Catemu",
+            "_enum": ["Catemu"]
+    }, {
+        	"_description":"Llaillay",
+            "_enum": ["Llaillay"]
+    }, {
+        	"_description":"Panquehue",
+            "_enum": ["Panquehue"]
+    }, {
+        	"_description":"Putaendo",
+            "_enum": ["Putaendo"]
+    }, {
+        	"_description":"Santa María",
+            "_enum": ["Santa María"]
+    }, {
+        	"_description":"Quilpué",
+            "_enum": ["Quilpué"]
+    }, {
+        	"_description":"Limache",
+            "_enum": ["Limache"]
+    }, {
+        	"_description":"Olmué",
+            "_enum": ["Olmué"]
+    }, {
+        	"_description":"Villa Alemana",
+            "_enum": ["Villa Alemana"]
+    }]
+}, {
+    "_fieldName":"comuna_VI",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["VI"]},
+    "_description": "Comuna",
+    "_default": "Rancagua",
+    "_oneOf": [
+        {
+            "_description":"Rancagua",
+            "_enum": ["Rancagua"]
+    }, {
+        	"_description":"Codegua",
+            "_enum": ["Codegua"]
+    }, {
+        	"_description":"Coinco",
+            "_enum": ["Coinco"]
+    }, {
+        	"_description":"Coltauco",
+            "_enum": ["Coltauco"]
+    }, {
+        	"_description":"Doñihue",
+            "_enum": ["Doñihue"]
+    }, {
+        	"_description":"Graneros",
+            "_enum": ["Graneros"]
+    }, {
+        	"_description":"Las Cabras",
+            "_enum": ["Las Cabras"]
+    }, {
+        	"_description":"Machalí",
+            "_enum": ["Machalí"]
+    }, {
+        	"_description":"Malloa",
+            "_enum": ["Malloa"]
+    }, {
+        	"_description":"Mostazal",
+            "_enum": ["Mostazal"]
+    }, {
+        	"_description":"Olivar",
+            "_enum": ["Olivar"]
+    }, {
+        	"_description":"Peumo",
+            "_enum": ["Peumo"]
+    }, {
+        	"_description":"Pichidegua",
+            "_enum": ["Pichidegua"]
+    }, {
+        	"_description":"Quinta de Tilcoco",
+            "_enum": ["Quinta de Tilcoco"]
+    }, {
+        	"_description":"Rengo",
+            "_enum": ["Rengo"]
+    }, {
+        	"_description":"Requínoa",
+            "_enum": ["Requínoa"]
+    }, {
+        	"_description":"San Vicente",
+            "_enum": ["San Vicente"]
+    }, {
+        	"_description":"Pichilemu",
+            "_enum": ["Pichilemu"]
+    }, {
+        	"_description":"La Estrella",
+            "_enum": ["La Estrella"]
+    }, {
+        	"_description":"Litueche",
+            "_enum": ["Litueche"]
+    }, {
+        	"_description":"Marichihue",
+            "_enum": ["Marichihue"]
+    }, {
+        	"_description":"Navidad",
+            "_enum": ["Navidad"]
+    }, {
+        	"_description":"Paredones",
+            "_enum": ["Paredones"]
+    }, {
+        	"_description":"San Fernando",
+            "_enum": ["San Fernando"]
+    }, {
+        	"_description":"Chépica",
+            "_enum": ["Chépica"]
+    }, {
+        	"_description":"Chimbarongo",
+            "_enum": ["Chimbarongo"]
+    }, {
+        	"_description":"Lolol",
+            "_enum": ["Lolol"]
+    }, {
+        	"_description":"Nancagua",
+            "_enum": ["Nancagua"]
+    }, {
+        	"_description":"Palmilla",
+            "_enum": ["Palmilla"]
+    }, {
+        	"_description":"Peralillo",
+            "_enum": ["Peralillo"]
+    }, {
+        	"_description":"Placilla",
+            "_enum": ["Placilla"]
+    }, {
+        	"_description":"Pumanque",
+            "_enum": ["Pumanque"]
+    }, {
+        	"_description":"Santa Cruz",
+            "_enum": ["Santa Cruz"]
+    }]
+}, {
+    "_fieldName":"comuna_VII",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["VII"]},
+    "_description": "Comuna",
+    "_default": "Talca",
+    "_oneOf": [
+        {
+            "_description":"Talca",
+            "_enum": ["Talca"]
+    }, {
+        	"_description":"Constitución",
+            "_enum": ["Constitución"]
+    }, {
+        	"_description":"Curepto",
+            "_enum": ["Curepto"]
+    }, {
+        	"_description":"Empedrado",
+            "_enum": ["Empedrado"]
+    }, {
+        	"_description":"Maule",
+            "_enum": ["Maule"]
+    }, {
+        	"_description":"Pelarco",
+            "_enum": ["Pelarco"]
+    }, {
+        	"_description":"Pencahue",
+            "_enum": ["Pencahue"]
+    }, {
+        	"_description":"Río Claro",
+            "_enum": ["Río Claro"]
+    }, {
+        	"_description":"San Clemente",
+            "_enum": ["San Clemente"]
+    }, {
+        	"_description":"San Rafael",
+            "_enum": ["San Rafael"]
+    }, {
+        	"_description":"Cauquenes",
+            "_enum": ["Cauquenes"]
+    }, {
+        	"_description":"Chanco",
+            "_enum": ["Chanco"]
+    }, {
+        	"_description":"Pelluhue",
+            "_enum": ["Pelluhue"]
+    }, {
+        	"_description":"Curicó",
+            "_enum": ["Curicó"]
+    }, {
+        	"_description":"Hualañé",
+            "_enum": ["Hualañé"]
+    }, {
+        	"_description":"Licantén",
+            "_enum": ["Licantén"]
+    }, {
+        	"_description":"Molina",
+            "_enum": ["Molina"]
+    }, {
+        	"_description":"Rauco",
+            "_enum": ["Rauco"]
+    }, {
+        	"_description":"Romeral",
+            "_enum": ["Romeral"]
+    }, {
+        	"_description":"Sagrada Familia",
+            "_enum": ["Sagrada Familia"]
+    }, {
+        	"_description":"Teno",
+            "_enum": ["Teno"]
+    }, {
+        	"_description":"Vichuquén",
+            "_enum": ["Vichuquén"]
+    }, {
+        	"_description":"Linares",
+            "_enum": ["Linares"]
+    }, {
+        	"_description":"Colbún",
+            "_enum": ["Colbún"]
+    }, {
+        	"_description":"Longaví",
+            "_enum": ["Longaví"]
+    }, {
+        	"_description":"Parral",
+            "_enum": ["Parral"]
+    }, {
+        	"_description":"Retiro",
+            "_enum": ["Retiro"]
+    }, {
+        	"_description":"San Javier",
+            "_enum": ["San Javier"]
+    }, {
+        	"_description":"Villa Alegre",
+            "_enum": ["Villa Alegre"]
+    }, {
+        	"_description":"Yerbas Buenas",
+            "_enum": ["Yerbas Buenas"]
+    }]
+}, {
+    "_fieldName":"comuna_VIII",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["VIII"]},
+    "_description": "Comuna",
+    "_default": "Concepción",
+    "_oneOf": [
+        {
+            "_description":"Concepción",
+            "_enum": ["Concepción"]
+    }, {
+        	"_description":"Coronel",
+            "_enum": ["Coronel"]
+    }, {
+        	"_description":"Chiguayante",
+            "_enum": ["Chiguayante"]
+    }, {
+        	"_description":"Florida",
+            "_enum": ["Florida"]
+    }, {
+        	"_description":"Hualqui",
+            "_enum": ["Hualqui"]
+    }, {
+        	"_description":"Lota",
+            "_enum": ["Lota"]
+    }, {
+        	"_description":"Penco",
+            "_enum": ["Penco"]
+    }, {
+        	"_description":"San Pedro de la Paz",
+            "_enum": ["San Pedro de la Paz"]
+    }, {
+        	"_description":"Santa Juana",
+            "_enum": ["Santa Juana"]
+    }, {
+        	"_description":"Talcahuano",
+            "_enum": ["Talcahuano"]
+    }, {
+        	"_description":"Tomé",
+            "_enum": ["Tomé"]
+    }, {
+        	"_description":"Hualpén",
+            "_enum": ["Hualpén"]
+    }, {
+        	"_description":"Lebu",
+            "_enum": ["Lebu"]
+    }, {
+        	"_description":"Arauco",
+            "_enum": ["Arauco"]
+    }, {
+        	"_description":"Cañete",
+            "_enum": ["Cañete"]
+    }, {
+        	"_description":"Contulmo",
+            "_enum": ["Contulmo"]
+    }, {
+        	"_description":"Curanilahue",
+            "_enum": ["Curanilahue"]
+    }, {
+        	"_description":"Los Álamos",
+            "_enum": ["Los Álamos"]
+    }, {
+        	"_description":"Tirúa",
+            "_enum": ["Tirúa"]
+    }, {
+        	"_description":"Los Ángeles",
+            "_enum": ["Los Ángeles"]
+    }, {
+        	"_description":"Antuco",
+            "_enum": ["Antuco"]
+    }, {
+        	"_description":"Cabrero",
+            "_enum": ["Cabrero"]
+    }, {
+        	"_description":"Laja",
+            "_enum": ["Laja"]
+    }, {
+        	"_description":"Mulchén",
+            "_enum": ["Mulchén"]
+    }, {
+        	"_description":"Nacimiento",
+            "_enum": ["Nacimiento"]
+    }, {
+        	"_description":"Negrete",
+            "_enum": ["Negrete"]
+    }, {
+        	"_description":"Quilaco",
+            "_enum": ["Quilaco"]
+    }, {
+        	"_description":"Quilleco",
+            "_enum": ["Quilleco"]
+    }, {
+        	"_description":"San Rosendo",
+            "_enum": ["San Rosendo"]
+    }, {
+        	"_description":"Santa Bárbara",
+            "_enum": ["Santa Bárbara"]
+    }, {
+        	"_description":"Tucapel",
+            "_enum": ["Tucapel"]
+    }, {
+        	"_description":"Yumbel",
+            "_enum": ["Yumbel"]
+    }, {
+        	"_description":"Alto Biobío",
+            "_enum": ["Alto Biobío"]
+    }, {
+        	"_description":"Chillán",
+            "_enum": ["Chillán"]
+    }, {
+        	"_description":"Bulnes",
+            "_enum": ["Bulnes"]
+    }, {
+        	"_description":"Cobquecura",
+            "_enum": ["Cobquecura"]
+    }, {
+        	"_description":"Coelemu",
+            "_enum": ["Coelemu"]
+    }, {
+        	"_description":"Coihueco",
+            "_enum": ["Coihueco"]
+    }, {
+        	"_description":"Chillán Viejo",
+            "_enum": ["Chillán Viejo"]
+    }, {
+        	"_description":"El Carmen",
+            "_enum": ["El Carmen"]
+    }, {
+        	"_description":"Ninhue",
+            "_enum": ["Ninhue"]
+    }, {
+        	"_description":"Ñiquén",
+            "_enum": ["Ñiquén"]
+    }, {
+        	"_description":"Pemuco",
+            "_enum": ["Pemuco"]
+    }, {
+        	"_description":"Pinto",
+            "_enum": ["Pinto"]
+    }, {
+        	"_description":"Portezuelo",
+            "_enum": ["Portezuelo"]
+    }, {
+        	"_description":"Quillón",
+            "_enum": ["Quillón"]
+    }, {
+        	"_description":"Quirihue",
+            "_enum": ["Quirihue"]
+    }, {
+        	"_description":"Ránquil",
+            "_enum": ["Ránquil"]
+    }, {
+        	"_description":"San Carlos",
+            "_enum": ["San Carlos"]
+    }, {
+        	"_description":"San Fabián",
+            "_enum": ["San Fabián"]
+    }, {
+        	"_description":"San Ignacio",
+            "_enum": ["San Ignacio"]
+    }, {
+        	"_description":"San Nicolás",
+            "_enum": ["San Nicolás"]
+    }, {
+        	"_description":"Treguaco",
+            "_enum": ["Treguaco"]
+    }, {
+        	"_description":"Yungay",
+            "_enum": ["Yungay"]
+    }]
+}, {
+    "_fieldName":"comuna_IX",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["IX"]},
+    "_description": "Comuna",
+    "_default": "Temuco",
+    "_oneOf": [
+        {
+            "_description":"Temuco",
+            "_enum": ["Temuco"]
+    }, {
+        	"_description":"Carahu",
+            "_enum": ["Carahu"]
+    }, {
+        	"_description":"Cunco",
+            "_enum": ["Cunco"]
+    }, {
+        	"_description":"Curarrehue",
+            "_enum": ["Curarrehue"]
+    }, {
+        	"_description":"Freire",
+            "_enum": ["Freire"]
+    }, {
+        	"_description":"Galvarin",
+            "_enum": ["Galvarin"]
+    }, {
+        	"_description":"Gorbea",
+            "_enum": ["Gorbea"]
+    }, {
+        	"_description":"Lautaro",
+            "_enum": ["Lautaro"]
+    }, {
+        	"_description":"Loncoche",
+            "_enum": ["Loncoche"]
+    }, {
+        	"_description":"Melipeuco",
+            "_enum": ["Melipeuco"]
+    }, {
+        	"_description":"Nueva Imperial",
+            "_enum": ["Nueva Imperial"]
+    }, {
+        	"_description":"Padre las Casa",
+            "_enum": ["Padre las Casa"]
+    }, {
+        	"_description":"Perquenco",
+            "_enum": ["Perquenco"]
+    }, {
+        	"_description":"Pitrufquén",
+            "_enum": ["Pitrufquén"]
+    }, {
+        	"_description":"Pucó",
+            "_enum": ["Pucó"]
+    }, {
+        	"_description":"Saavedra",
+            "_enum": ["Saavedra"]
+    }, {
+        	"_description":"Teodoro Schmid",
+            "_enum": ["Teodoro Schmid"]
+    }, {
+        	"_description":"Toltén",
+            "_enum": ["Toltén"]
+    }, {
+        	"_description":"Vilcún",
+            "_enum": ["Vilcún"]
+    }, {
+        	"_description":"Villarrica",
+            "_enum": ["Villarrica"]
+    }, {
+        	"_description":"Cholchol",
+            "_enum": ["Cholchol"]
+    }, {
+        	"_description":"Angol",
+            "_enum": ["Angol"]
+    }, {
+        	"_description":"Collipulli",
+            "_enum": ["Collipulli"]
+    }, {
+        	"_description":"Curacautín",
+            "_enum": ["Curacautín"]
+    }, {
+        	"_description":"Ercilla",
+            "_enum": ["Ercilla"]
+    }, {
+        	"_description":"Lonquimay",
+            "_enum": ["Lonquimay"]
+    }, {
+        	"_description":"Los Sauces",
+            "_enum": ["Los Sauces"]
+    }, {
+        	"_description":"Lumaco",
+            "_enum": ["Lumaco"]
+    }, {
+        	"_description":"Purén",
+            "_enum": ["Purén"]
+    }, {
+        	"_description":"Renaico",
+            "_enum": ["Renaico"]
+    }, {
+        	"_description":"Traiguén",
+            "_enum": ["Traiguén"]
+    }, {
+        	"_description":"Victoria",
+            "_enum": ["Victoria"]
+    }]
+}, {
+    "_fieldName":"comuna_XIV",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["XIV"]},
+    "_description": "Comuna",
+    "_default": "Valdivia",
+    "_oneOf": [
+        {
+            "_description":"Valdivia",
+            "_enum": ["Valdivia"]
+    }, {
+        	"_description":"Corral",
+            "_enum": ["Corral"]
+    }, {
+        	"_description":"Lanco",
+            "_enum": ["Lanco"]
+    }, {
+        	"_description":"Los Lagos",
+            "_enum": ["Los Lagos"]
+    }, {
+        	"_description":"Máfil",
+            "_enum": ["Máfil"]
+    }, {
+        	"_description":"Mariquina",
+            "_enum": ["Mariquina"]
+    }, {
+        	"_description":"Paillaco",
+            "_enum": ["Paillaco"]
+    }, {
+        	"_description":"Panguipulli",
+            "_enum": ["Panguipulli"]
+    }, {
+        	"_description":"La Unión",
+            "_enum": ["La Unión"]
+    }, {
+        	"_description":"Futrono",
+            "_enum": ["Futrono"]
+    }, {
+        	"_description":"Lago Ranco",
+            "_enum": ["Lago Ranco"]
+    }, {
+        	"_description":"Río Bueno",
+            "_enum": ["Río Bueno"]
+    }]
+}, {
+    "_fieldName":"comuna_X",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["X"]},
+    "_description": "Comuna",
+    "_default": "Puerto Montt",
+    "_oneOf": [
+        {
+            "_description":"Puerto Montt",
+            "_enum": ["Puerto Montt"]
+    }, {
+        	"_description":"Calbuco",
+            "_enum": ["Calbuco"]
+    }, {
+        	"_description":"Cochamó",
+            "_enum": ["Cochamó"]
+    }, {
+        	"_description":"Fresia",
+            "_enum": ["Fresia"]
+    }, {
+        	"_description":"Frutillar",
+            "_enum": ["Frutillar"]
+    }, {
+        	"_description":"Los Muermos",
+            "_enum": ["Los Muermos"]
+    }, {
+        	"_description":"Llanquihue",
+            "_enum": ["Llanquihue"]
+    }, {
+        	"_description":"Maullín",
+            "_enum": ["Maullín"]
+    }, {
+        	"_description":"Puerto Varas",
+            "_enum": ["Puerto Varas"]
+    }, {
+        	"_description":"Castro",
+            "_enum": ["Castro"]
+    }, {
+        	"_description":"Ancud",
+            "_enum": ["Ancud"]
+    }, {
+        	"_description":"Chonchi",
+            "_enum": ["Chonchi"]
+    }, {
+        	"_description":"Curaco de Vélez",
+            "_enum": ["Curaco de Vélez"]
+    }, {
+        	"_description":"Dalcahue",
+            "_enum": ["Dalcahue"]
+    }, {
+        	"_description":"Puqueldón",
+            "_enum": ["Puqueldón"]
+    }, {
+        	"_description":"Queilén",
+            "_enum": ["Queilén"]
+    }, {
+        	"_description":"Quellón",
+            "_enum": ["Quellón"]
+    }, {
+        	"_description":"Quemchi",
+            "_enum": ["Quemchi"]
+    }, {
+        	"_description":"Quinchao",
+            "_enum": ["Quinchao"]
+    }, {
+        	"_description":"Osorno",
+            "_enum": ["Osorno"]
+    }, {
+        	"_description":"Puerto Octay",
+            "_enum": ["Puerto Octay"]
+    }, {
+        	"_description":"Purranque",
+            "_enum": ["Purranque"]
+    }, {
+        	"_description":"Puyehue",
+            "_enum": ["Puyehue"]
+    }, {
+        	"_description":"Río Negro",
+            "_enum": ["Río Negro"]
+    }, {
+        	"_description":"San Juan de la Costa",
+            "_enum": ["San Juan de la Costa"]
+    }, {
+        	"_description":"San Pablo",
+            "_enum": ["San Pablo"]
+    }, {
+        	"_description":"Chaitén",
+            "_enum": ["Chaitén"]
+    }, {
+        	"_description":"Futaleufú",
+            "_enum": ["Futaleufú"]
+    }, {
+        	"_description":"Hualaihué",
+            "_enum": ["Hualaihué"]
+    }, {
+        	"_description":"Palena",
+            "_enum": ["Palena"]
+    }]
+}, {
+    "_fieldName":"comuna_XI",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["XI"]},
+    "_description": "Comuna",
+    "_default": "Coyhaique",
+    "_oneOf": [
+        {
+            "_description":"Coyhaique",
+            "_enum": ["Coyhaique"]
+    }, {
+        	"_description":"Lago Verde",
+            "_enum": ["Lago Verde"]
+    }, {
+        	"_description":"Aisén",
+            "_enum": ["Aisén"]
+    }, {
+        	"_description":"Cisnes",
+            "_enum": ["Cisnes"]
+    }, {
+        	"_description":"Guaitecas",
+            "_enum": ["Guaitecas"]
+    }, {
+        	"_description":"Cochrane",
+            "_enum": ["Cochrane"]
+    }, {
+        	"_description":"O’Higgins",
+            "_enum": ["O’Higgins"]
+    }, {
+        	"_description":"Tortel",
+            "_enum": ["Tortel"]
+    }, {
+        	"_description":"Chile Chico",
+            "_enum": ["Chile Chico"]
+    }, {
+        	"_description":"Río Ibáñez",
+            "_enum": ["Río Ibáñez"]
+    }]
+}, {
+    "_fieldName":"comuna_XII",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["XII"]},
+    "_description": "Comuna",
+    "_default": "Punta Arenas",
+    "_oneOf": [
+        {
+            "_description":"Punta Arenas",
+            "_enum": ["Punta Arenas"]
+    }, {
+        	"_description":"Laguna Blanca",
+            "_enum": ["Laguna Blanca"]
+    }, {
+        	"_description":"Río Verde",
+            "_enum": ["Río Verde"]
+    }, {
+        	"_description":"San Gregorio",
+            "_enum": ["San Gregorio"]
+    }, {
+        	"_description":"Cabo de Hornos (Ex. Navarino)",
+            "_enum": ["Cabo de Hornos (Ex. Navarino)"]
+    }, {
+        	"_description":"Antártica",
+            "_enum": ["Antártica"]
+    }, {
+        	"_description":"Porvenir",
+            "_enum": ["Porvenir"]
+    }, {
+        	"_description":"Primavera",
+            "_enum": ["Primavera"]
+    }, {
+        	"_description":"Timaukel",
+            "_enum": ["Timaukel"]
+    }, {
+        	"_description":"Natales",
+            "_enum": ["Natales"]
+    }, {
+        	"_description":"Torres del Paine",
+            "_enum": ["Torres del Paine"]
+    }]
+}, {
+    "_fieldName":"comuna_RM",
+    "_type": "string",
+    "_widget": "select",
+    "_visibleIf": {"region": ["RM"]},
+    "_description": "Comuna",
+    "_default": "Santiago",
+    "_oneOf": [
+        {
+            "_description":"Santiago",
+            "_enum": ["Santiago"]
+    }, {
+        	"_description":"Cerrillos",
+            "_enum": ["Cerrillos"]
+    }, {
+        	"_description":"Cerro Navia",
+            "_enum": ["Cerro Navia"]
+    }, {
+        	"_description":"Conchalí",
+            "_enum": ["Conchalí"]
+    }, {
+        	"_description":"El Bosque",
+            "_enum": ["El Bosque"]
+    }, {
+        	"_description":"Estación Central",
+            "_enum": ["Estación Central"]
+    }, {
+        	"_description":"Huechuraba",
+            "_enum": ["Huechuraba"]
+    }, {
+        	"_description":"Independencia",
+            "_enum": ["Independencia"]
+    }, {
+        	"_description":"La Cisterna",
+            "_enum": ["La Cisterna"]
+    }, {
+        	"_description":"La Florida",
+            "_enum": ["La Florida"]
+    }, {
+        	"_description":"La Granja",
+            "_enum": ["La Granja"]
+    }, {
+        	"_description":"La Pintana",
+            "_enum": ["La Pintana"]
+    }, {
+        	"_description":"La Reina",
+            "_enum": ["La Reina"]
+    }, {
+        	"_description":"Las Condes",
+            "_enum": ["Las Condes"]
+    }, {
+        	"_description":"Lo Barnechea",
+            "_enum": ["Lo Barnechea"]
+    }, {
+        	"_description":"Lo Espejo",
+            "_enum": ["Lo Espejo"]
+    }, {
+        	"_description":"Lo Prado",
+            "_enum": ["Lo Prado"]
+    }, {
+        	"_description":"Macul",
+            "_enum": ["Macul"]
+    }, {
+        	"_description":"Maipú",
+            "_enum": ["Maipú"]
+    }, {
+        	"_description":"Ñuñoa",
+            "_enum": ["Ñuñoa"]
+    }, {
+        	"_description":"Pedro Aguirre Cerda",
+            "_enum": ["Pedro Aguirre Cerda"]
+    }, {
+        	"_description":"Peñalolén",
+            "_enum": ["Peñalolén"]
+    }, {
+        	"_description":"Providencia",
+            "_enum": ["Providencia"]
+    }, {
+        	"_description":"Pudahuel",
+            "_enum": ["Pudahuel"]
+    }, {
+        	"_description":"Quilicura",
+            "_enum": ["Quilicura"]
+    }, {
+        	"_description":"Quinta Normal",
+            "_enum": ["Quinta Normal"]
+    }, {
+        	"_description":"Recoleta",
+            "_enum": ["Recoleta"]
+    }, {
+        	"_description":"Renca",
+            "_enum": ["Renca"]
+    }, {
+        	"_description":"San Joaquín",
+            "_enum": ["San Joaquín"]
+    }, {
+        	"_description":"San Miguel",
+            "_enum": ["San Miguel"]
+    }, {
+        	"_description":"San Ramón",
+            "_enum": ["San Ramón"]
+    }, {
+        	"_description":"Vitacura",
+            "_enum": ["Vitacura"]
+    }, {
+        	"_description":"Puente Alto",
+            "_enum": ["Puente Alto"]
+    }, {
+        	"_description":"Pirque",
+            "_enum": ["Pirque"]
+    }, {
+        	"_description":"San José de Maipo",
+            "_enum": ["San José de Maipo"]
+    }, {
+        	"_description":"Colina",
+            "_enum": ["Colina"]
+    }, {
+        	"_description":"Lampa",
+            "_enum": ["Lampa"]
+    }, {
+        	"_description":"Tiltil",
+            "_enum": ["Tiltil"]
+    }, {
+        	"_description":"San Bernardo",
+            "_enum": ["San Bernardo"]
+    }, {
+        	"_description":"Buin",
+            "_enum": ["Buin"]
+    }, {
+        	"_description":"Calera de Tango",
+            "_enum": ["Calera de Tango"]
+    }, {
+        	"_description":"Paine",
+            "_enum": ["Paine"]
+    }, {
+        	"_description":"Melipilla",
+            "_enum": ["Melipilla"]
+    }, {
+        	"_description":"Alhué",
+            "_enum": ["Alhué"]
+    }, {
+        	"_description":"Curacaví",
+            "_enum": ["Curacaví"]
+    }, {
+        	"_description":"María Pinto",
+            "_enum": ["María Pinto"]
+    }, {
+        	"_description":"San Pedro",
+            "_enum": ["San Pedro"]
+    }, {
+        	"_description":"Talagante",
+            "_enum": ["Talagante"]
+    }, {
+        	"_description":"El Monte",
+            "_enum": ["El Monte"]
+    }, {
+        	"_description":"Isla de Maipo",
+            "_enum": ["Isla de Maipo"]
+    }, {
+        	"_description":"Padre Hurtado",
+            "_enum": ["Padre Hurtado"]
+    }, {
+        	"_description":"Peñaflor",
+            "_enum": ["Peñaflor"]
+    }]
+}]
+
+
+/* OBJETO COMUNAS */
+// db.fields.find({"_fieldName": /comuna_.*/},{_id: 1}).pretty();
+
+{
+    "_fieldName":"comuna",
+    "_type": "object",
+    "_description": "Comuna",
+    "_properties": [ 
+        "598d120d27366916e82b2b66",
+        "598d121927366916e82b2b6e",
+        "598d122427366916e82b2b78",
+        "598d123027366916e82b2b82",
+        "598d128127366916e82b2c31",
+        "598d131cee3d283681675bc0",
+        "598d124027366916e82b2b92",
+        "598d125327366916e82b2bb9",
+        "598d125e27366916e82b2bdb",
+        "598d127627366916e82b2bfa",
+        "598d129727366916e82b2c5f",
+        "598d12a027366916e82b2c7e",
+        "598d12aa27366916e82b2c89",
+        "598d128b27366916e82b2c52",
+        "598d120027366916e82b2b61"
+    ]
+}
