@@ -1,27 +1,36 @@
 'use strict';
 
-var jwt = require('jwt-simple');
-var moment = require('moment');
-var secret = process.env.JWT_SECRET || 'covfefe';
+const jwt = require('jsonwebtoken');
+const moment = require('moment');
+const secret = process.env.JWT_SECRET || 'covfefe';
 
+/**
+ * Middleware de autenticación JWT
+ */
 exports.ensureAuth = function (req, res, next) {
 	if (!req.headers.authorization) {
 		return res.status(403).send({ message: 'Sin cabecera de autenticación!' });
 	}
 
-	var token = req.headers.authorization.replace(/['"]+/g, '');
+	const token = req.headers.authorization.replace(/['"]+/g, '');
 
 	try {
-		var payload = jwt.decode(token, secret);
+		const payload = jwt.verify(token, secret);
 
-		if (payload.exp <= moment().unix()) {
+		// Verificar expiración si existe
+		if (payload.exp && payload.exp <= moment().unix()) {
 			return res.status(401).send({ message: 'Token expiró' });
 		}
-	} catch (ex) {
-		return res.status(404).send({ message: 'Token inválido' });
+
+		req.user = payload;
+		next();
+	} catch (err) {
+		if (err.name === 'TokenExpiredError') {
+			return res.status(401).send({ message: 'Token expiró' });
+		}
+		if (err.name === 'JsonWebTokenError') {
+			return res.status(401).send({ message: 'Token inválido' });
+		}
+		return res.status(500).send({ message: 'Error al verificar token' });
 	}
-
-	req.user = payload;
-
-	next();
 };

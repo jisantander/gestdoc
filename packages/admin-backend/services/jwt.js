@@ -1,11 +1,16 @@
 'use strict';
 
-var jwt = require('jwt-simple');
-var moment = require('moment');
-var secret = process.env.JWT_SECRET || 'covfefe';
+const jwt = require('jsonwebtoken');
+const moment = require('moment');
+const secret = process.env.JWT_SECRET || 'covfefe';
 
+/**
+ * Crea un token JWT para un usuario
+ * @param {Object} user - Usuario
+ * @returns {string} Token JWT
+ */
 function createToken(user) {
-	var payload = {
+	const payload = {
 		sub: user._id,
 		name: user.name,
 		surname: user.surname,
@@ -15,14 +20,28 @@ function createToken(user) {
 		image: user.image,
 		company: user.company,
 		iat: moment().unix(),
-		//exp: moment().add(2, 'days').unix(),
+		// Opcional: agregar expiración
+		// exp: moment().add(2, 'days').unix(),
 	};
-	return jwt.encode(payload, secret);
+	
+	return jwt.sign(payload, secret, {
+		// algorithm: 'HS256' // Por defecto
+	});
 }
 
+/**
+ * Verifica y decodifica un token JWT
+ * @param {string} token - Token JWT
+ * @returns {Object} Payload decodificado
+ * @throws {Error} Si el token es inválido
+ */
 function verifyToken(token) {
-	const data = jwt.decode(token, secret);
-	return data;
+	try {
+		const decoded = jwt.verify(token, secret);
+		return decoded;
+	} catch (err) {
+		throw new Error('Token inválido o expirado');
+	}
 }
 
 module.exports = {
