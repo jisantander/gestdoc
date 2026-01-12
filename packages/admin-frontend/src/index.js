@@ -1,23 +1,31 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import * as Sentry from '@sentry/react';
-import { Integrations } from '@sentry/tracing';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 if (process.env.REACT_APP_ENV === 'production') {
 	Sentry.init({
 		dsn: process.env.REACT_APP_SENTRY,
-		integrations: [new Integrations.BrowserTracing()],
+		integrations: [
+			new Sentry.BrowserTracing(),
+			new Sentry.Replay()
+		],
 		autoSessionTracking: false,
-
-		// We recommend adjusting this value in production, or using tracesSampler
-		// for finer control
 		tracesSampleRate: 1.0,
+		replaysSessionSampleRate: 0.1,
+		replaysOnErrorSampleRate: 1.0,
 	});
 }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+// React 18: createRoot instead of ReactDOM.render
+const container = document.getElementById('root');
+const root = createRoot(container);
+root.render(
+	<React.StrictMode>
+		<App />
+	</React.StrictMode>
+);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

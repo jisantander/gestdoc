@@ -1,0 +1,42 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": [
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-console": "off",
+    "no-unused-vars": ["warn", { "argsIgnorePattern": "^_" }],
+    "prefer-const": "warn",
+    "no-var": "error"
+  },
+  "overrides": [
+    {
+      "files": ["packages/admin-frontend/**/*.{js,jsx}", "packages/express-frontend/**/*.{js,jsx}"],
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ],
+      "parserOptions": {
+        "ecmaFeatures": {
+          "jsx": true
+        }
+      }
+    },
+    {
+      "files": ["packages/admin-backend/**/*.js", "packages/express-backend/**/*.js"],
+      "rules": {
+        "no-process-env": "off"
+      }
+    }
+  ]
+}
